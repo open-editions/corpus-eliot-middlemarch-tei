@@ -33,10 +33,7 @@ in this nineteenth year of our blessed union.
 
 <BR/><BR/><BR/>
 
-<div type="chapter" n="0">
-<H3 ALIGN="center">
-PRELUDE
-</H3>
+<div type="chapter" n="0"><head>PRELUDE</head>
 
 <P>
 Who that cares much to know the history of man, and how the mysterious
@@ -93,6 +90,7 @@ long-recognizable deed.
 </P>
 
 <BR/><BR/><BR/>
+</div>
 
 <A NAME="chap01"></A>
 <H2 ALIGN="center">
@@ -111,11 +109,11 @@ MISS BROOKE.
 CHAPTER I.
 </H3>
 
-<PRE>
+<epigraph>
           Since I can do no good because a woman,
           Reach constantly at something that is near it.
                    —The Maid's Tragedy: BEAUMONT AND FLETCHER.
-</PRE>
+</epigraph>
 
 <BR/>
 
@@ -564,27 +562,26 @@ opinions?
 
 <BR/><BR/><BR/>
 
-<A NAME="chap02"></A>
-<H3 ALIGN="center">
-CHAPTER II.
-</H3>
+</div><div type="chapter" n="02"><head>CHAPTER II.</head>
 
-<P CLASS="intro">
-<said>'Dime; no ves aquel caballero que hacia nosotros viene
-sobre un caballo rucio rodado que trae puesto en la cabeza
-un yelmo de oro?' 'Lo que veo y columbro,' respondio Sancho,
-'no es sino un hombre sobre un as no pardo como el mio, que
-trae sobre la cabeza una cosa que relumbra.' 'Pues ese es el
-yelmo de Mambrino,' dijo Don Quijote."—CERVANTES.
-</P>
+    <epigraph>
+        <said>'Dime; no ves aquel caballero que hacia nosotros viene
+            sobre un caballo rucio rodado que trae puesto en la cabeza
+            un yelmo de oro?' 'Lo que veo y columbro,' respondio Sancho,
+            'no es sino un hombre sobre un as no pardo como el mio, que
+            trae sobre la cabeza una cosa que relumbra.' 'Pues ese es el
+            yelmo de Mambrino,' dijo Don Quijote.—CERVANTES.
+        </said>
+    </epigraph>
 
-<P CLASS="intro">
-"'Seest thou not yon cavalier who cometh toward us on a
-dapple-gray steed, and weareth a golden helmet?' 'What I
-see,' answered Sancho, 'is nothing but a man on a gray ass
-like my own, who carries something shiny on his head.' 'Just
-so,' answered Don Quixote: 'and that resplendent object is
-the helmet of Mambrino.'</said>
+    <epigraph>
+        <said>'Seest thou not yon cavalier who cometh toward us on a
+            dapple-gray steed, and weareth a golden helmet?' 'What I
+            see,' answered Sancho, 'is nothing but a man on a gray ass
+            like my own, who carries something shiny on his head.' 'Just
+            so,' answered Don Quixote: 'and that resplendent object is
+            the helmet of Mambrino.'</said>
+    </epigraph>
 </P>
 
 <BR/>
@@ -1037,12 +1034,9 @@ pretended not to expect it.
 
 <BR/><BR/><BR/>
 
-<A NAME="chap03"></A>
-<H3 ALIGN="center">
-CHAPTER III.
-</H3>
+</div><div type="chapter" n="03"><head>CHAPTER III.</head>
 
-<PRE>
+<epigraph>
           <said>Say, goddess, what ensued, when Raphael,
           The affable archangel . . .
                                                      Eve
@@ -1050,7 +1044,7 @@ CHAPTER III.
           With admiration, and deep muse, to hear
           Of things so high and strange.</said>
                                          —Paradise Lost, B. vii.
-</PRE>
+</epigraph>
 
 <BR/>
 
@@ -1568,16 +1562,13 @@ self-satisfaction which was the last doom of ignorance and folly.
 
 <BR/><BR/><BR/>
 
-<A NAME="chap04"></A>
-<H3 ALIGN="center">
-CHAPTER IV.
-</H3>
+</div><div type="chapter" n="04"><head>CHAPTER IV.</head>
 
-<PRE>
+<epigraph>
           1st Gent. Our deeds are fetters that we forge ourselves.
           2d Gent.  Ay, truly: but I think it is the world
                        That brings the iron.
-</PRE>
+</epigraph>
 
 <BR/>
 
@@ -2012,22 +2003,19 @@ less complicated than the revolutions of an irregular solid.
 
 <BR/><BR/><BR/>
 
-<A NAME="chap05"></A>
-<H3 ALIGN="center">
-CHAPTER V.
-</H3>
+</div><div type="chapter" n="05"><head>CHAPTER V.</head>
 
-<P CLASS="intro">
-<said>Hard students are commonly troubled with gowts, catarrhs,
-rheums, cachexia, bradypepsia, bad eyes, stone, and collick,
-crudities, oppilations, vertigo, winds, consumptions, and
-all such diseases as come by over-much sitting: they are
-most part lean, dry, ill-colored &#8230; and all through
-immoderate pains and extraordinary studies. If you will not
-believe the truth of this, look upon great Tostatus and
-Thomas Aquainas' works; and tell me whether those men took
-pains."—BURTON'S Anatomy of Melancholy, P. I, s. 2.
-</P>
+<epigraph>
+    <said>Hard students are commonly troubled with gowts, catarrhs,
+        rheums, cachexia, bradypepsia, bad eyes, stone, and collick,
+        crudities, oppilations, vertigo, winds, consumptions, and
+        all such diseases as come by over-much sitting: they are
+        most part lean, dry, ill-colored &#8230; and all through
+        immoderate pains and extraordinary studies. If you will not
+        believe the truth of this, look upon great Tostatus and
+        Thomas Aquainas' works; and tell me whether those men took
+        pains.—BURTON'S Anatomy of Melancholy, P. I, s. 2.</said>
+</epigraph>
 
 <BR/>
 
@@ -2507,18 +2495,15 @@ morning sermon.
 
 <BR/><BR/><BR/>
 
-<A NAME="chap06"></A>
-<H3 ALIGN="center">
-CHAPTER VI.
-</H3>
+</div><div type="chapter" n="06"><head>CHAPTER VI.</head>
 
-<PRE>
+<epigraph>
           My lady's tongue is like the meadow blades,
           That cut you stroking them with idle hand.
           Nice cutting is her function: she divides
           With spiritual edge the millet-seed,
           And makes intangible savings.
-</PRE>
+</epigraph>
 
 <BR/>
 
@@ -3140,16 +3125,13 @@ our own hurts—not to hurt others.
 
 <BR/><BR/><BR/>
 
-<A NAME="chap07"></A>
-<H3 ALIGN="center">
-CHAPTER VII.
-</H3>
+</div><div type="chapter" n="07"><head>CHAPTER VII.</head>
 
-<PRE>
+<epigraph>
           <said>Piacer e popone
            Vuol la sua stagione.</said>
                  —Italian Proverb.
-</PRE>
+</epigraph>
 
 <BR/>
 
@@ -3357,16 +3339,13 @@ look at a subject from various points of view.
 
 <BR/><BR/><BR/>
 
-<A NAME="chap08"></A>
-<H3 ALIGN="center">
-CHAPTER VIII.
-</H3>
+</div><div type="chapter" n="08"><head>CHAPTER VIII.</head>
 
-<PRE>
+<epigraph>
           <said>Oh, rescue her!  I am her brother now,
           And you her father.  Every gentle maid
           Should have a guardian in each gentleman.</said>
-</PRE>
+</epigraph>
 
 <BR/>
 
@@ -3668,18 +3647,15 @@ confess.
 
 <BR/><BR/><BR/>
 
-<A NAME="chap09"></A>
-<H3 ALIGN="center">
-CHAPTER IX.
-</H3>
+</div><div type="chapter" n="09"><head>CHAPTER IX.</head>
 
-<PRE>
+<epigraph>
               1st Gent. An ancient land in ancient oracles
                            Is called <said>law-thirsty</said>: all the struggle there
                            Was after order and a perfect rule.
                            Pray, where lie such lands now? . . .
               2d Gent.  Why, where they lay of old—in human souls.
-</PRE>
+</epigraph>
 
 <BR/>
 
@@ -4264,15 +4240,12 @@ engagement: cleverness seemed to her more pitiable than ever.
 
 <BR/><BR/><BR/>
 
-<A NAME="chap10"></A>
-<H3 ALIGN="center">
-CHAPTER X.
-</H3>
+</div><div type="chapter" n="10"><head>CHAPTER X.</head>
 
-<P CLASS="intro">
-<said>He had catched a great cold, had he had no other clothes
-to wear than the skin of a bear not yet killed."—FULLER.
-</P>
+    <epigraph>
+        <said>He had catched a great cold, had he had no other clothes
+            to wear than the skin of a bear not yet killed.—FULLER. </said>
+    </epigraph>
 
 <BR/>
 
@@ -4853,18 +4826,15 @@ Mrs. Casaubon, and was on her way to Rome.
 
 <BR/><BR/><BR/>
 
-<A NAME="chap11"></A>
-<H3 ALIGN="center">
-CHAPTER XI.
-</H3>
+</div><div type="chapter" n="11"><head>CHAPTER XI.</head>
 
-<PRE>
+<epigraph>
           <said>But deeds and language such as men do use,
           And persons such as comedy would choose,
           When she would show an image of the times,
           And sport with human follies, not with crimes.</said>
                                                  —BEN JONSON.
-</PRE>
+</epigraph>
 
 <BR/>
 
@@ -5455,16 +5425,13 @@ an irrepressible hopefulness.
 
 <BR/><BR/><BR/>
 
-<A NAME="chap12"></A>
-<H3 ALIGN="center">
-CHAPTER XII.
-</H3>
+</div><div type="chapter" n="12"><head>CHAPTER XII.</head>
 
-<PRE>
+<epigraph>
           <said>He had more tow on his distaffe
            Than Gerveis knew.</said>
                            —CHAUCER.
-</PRE>
+</epigraph>
 
 <BR/>
 
@@ -6530,5 +6497,3 @@ himself the unpleasant business of speaking to Bulstrode.
 </P>
 
 <BR/><BR/><BR/>
-
-
