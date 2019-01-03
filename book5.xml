@@ -54,7 +54,7 @@ had written beforehand.  And he was not at home.
 </P>
 
 <P>
-<said>Is Mrs. Lydgate at home?</said> said Dorothea, who had never, that she knew
+<said who=#"D">Is Mrs. Lydgate at home?</said> said Dorothea, who had never, that she knew
 of, seen Rosamond, but now remembered the fact of the marriage.  Yes,
 Mrs. Lydgate was at home.
 </P>
@@ -111,41 +111,41 @@ substitute for simplicity.
 </P>
 
 <P>
-<said>Thank you very much for allowing me to interrupt you,</said> said Dorothea,
-immediately.  <said>I am anxious to see Mr. Lydgate, if possible, before I
+<said who=#"D">Thank you very much for allowing me to interrupt you,</said> said Dorothea,
+immediately.  <said who=#"D">I am anxious to see Mr. Lydgate, if possible, before I
 go home, and I hoped that you might possibly tell me where I could find
 him, or even allow me to wait for him, if you expect him soon.</said>
 </P>
 
 <P>
-<said>He is at the New Hospital,</said> said Rosamond; <said>I am not sure how soon he
+<said who=#"R">He is at the New Hospital,</said> said Rosamond; <said who=#"R">I am not sure how soon he
 will come home.  But I can send for him.</said>
 </P>
 
 <P>
-<said>Will you let me go and fetch him?</said> said Will Ladislaw, coming forward.
+<said who=#"Lad"Will you let me go and fetch him?</said> said Will Ladislaw, coming forward.
 He had already taken up his hat before Dorothea entered.  She colored
 with surprise, but put out her hand with a smile of unmistakable
 pleasure, saying—
 </P>
 
 <P>
-<said>I did not know it was you: I had no thought of seeing you here.</said>
+<said who=#"D">I did not know it was you: I had no thought of seeing you here.</said>
 </P>
 
 <P>
-<said>May I go to the Hospital and tell Mr. Lydgate that you wish to see
+<said who=#"Lad">May I go to the Hospital and tell Mr. Lydgate that you wish to see
 him?</said> said Will.
 </P>
 
 <P>
-<said>It would be quicker to send the carriage for him,</said> said Dorothea, <said>if
+<said who=#"D">It would be quicker to send the carriage for him,</said> said Dorothea, <said who=#"D">if
 you will be kind enough to give the message to the coachman.</said>
 </P>
 
 <P>
 Will was moving to the door when Dorothea, whose mind had flashed in an
-instant over many connected memories, turned quickly and said, <said>I will
+instant over many connected memories, turned quickly and said, <said who=#"D">I will
 go myself, thank you.  I wish to lose no time before getting home
 again.  I will drive to the Hospital and see Mr. Lydgate there.  Pray
 excuse me, Mrs. Lydgate.  I am very much obliged to you.</said>
@@ -180,7 +180,7 @@ be any unfitness in the fact?  But Will was Mr. Casaubon's relative,
 and one towards whom she was bound to show kindness.  Still there had
 been signs which perhaps she ought to have understood as implying that
 Mr. Casaubon did not like his cousin's visits during his own absence.
-<said>Perhaps I have been mistaken in many things,</said> said poor Dorothea to
+<said who=#"D">Perhaps I have been mistaken in many things,</said> said poor Dorothea to
 herself, while the tears came rolling and she had to dry them quickly.
 She felt confusedly unhappy, and the image of Will which had been so
 clear to her before was mysteriously spoiled.  But the carriage stopped
@@ -230,64 +230,64 @@ at her work-table, said—
 </P>
 
 <P>
-<said>It is always fatal to have music or poetry interrupted.  May I come
+<said who=#"Lad">It is always fatal to have music or poetry interrupted.  May I come
 another day and just finish about the rendering of 'Lungi dal caro
 bene'?</said>
 </P>
 
 <P>
-<said>I shall be happy to be taught,</said> said Rosamond.  <said>But I am sure you
+<said who=#"R">I shall be happy to be taught,</said> said Rosamond.  <said who=#"R">But I am sure you
 admit that the interruption was a very beautiful one.  I quite envy
 your acquaintance with Mrs. Casaubon.  Is she very clever?  She looks
 as if she were.</said>
 </P>
 
 <P>
-<said>Really, I never thought about it,</said> said Will, sulkily.
+<said who=#"Lad">Really, I never thought about it,</said> said Will, sulkily.
 </P>
 
 <P>
-<said>That is just the answer Tertius gave me, when I first asked him if she
+<said who=#"R">That is just the answer Tertius gave me, when I first asked him if she
 were handsome.  What is it that you gentlemen are thinking of when you
 are with Mrs. Casaubon?</said>
 </P>
 
 <P>
-<said>Herself,</said> said Will, not indisposed to provoke the charming Mrs.
-Lydgate.  <said>When one sees a perfect woman, one never thinks of her
+<said who=#"Lad">Herself,</said> said Will, not indisposed to provoke the charming Mrs.
+Lydgate.  <said who=#"Lad">When one sees a perfect woman, one never thinks of her
 attributes—one is conscious of her presence.</said>
 </P>
 
 <P>
-<said>I shall be jealous when Tertius goes to Lowick,</said> said Rosamond,
-dimpling, and speaking with aery lightness.  <said>He will come back and
+<said who=#"R">I shall be jealous when Tertius goes to Lowick,</said> said Rosamond,
+dimpling, and speaking with aery lightness.  <said who=#"R">He will come back and
 think nothing of me.</said>
 </P>
 
 <P>
-<said>That does not seem to have been the effect on Lydgate hitherto.  Mrs.
+<said who=#"Lad">That does not seem to have been the effect on Lydgate hitherto.  Mrs.
 Casaubon is too unlike other women for them to be compared with her.</said>
 </P>
 
 <P>
-<said>You are a devout worshipper, I perceive.  You often see her, I
+<said who=#"R">You are a devout worshipper, I perceive.  You often see her, I
 suppose.</said>
 </P>
 
 <P>
-<said>No,</said> said Will, almost pettishly.  <said>Worship is usually a matter of
+<said who=#"Lad">No,</said> said Will, almost pettishly.  <said who=#"Lad">Worship is usually a matter of
 theory rather than of practice.  But I am practising it to excess just
 at this moment—I must really tear myself away.</said>
 </P>
 
 <P>
-<said>Pray come again some evening: Mr. Lydgate will like to hear the music,
+<said who=#"R">Pray come again some evening: Mr. Lydgate will like to hear the music,
 and I cannot enjoy it so well without him.</said>
 </P>
 
 <P>
 When her husband was at home again, Rosamond said, standing in front of
-him and holding his coat-collar with both her hands, <said>Mr. Ladislaw was
+him and holding his coat-collar with both her hands, <said who=#"R">Mr. Ladislaw was
 here singing with me when Mrs. Casaubon came in.  He seemed vexed.  Do
 you think he disliked her seeing him at our house?  Surely your
 position is more than equal to his—whatever may be his relation to the
@@ -295,25 +295,25 @@ Casaubons.</said>
 </P>
 
 <P>
-<said>No, no; it must be something else if he were really vexed. Ladislaw is
+<said who=#"Lyd">No, no; it must be something else if he were really vexed. Ladislaw is
 a sort of gypsy; he thinks nothing of leather and prunella.</said>
 </P>
 
 <P>
-<said>Music apart, he is not always very agreeable.  Do you like him?</said>
+<said who=#"R">Music apart, he is not always very agreeable.  Do you like him?</said>
 </P>
 
 <P>
-<said>Yes: I think he is a good fellow: rather miscellaneous and
+<said who=#"Lyd">Yes: I think he is a good fellow: rather miscellaneous and
 bric-a-brac, but likable.</said>
 </P>
 
 <P>
-<said>Do you know, I think he adores Mrs. Casaubon.</said>
+<said who=#"R">Do you know, I think he adores Mrs. Casaubon.</said>
 </P>
 
 <P>
-<said>Poor devil!</said> said Lydgate, smiling and pinching his wife's ears.
+<said who=#"Lyd">Poor devil!</said> said Lydgate, smiling and pinching his wife's ears.
 </P>
 
 <P>
@@ -332,31 +332,31 @@ with a husband as crown-prince by your side—himself in fact a
 subject—while the captives look up forever hopeless, losing their
 rest probably, and if their appetite too, so much the better!  But
 Rosamond's romance turned at present chiefly on her crown-prince, and
-it was enough to enjoy his assured subjection.  When he said, <said>Poor
+it was enough to enjoy his assured subjection.  When he said, <said who=#"Lyd">Poor
 devil!</said> she asked, with playful curiosity—
 </P>
 
 <P>
-<said>Why so?</said>
+<said who=#"R">Why so?</said>
 </P>
 
 <P>
-<said>Why, what can a man do when he takes to adoring one of you mermaids?
+<said who=#"R"> Why, what can a man do when he takes to adoring one of you mermaids?
 He only neglects his work and runs up bills.</said>
 </P>
 
 <P>
-<said>I am sure you do not neglect your work.  You are always at the
+<said who=#"R">I am sure you do not neglect your work.  You are always at the
 Hospital, or seeing poor patients, or thinking about some doctor's
 quarrel; and then at home you always want to pore over your microscope
 and phials.  Confess you like those things better than me.</said>
 </P>
 
 <P>
-<said>Haven't you ambition enough to wish that your husband should be
+<said who=#"Lyd">Haven't you ambition enough to wish that your husband should be
 something better than a Middlemarch doctor?</said> said Lydgate, letting his
 hands fall on to his wife's shoulders, and looking at her with
-affectionate gravity.  <said>I shall make you learn my favorite bit from an
+affectionate gravity.  <said who=#"Lyd">I shall make you learn my favorite bit from an
 old poet—
 </P>
 
@@ -373,22 +373,22 @@ myself what I have done.  A man must work, to do that, my pet.</said>
 </P>
 
 <P>
-<said>Of course, I wish you to make discoveries: no one could more wish you
+<said who=#"R">Of course, I wish you to make discoveries: no one could more wish you
 to attain a high position in some better place than Middlemarch.  You
 cannot say that I have ever tried to hinder you from working.  But we
 cannot live like hermits.  You are not discontented with me, Tertius?</said>
 </P>
 
 <P>
-<said>No, dear, no.  I am too entirely contented.</said>
+<said who=#"Lyd">No, dear, no.  I am too entirely contented.</said>
 </P>
 
 <P>
-<said>But what did Mrs. Casaubon want to say to you?</said>
+<said who=#"R">But what did Mrs. Casaubon want to say to you?</said>
 </P>
 
 <P>
-<said>Merely to ask about her husband's health.  But I think she is going to
+<said who=#"Lyd">Merely to ask about her husband's health.  But I think she is going to
 be splendid to our New Hospital: I think she will give us two hundred
 a-year.</said>
 </P>
@@ -415,7 +415,7 @@ furthering a favorite purpose, ventured to say—
 </P>
 
 <P>
-<said>I don't know whether your or Mr. Casaubon's attention has been drawn
+<said who=#"Lyd">I don't know whether your or Mr. Casaubon's attention has been drawn
 to the needs of our New Hospital.  Circumstances have made it seem
 rather egotistic in me to urge the subject; but that is not my fault:
 it is because there is a fight being made against it by the other
@@ -427,18 +427,18 @@ housing.</said>
 </P>
 
 <P>
-<said>Yes, indeed,</said> said Dorothea, brightening.  <said>I shall be quite grateful
+<said who=#"D">Yes, indeed,</said> said Dorothea, brightening.  <said who=#"D">I shall be quite grateful
 to you if you will tell me how I can help to make things a little
 better.  Everything of that sort has slipped away from me since I have
-been married.  I mean,</said> she said, after a moment's hesitation, <said>that
+been married.  I mean,</said> she said, after a moment's hesitation, <said who=#"D">that
 the people in our village are tolerably comfortable, and my mind has
 been too much taken up for me to inquire further.  But here—in such a
 place as Middlemarch—there must be a great deal to be done.</said>
 </P>
 
 <P>
-<said>There is everything to be done,</said> said Lydgate, with abrupt energy.
-<said>And this Hospital is a capital piece of work, due entirely to Mr.
+<said who=#"Lyd">There is everything to be done,</said> said Lydgate, with abrupt energy.
+<said who=#"Lyd">And this Hospital is a capital piece of work, due entirely to Mr.
 Bulstrode's exertions, and in a great degree to his money.  But one man
 can't do everything in a scheme of this sort.  Of course he looked
 forward to help.  And now there's a mean, petty feud set up against the
@@ -446,11 +446,11 @@ thing in the town, by certain persons who want to make it a failure.</said>
 </P>
 
 <P>
-<said>What can be their reasons?</said> said Dorothea, with naive surprise.
+<said who=#"D">What can be their reasons?</said> said Dorothea, with naive surprise.
 </P>
 
 <P>
-<said>Chiefly Mr. Bulstrode's unpopularity, to begin with.  Half the town
+<said who=#"Lyd">Chiefly Mr. Bulstrode's unpopularity, to begin with.  Half the town
 would almost take trouble for the sake of thwarting him.  In this
 stupid world most people never consider that a thing is good to be done
 unless it is done by their own set.  I had no connection with Bulstrode
@@ -465,24 +465,24 @@ of making my profession more generally serviceable.</said>
 </P>
 
 <P>
-<said>I quite agree with you,</said> said Dorothea, at once fascinated by the
-situation sketched in Lydgate's words.  <said>But what is there against Mr.
+<said who=#"D">I quite agree with you,</said> said Dorothea, at once fascinated by the
+situation sketched in Lydgate's words.  <said who=#"D">But what is there against Mr.
 Bulstrode?  I know that my uncle is friendly with him.</said>
 </P>
 
 <P>
-<said>People don't like his religious tone,</said> said Lydgate, breaking off
+<said who=#"Lyd">People don't like his religious tone,</said> said Lydgate, breaking off
 there.
 </P>
 
 <P>
-<said>That is all the stronger reason for despising such an opposition,</said>
+<said who=#"D">That is all the stronger reason for despising such an opposition,</said>
 said Dorothea, looking at the affairs of Middlemarch by the light of
 the great persecutions.
 </P>
 
 <P>
-<said>To put the matter quite fairly, they have other objections to him:—he
+<said who=#"Lyd">To put the matter quite fairly, they have other objections to him:—he
 is masterful and rather unsociable, and he is concerned with trade,
 which has complaints of its own that I know nothing about.  But what
 has that to do with the question whether it would not be a fine thing
@@ -498,11 +498,11 @@ subscriptions.</said>
 </P>
 
 <P>
-<said>How very petty!</said> exclaimed Dorothea, indignantly.
+<said who=#"D">How very petty!</said> exclaimed Dorothea, indignantly.
 </P>
 
 <P>
-<said>I suppose one must expect to fight one's way: there is hardly anything
+<said who=#"Lyd">I suppose one must expect to fight one's way: there is hardly anything
 to be done without it.  And the ignorance of people about here is
 stupendous.  I don't lay claim to anything else than having used some
 opportunities which have not come within everybody's reach; but there
@@ -517,8 +517,8 @@ put my persistence in an equivocal light.</said>
 </P>
 
 <P>
-<said>I am glad you have told me this, Mr. Lydgate,</said> said Dorothea,
-cordially.  <said>I feel sure I can help a little.  I have some money, and
+<said who=#"D">I am glad you have told me this, Mr. Lydgate,</said> said Dorothea,
+cordially.  <said who=#"D">I feel sure I can help a little.  I have some money, and
 don't know what to do with it—that is often an uncomfortable thought
 to me.  I am sure I can spare two hundred a-year for a grand purpose
 like this.  How happy you must be, to know things that you feel sure
@@ -529,7 +529,7 @@ see the good of!</said>
 
 <P>
 There was a melancholy cadence in Dorothea's voice as she spoke these
-last words.  But she presently added, more cheerfully, <said>Pray come to
+last words.  But she presently added, more cheerfully, <said who=#"D">Pray come to
 Lowick and tell us more of this.  I will mention the subject to Mr.
 Casaubon.  I must hasten home now.</said>
 </P>
@@ -550,7 +550,7 @@ the medium of another passion than the love of material property.
 Dorothea told him that she had seen Lydgate, and recited the gist of
 her conversation with him about the Hospital.  Mr. Casaubon did not
 question her further, but he felt sure that she had wished to know what
-had passed between Lydgate and himself. <said>She knows that I know,</said> said
+had passed between Lydgate and himself. <said who=#"C">She knows that I know,</said> said
 the ever-restless voice within; but that increase of tacit knowledge
 only thrust further off any confidence between them.  He distrusted her
 affection; and what loneliness is more lonely than distrust?
@@ -642,7 +642,7 @@ agreeably of opening an account with a new doctor and sending for him
 without stint if the children's temper wanted a dose, occasions when
 the old practitioners were often crusty; and all persons thus inclined
 to employ Lydgate held it likely that he was clever.  Some considered
-that he might do more than others <said>where there was liver;"—at least
+that he might do more than others <said>where there was liver;—at least
 there would be no harm in getting a few bottles of "stuff</said> from him,
 since if these proved useless it would still be possible to return to
 the Purifying Pills, which kept you alive if they did not remove the
@@ -661,7 +661,7 @@ of that impressive order of which the significance is entirely hidden,
 like a statistical amount without a standard of comparison, but with a
 note of exclamation at the end.  The cubic feet of oxygen yearly
 swallowed by a full-grown man—what a shudder they might have created
-in some Middlemarch circles!  <said>Oxygen! nobody knows what that may
+in some Middlemarch circles!  <said who=#"Lyd">Oxygen! nobody knows what that may
 be—is it any wonder the cholera has got to Dantzic?  And yet there are
 people who say quarantine is no good!</said>
 </P>
@@ -685,8 +685,8 @@ long bills for draughts, boluses, and mixtures.
 </P>
 
 <P>
-<said>It is in that way that hard-working medical men may come to be almost
-as mischievous as quacks,</said> said Lydgate, rather thoughtlessly.  <said>To get
+<said who=#"Lyd">It is in that way that hard-working medical men may come to be almost
+as mischievous as quacks,</said> said Lydgate, rather thoughtlessly.  <said who=#"Lyd">To get
 their own bread they must overdose the king's lieges; and that's a bad
 sort of treason, Mr. Mawmsey—undermines the constitution in a fatal
 way.</said>
@@ -710,7 +710,7 @@ lengthening the sum for reckoners sure to go wrong.
 <P>
 Lydgate smiled as he ended his speech, putting his foot into the
 stirrup, and Mr. Mawmsey laughed more than he would have done if he had
-known who the king's lieges were, giving his <said>Good morning, sir,
+known who the king's lieges were, giving his <said who=#"MrMawmsey">Good morning, sir,
 good-morning, sir,</said> with the air of one who saw everything clearly
 enough.  But in truth his views were perturbed.  For years he had been
 paying bills with strictly made items, so that for every half-crown and
@@ -718,7 +718,7 @@ eighteen-pence he was certain something measurable had been delivered.
 He had done this with satisfaction, including it among his
 responsibilities as a husband and father, and regarding a longer bill
 than usual as a dignity worth mentioning.  Moreover, in addition to the
-massive benefit of the drugs to <said>self and family,</said> he had enjoyed the
+massive benefit of the drugs to <said who=#"MrMawmsey">self and family,</said> he had enjoyed the
 pleasure of forming an acute judgment as to their immediate effects, so
 as to give an intelligent statement for the guidance of Mr. Gambit—a
 practitioner just a little lower in status than Wrench or Toller, and
@@ -737,8 +737,8 @@ Minchin.
 </P>
 
 <P>
-<said>Does this Mr. Lydgate mean to say there is no use in taking medicine?</said>
-said Mrs. Mawmsey, who was slightly given to drawling.  <said>I should like
+<said who=#"MrsMawmsey">Does this Mr. Lydgate mean to say there is no use in taking medicine?</said>
+said Mrs. Mawmsey, who was slightly given to drawling.  <said who=#"MrsMawmsey">I should like
 him to tell me how I could bear up at Fair time, if I didn't take
 strengthening medicine for a month beforehand.  Think of what I have to
 provide for calling customers, my dear!"—here Mrs. Mawmsey turned to
@@ -750,7 +750,7 @@ should have told him at once that I knew a little better than that.</said>
 </P>
 
 <P>
-<said>No, no, no,</said> said Mr. Mawmsey; <said>I was not going to tell him my
+<said who=#"MrMawmsey">No, no, no,</said> said Mr. Mawmsey; <said who=#"MrMawmsey">I was not going to tell him my
 opinion.  Hear everything and judge for yourself is my motto.  But he
 didn't know who he was talking to.  I was not to be turned on <I>his</I>
 finger.  People often pretend to tell me things, when they might as
@@ -765,14 +765,14 @@ was of no use.
 </P>
 
 <P>
-<said>Indeed!</said> said he, lifting his eyebrows with cautious surprise.  (He
-was a stout husky man with a large ring on his fourth finger.) <said>How
+<said who=#"MrGambit">Indeed!</said> said he, lifting his eyebrows with cautious surprise.  (He
+was a stout husky man with a large ring on his fourth finger.) <said who=#"MrGambit">How
 will he cure his patients, then?</said>
 </P>
 
 <P>
-<said>That is what I say,</said> returned Mrs. Mawmsey, who habitually gave weight
-to her speech by loading her pronouns.  <said>Does <I>he</I> suppose that people
+<said who=#"MrsMawmsey">That is what I say,</said> returned Mrs. Mawmsey, who habitually gave weight
+to her speech by loading her pronouns.  <said who=#"MrsMawmsey">Does <I>he</I> suppose that people
 will pay him only to come and sit with them and go away again?</said>
 </P>
 
@@ -785,11 +785,11 @@ humorously—
 </P>
 
 <P>
-<said>Well, Lydgate is a good-looking young fellow, you know.</said>
+<said who=#"MrGambit">Well, Lydgate is a good-looking young fellow, you know.</said>
 </P>
 
 <P>
-<said>Not one that I would employ,</said> said Mrs. Mawmsey.  <said><I>Others</I> may do as
+<said who=#"MrsMawmsey">Not one that I would employ,</said> said Mrs. Mawmsey.  <said who=#"MrsMawmsey"><I>Others</I> may do as
 they please.</said>
 </P>
 
@@ -829,15 +829,15 @@ ironical tone.
 </P>
 
 <P>
-He naturally got tired of smiling and saying, <said>Ah!</said> when he was told
+He naturally got tired of smiling and saying, <said who=#"MrToller">Ah!</said> when he was told
 that Mr. Peacock's successor did not mean to dispense medicines; and
 Mr. Hackbutt one day mentioning it over the wine at a dinner-party, Mr.
-Toller said, laughingly, <said>Dibbitts will get rid of his stale drugs,
+Toller said, laughingly, <saidwho=#"MrToller">Dibbitts will get rid of his stale drugs,
 then.  I'm fond of little Dibbitts—I'm glad he's in luck.</said>
 </P>
 
 <P>
-<said>I see your meaning, Toller,</said> said Mr. Hackbutt, <said>and I am entirely of
+<said who=#"Hackbutt">I see your meaning, Toller,</said> said Mr. Hackbutt, <said who=#"Hackbutt">and I am entirely of
 your opinion.  I shall take an opportunity of expressing myself to that
 effect.  A medical man should be responsible for the quality of the
 drugs consumed by his patients.  That is the rationale of the system of
@@ -846,7 +846,7 @@ than this ostentation of reform, where there is no real amelioration.</said>
 </P>
 
 <P>
-<said>Ostentation, Hackbutt?</said> said Mr. Toller, ironically.  <said>I don't see
+<said who=#"MrToller">Ostentation, Hackbutt?</said> said Mr. Toller, ironically.  <said who=#"MrToller">I don't see
 that.  A man can't very well be ostentatious of what nobody believes
 in.  There's no reform in the matter: the question is, whether the
 profit on the drugs is paid to the medical man by the druggist or by
@@ -855,7 +855,7 @@ attendance.</said>
 </P>
 
 <P>
-<said>Ah, to be sure; one of your damned new versions of old humbug,</said> said
+<said who=#"Hawley">Ah, to be sure; one of your damned new versions of old humbug,</said> said
 Mr. Hawley, passing the decanter to Mr. Wrench.
 </P>
 
@@ -865,7 +865,7 @@ party, getting the more irritable in consequence.
 </P>
 
 <P>
-<said>As to humbug, Hawley,</said> he said, <said>that's a word easy to fling about.
+<said who=#"Wrench">As to humbug, Hawley,</said> he said, <said who=#"Wrench">that's a word easy to fling about.
 But what I contend against is the way medical men are fouling their own
 nest, and setting up a cry about the country as if a general
 practitioner who dispenses drugs couldn't be a gentleman.  I throw back
@@ -877,29 +877,29 @@ contradicts me.</said>  Mr. Wrench's voice had become exceedingly sharp.
 </P>
 
 <P>
-<said>I can't oblige you there, Wrench,</said> said Mr. Hawley, thrusting his
+<said who=#"Hawley" >I can't oblige you there, Wrench,</said> said Mr. Hawley, thrusting his
 hands into his trouser-pockets.
 </P>
 
 <P>
-<said>My dear fellow,</said> said Mr. Toller, striking in pacifically, and looking
-at Mr. Wrench, <said>the physicians have their toes trodden on more than we
+<said who=#"MrToller">My dear fellow,</said> said Mr. Toller, striking in pacifically, and looking
+at Mr. Wrench, <said who=#"MrToller">the physicians have their toes trodden on more than we
 have.  If you come to dignity it is a question for Minchin and Sprague.</said>
 </P>
 
 <P>
-<said>Does medical jurisprudence provide nothing against these
+<said who=#"Hackbutt">Does medical jurisprudence provide nothing against these
 infringements?</said> said Mr. Hackbutt, with a disinterested desire to offer
-his lights.  <said>How does the law stand, eh, Hawley?</said>
+his lights.  <said who=#"Hackbutt">How does the law stand, eh, Hawley?</said>
 </P>
 
 <P>
-<said>Nothing to be done there,</said> said Mr. Hawley.  <said>I looked into it for
+<said who=#"Hawley">Nothing to be done there,</said> said Mr. Hawley.  <said who=#"Hawley">I looked into it for
 Sprague.  You'd only break your nose against a damned judge's decision.</said>
 </P>
 
 <P>
-<said>Pooh! no need of law,</said> said Mr. Toller.  <said>So far as practice is
+<said who=#"MrToller">Pooh! no need of law,</said> said Mr. Toller.  <said who=#"MrToller">So far as practice is
 concerned the attempt is an absurdity.  No patient will like
 it—certainly not Peacock's, who have been used to depletion.  Pass the
 wine.</said>
@@ -968,7 +968,7 @@ the squitchineal by eating away.
 <P>
 Meanwhile when Nancy presented herself at the Infirmary, it happened to
 be one of Lydgate's days there.  After questioning and examining her,
-Lydgate said to the house-surgeon in an undertone, <said>It's not tumor:
+Lydgate said to the house-surgeon in an undertone, <said who=#"Lyd">It's not tumor:
 it's cramp.</said>  He ordered her a blister and some steel mixture, and told
 her to go home and rest, giving her at the same time a note to Mrs.
 Larcher, who, she said, was her best employer, to testify that she was
@@ -984,8 +984,8 @@ in her own home, until under his treatment she got quite well and went
 to work again.  But the case continued to be described as one of tumor
 in Churchyard Lane and other streets—nay, by Mrs. Larcher also; for
 when Lydgate's remarkable cure was mentioned to Dr. Minchin, he
-naturally did not like to say, <said>The case was not one of tumor, and I
-was mistaken in describing it as such,</said> but answered, <said>Indeed! ah!  I
+naturally did not like to say, <said who=#"Minchin">The case was not one of tumor, and I
+was mistaken in describing it as such,</said> but answered, <said who=#"Minchin">Indeed! ah!  I
 saw it was a surgical case, not of a fatal kind.</said> He had been inwardly
 annoyed, however, when he had asked at the Infirmary about the woman he
 had recommended two days before, to hear from the house-surgeon, a
@@ -1041,7 +1041,7 @@ that an illness of his was no ordinary occasion for medical science.
 </P>
 
 <P>
-<said>Never fear, sir; you are not speaking to one who is altogether
+<said who=#"MrTrumbull">Never fear, sir; you are not speaking to one who is altogether
 ignorant of the <i>vis medicatrix</i>,</said> said he, with his usual superiority of
 expression, made rather pathetic by difficulty of breathing.  And he
 went without shrinking through his abstinence from drugs, much
@@ -1060,7 +1060,7 @@ in awarding credit to the medical man who had discerned the quality of
 patient he had to deal with.  The auctioneer was not an ungenerous man,
 and liked to give others their due, feeling that he could afford it.
 He had caught the words <said>expectant method,</said> and rang chimes on this and
-other learned phrases to accompany the assurance that Lydgate <said>knew a
+other learned phrases to accompany the assurance that Lydgate <said who=#"MrTrumbull">knew a
 thing or two more than the rest of the doctors—was far better versed
 in the secrets of his profession than the majority of his compeers.</said>
 </P>
@@ -1127,7 +1127,7 @@ town to become a visitor at the Fever Hospital.
 </P>
 
 <P>
-<said>Very well,</said> said Lydgate to Mr. Bulstrode, <said>we have a capital
+<said who=#"Lydgate">Very well,</said> said Lydgate to Mr. Bulstrode, <said who=#"Lydgate">we have a capital
 house-surgeon and dispenser, a clear-headed, neat-handed fellow; we'll
 get Webbe from Crabsley, as good a country practitioner as any of them,
 to come over twice a-week, and in case of any exceptional operation,
@@ -1140,8 +1140,8 @@ spirits.
 </P>
 
 <P>
-<said>I shall not flinch, you may depend upon it, Mr. Lydgate,</said> said Mr.
-Bulstrode.  <said>While I see you carrying out high intentions with vigor,
+<said who=#"B">I shall not flinch, you may depend upon it, Mr. Lydgate,</said> said Mr.
+Bulstrode.  <said who=#"B">While I see you carrying out high intentions with vigor,
 you shall have my unfailing support.  And I have humble confidence that
 the blessing which has hitherto attended my efforts against the spirit
 of evil in this town will not be withdrawn.  Suitable directors to
@@ -1174,20 +1174,20 @@ like mercury from the temples of a patient.
 </P>
 
 <P>
-Mr. Toller remarked one day, smilingly, to Mrs. Taft, that <said>Bulstrode
+Mr. Toller remarked one day, smilingly, to Mrs. Taft, that <said who=#"MrToller">Bulstrode
 had found a man to suit him in Lydgate; a charlatan in religion is sure
 to like other sorts of charlatans.</said>
 </P>
 
 <P>
-<said>Yes, indeed, I can imagine,</said> said Mrs. Taft, keeping the number of
-thirty stitches carefully in her mind all the while; <said>there are so many
+<said who=#"MrsTaft">Yes, indeed, I can imagine,</said> said Mrs. Taft, keeping the number of
+thirty stitches carefully in her mind all the while; <said who=#"MrsTaft">there are so many
 of that sort.  I remember Mr. Cheshire, with his irons, trying to make
 people straight when the Almighty had made them crooked.</said>
 </P>
 
 <P>
-<said>No, no,</said> said Mr. Toller, <said>Cheshire was all right—all fair and above
+<said who=#"MrToller">No, no,</said> said Mr. Toller, <said who=#"MrToller">Cheshire was all right—all fair and above
 board.  But there's St. John Long—that's the kind of fellow we call a
 charlatan, advertising cures in ways nobody knows anything about: a
 fellow who wants to make a noise by pretending to go deeper than other
@@ -1196,7 +1196,7 @@ quicksilver out of it.</said>
 </P>
 
 <P>
-<said>Good gracious! what dreadful trifling with people's constitutions!</said>
+<said who=#"MrsTaft">Good gracious! what dreadful trifling with people's constitutions!</said>
 said Mrs. Taft.
 </P>
 
@@ -1223,8 +1223,8 @@ his good share of success.
 </P>
 
 <P>
-<said>They will not drive me away,</said> he said, talking confidentially in Mr.
-Farebrother's study.  <said>I have got a good opportunity here, for the ends
+<said who=#"Lyd">They will not drive me away,</said> he said, talking confidentially in Mr.
+Farebrother's study.  <said who=#"Lyd">I have got a good opportunity here, for the ends
 I care most about; and I am pretty sure to get income enough for our
 wants.  By-and-by I shall go on as quietly as possible: I have no
 seductions now away from home and work.  And I am more and more
@@ -1234,20 +1234,20 @@ and I have been losing time.</said>
 </P>
 
 <P>
-<said>I have no power of prophecy there,</said> said Mr. Farebrother, who had been
-puffing at his pipe thoughtfully while Lydgate talked; <said>but as to the
+<said who=#"FB">I have no power of prophecy there,</said> said Mr. Farebrother, who had been
+puffing at his pipe thoughtfully while Lydgate talked; <said who=#"FB">but as to the
 hostility in the town, you'll weather it if you are prudent.</said>
 </P>
 
 <P>
-<said>How am I to be prudent?</said> said Lydgate, <said>I just do what comes before me
+<said who=#"Lyd">How am I to be prudent?</said> said Lydgate, <said who=#"Lyd">I just do what comes before me
 to do.  I can't help people's ignorance and spite, any more than
 Vesalius could.  It isn't possible to square one's conduct to silly
 conclusions which nobody can foresee.</said>
 </P>
 
 <P>
-<said>Quite true; I didn't mean that.  I meant only two things.  One is,
+<said who=#"FB">Quite true; I didn't mean that.  I meant only two things.  One is,
 keep yourself as separable from Bulstrode as you can: of course, you
 can go on doing good work of your own by his help; but don't get tied.
 Perhaps it seems like personal feeling in me to say so—and there's a
@@ -1257,7 +1257,7 @@ opinion.</said>
 </P>
 
 <P>
-<said>Bulstrode is nothing to me,</said> said Lydgate, carelessly, <said>except on
+<said who=#"Lyd">Bulstrode is nothing to me,</said> said Lydgate, carelessly, <said who=#"Lyd">except on
 public grounds.  As to getting very closely united to him, I am not
 fond enough of him for that.  But what was the other thing you meant?</said>
 said Lydgate, who was nursing his leg as comfortably as possible, and
@@ -1265,7 +1265,7 @@ feeling in no great need of advice.
 </P>
 
 <P>
-<said>Why, this.  Take care—<i>experto crede</i>—take care not to get hampered
+<said who=#"FB">Why, this.  Take care—<i>experto crede</i>—take care not to get hampered
 about money matters.  I know, by a word you let fall one day, that you
 don't like my playing at cards so much for money.  You are right enough
 there.  But try and keep clear of wanting small sums that you haven't
@@ -1311,12 +1311,12 @@ to the sofa and opposite her husband's face.
 </P>
 
 <P>
-<said>Is that enough music for you, my lord?</said> she said, folding her hands
+<said who=#"R">Is that enough music for you, my lord?</said> she said, folding her hands
 before her and putting on a little air of meekness.
 </P>
 
 <P>
-<said>Yes, dear, if you are tired,</said> said Lydgate, gently, turning his eyes
+<said who=#"Lyd">Yes, dear, if you are tired,</said> said Lydgate, gently, turning his eyes
 and resting them on her, but not otherwise moving.  Rosamond's presence
 at that moment was perhaps no more than a spoonful brought to the lake,
 and her woman's instinct in this matter was not dull.
@@ -1325,7 +1325,7 @@ and her woman's instinct in this matter was not dull.
 <BR/>
 
 <P>
-<said>What is absorbing you?</said> she said, leaning forward and bringing her
+<said who=#"R">What is absorbing you?</said> she said, leaning forward and bringing her
 face nearer to his.
 </P>
 
@@ -1334,44 +1334,44 @@ He moved his hands and placed them gently behind her shoulders.
 </P>
 
 <P>
-<said>I am thinking of a great fellow, who was about as old as I am three
+<said who=#"Lyd"> I am thinking of a great fellow, who was about as old as I am three
 hundred years ago, and had already begun a new era in anatomy.</said>
 </P>
 
 <P>
-<said>I can't guess,</said> said Rosamond, shaking her head.  <said>We used to play at
+<said who=#"R">I can't guess,</said> said Rosamond, shaking her head.  <said who=#"R">We used to play at
 guessing historical characters at Mrs. Lemon's, but not anatomists.</said>
 </P>
 
 <P>
-<said>I'll tell you.  His name was Vesalius.  And the only way he could get
+<said who=#"Lyd">I'll tell you.  His name was Vesalius.  And the only way he could get
 to know anatomy as he did, was by going to snatch bodies at night, from
 graveyards and places of execution.</said>
 </P>
 
 <P>
-<said>Oh!</said> said Rosamond, with a look of disgust on her pretty face, <said>I am
+<said who=#"R">Oh!</said> said Rosamond, with a look of disgust on her pretty face, <said who=#"R">I am
 very glad you are not Vesalius.  I should have thought he might find
 some less horrible way than that.</said>
 </P>
 
 <P>
-<said>No, he couldn't,</said> said Lydgate, going on too earnestly to take much
-notice of her answer.  <said>He could only get a complete skeleton by
+<said who=#"Lyd">No, he couldn't,</said> said Lydgate, going on too earnestly to take much
+notice of her answer.  <said who=#"Lyd">He could only get a complete skeleton by
 snatching the whitened bones of a criminal from the gallows, and
 burying them, and fetching them away by bits secretly, in the dead of
 night.</said>
 </P>
 
 <P>
-<said>I hope he is not one of your great heroes,</said> said Rosamond, half
-playfully, half anxiously, <said>else I shall have you getting up in the
+<said who=#"R">I hope he is not one of your great heroes,</said> said Rosamond, half
+playfully, half anxiously, <said who=#"R">else I shall have you getting up in the
 night to go to St. Peter's churchyard.  You know how angry you told me
 the people were about Mrs. Goby.  You have enemies enough already.</said>
 </P>
 
 <P>
-<said>So had Vesalius, Rosy.  No wonder the medical fogies in Middlemarch
+<said who=#"Lyd">So had Vesalius, Rosy.  No wonder the medical fogies in Middlemarch
 are jealous, when some of the greatest doctors living were fierce upon
 Vesalius because they had believed in Galen, and he showed that Galen
 was wrong.  They called him a liar and a poisonous monster.  But the
@@ -1380,60 +1380,60 @@ them.</said>
 </P>
 
 <P>
-<said>And what happened to him afterwards?</said> said Rosamond, with some
+<said who=#"R">And what happened to him afterwards?</said> said Rosamond, with some
 interest.
 </P>
 
 <P>
-<said>Oh, he had a good deal of fighting to the last.  And they did
+<said who=#"Lyd">Oh, he had a good deal of fighting to the last.  And they did
 exasperate him enough at one time to make him burn a good deal of his
 work.  Then he got shipwrecked just as he was coming from Jerusalem to
 take a great chair at Padua.  He died rather miserably.</said>
 </P>
 
 <P>
-There was a moment's pause before Rosamond said, <said>Do you know, Tertius,
+There was a moment's pause before Rosamond said, <said who=#"R">Do you know, Tertius,
 I often wish you had not been a medical man.</said>
 </P>
 
 <P>
-<said>Nay, Rosy, don't say that,</said> said Lydgate, drawing her closer to him.
-<said>That is like saying you wish you had married another man.</said>
+<said who=#"Lyd">Nay, Rosy, don't say that,</said> said Lydgate, drawing her closer to him.
+<said who=#"Lyd">That is like saying you wish you had married another man.</said>
 </P>
 
 <P>
-<said>Not at all; you are clever enough for anything: you might easily have
+<said who=#"R">Not at all; you are clever enough for anything: you might easily have
 been something else.  And your cousins at Quallingham all think that
 you have sunk below them in your choice of a profession.</said>
 </P>
 
 <P>
-<said>The cousins at Quallingham may go to the devil!</said> said Lydgate, with
-scorn.  <said>It was like their impudence if they said anything of the sort
+<said who=#"Lyd">The cousins at Quallingham may go to the devil!</said> said Lydgate, with
+scorn.  <said who=#"Lyd">It was like their impudence if they said anything of the sort
 to you.</said>
 </P>
 
 <P>
-<said>Still,</said> said Rosamond, <said>I do <I>not</I> think it is a nice profession,
+<said who=#"R">Still,</said> said Rosamond, <said who=#"R">I do <I>not</I> think it is a nice profession,
 dear.</said>  We know that she had much quiet perseverance in her opinion.
 </P>
 
 <P>
-<said>It is the grandest profession in the world, Rosamond,</said> said Lydgate,
-gravely.  <said>And to say that you love me without loving the medical man
+<said who=#"Lyd">It is the grandest profession in the world, Rosamond,</said> said Lydgate,
+gravely.  <said who=#"Lyd">And to say that you love me without loving the medical man
 in me, is the same sort of thing as to say that you like eating a peach
 but don't like its flavor.  Don't say that again, dear, it pains me.</said>
 </P>
 
 <P>
-<said>Very well, Doctor Grave-face,</said> said Rosy, dimpling, <said>I will declare in
+<said who=#"R">Very well, Doctor Grave-face,</said> said Rosy, dimpling, <said who=#"R">I will declare in
 future that I dote on skeletons, and body-snatchers, and bits of things
 in phials, and quarrels with everybody, that end in your dying
 miserably.</said>
 </P>
 
 <P>
-<said>No, no, not so bad as that,</said> said Lydgate, giving up remonstrance and
+<said who=#"Lyd">No, no, not so bad as that,</said> said Lydgate, giving up remonstrance and
 petting her resignedly.
 </P>
 
@@ -1470,8 +1470,8 @@ his strength at the hustings.
 </P>
 
 <P>
-<said>Things will grow and ripen as if it were a comet year,</said> said Will.
-<said>The public temper will soon get to a cometary heat, now the question
+<said who=#"Lad">Things will grow and ripen as if it were a comet year,</said> said Will.
+<said who=#"Lad">The public temper will soon get to a cometary heat, now the question
 of Reform has set in.  There is likely to be another election before
 long, and by that time Middlemarch will have got more ideas into its
 head.  What we have to work at now is the 'Pioneer' and political
@@ -1479,8 +1479,8 @@ meetings.</said>
 </P>
 
 <P>
-<said>Quite right, Ladislaw; we shall make a new thing of opinion here,</said>
-said Mr. Brooke.  <said>Only I want to keep myself independent about Reform,
+<said who=#"MB">Quite right, Ladislaw; we shall make a new thing of opinion here,</said>
+said Mr. Brooke.  <said who=#"MB">Only I want to keep myself independent about Reform,
 you know; I don't want to go too far.  I want to take up
 Wilberforce's and Romilly's line, you know, and work at Negro
 Emancipation, Criminal Law—that kind of thing.  But of course I should
@@ -1488,20 +1488,20 @@ support Grey.</said>
 </P>
 
 <P>
-<said>If you go in for the principle of Reform, you must be prepared to take
-what the situation offers,</said> said Will.  <said>If everybody pulled for his
+<said who=#"Lad">If you go in for the principle of Reform, you must be prepared to take
+what the situation offers,</said> said Will.  <said who=#"Lad">If everybody pulled for his
 own bit against everybody else, the whole question would go to tatters.</said>
 </P>
 
 <P>
-<said>Yes, yes, I agree with you—I quite take that point of view.  I should
+<said who=#"MB">Yes, yes, I agree with you—I quite take that point of view.  I should
 put it in that light.  I should support Grey, you know.  But I don't
 want to change the balance of the constitution, and I don't think Grey
 would.</said>
 </P>
 
 <P>
-<said>But that is what the country wants,</said> said Will.  <said>Else there would be
+<said who=#"Lad">But that is what the country wants,</said> said Will.  <said who=#"Lad">Else there would be
 no meaning in political unions or any other movement that knows what
 it's about.  It wants to have a House of Commons which is not weighted
 with nominees of the landed class, but with representatives of the
@@ -1511,20 +1511,20 @@ thunder.</said>
 </P>
 
 <P>
-<said>That is fine, Ladislaw: that is the way to put it.  Write that down,
+<said who=#"MB">That is fine, Ladislaw: that is the way to put it.  Write that down,
 now.  We must begin to get documents about the feeling of the country,
 as well as the machine-breaking and general distress.</said>
 </P>
 
 <P>
-<said>As to documents,</said> said Will, <said>a two-inch card will hold plenty.  A few
+<said who=#"Lad">As to documents,</said> said Will, <said who=#"Lad">a two-inch card will hold plenty.  A few
 rows of figures are enough to deduce misery from, and a few more will
 show the rate at which the political determination of the people is
 growing.</said>
 </P>
 
 <P>
-<said>Good: draw that out a little more at length, Ladislaw.  That is an
+<said who=#"MB">Good: draw that out a little more at length, Ladislaw.  That is an
 idea, now: write it out in the 'Pioneer.' Put the figures and deduce
 the misery, you know; and put the other figures and deduce—and so on.
 You have a way of putting things.  Burke, now:—when I think of Burke,
@@ -1537,7 +1537,7 @@ them.</said>
 </P>
 
 <P>
-<said>Pocket-boroughs would be a fine thing,</said> said Ladislaw, <said>if they were
+<said who=#"Lad">Pocket-boroughs would be a fine thing,</said> said Ladislaw, <said who=#"Lad">if they were
 always in the right pocket, and there were always a Burke at hand.</said>
 </P>
 
@@ -1550,7 +1550,7 @@ thing, even a chance bray of applause falling exactly in time is rather
 fortifying.  Will felt that his literary refinements were usually
 beyond the limits of Middlemarch perception; nevertheless, he was
 beginning thoroughly to like the work of which when he began he had
-said to himself rather languidly, <said>Why not?"—and he studied the
+said to himself rather languidly, <said who=#"Lad">Why not?</said>—and he studied the
 political situation with as ardent an interest as he had ever given to
 poetic metres or mediaevalism.  It is undeniable that but for the
 desire to be where Dorothea was, and perhaps the want of knowing what
@@ -1558,8 +1558,8 @@ else to do, Will would not at this time have been meditating on the
 needs of the English people or criticising English statesmanship: he
 would probably have been rambling in Italy sketching plans for several
 dramas, trying prose and finding it too jejune, trying verse and
-finding it too artificial, beginning to copy "bits</said> from old pictures,
-leaving off because they were <said>no good,</said> and observing that, after all,
+finding it too artificial, beginning to copy <said who=#"Lad"> bits</said> from old pictures,
+leaving off because they were <said who=#"Lad">no good,</said> and observing that, after all,
 self-culture was the principal point; while in politics he would have
 been sympathizing warmly with liberty and progress in general.  Our
 sense of duty must often wait for some work which shall take the place
@@ -1587,7 +1587,7 @@ retreats to his Middlemarch lodgings, which gave variety to his life.
 </P>
 
 <P>
-<said>Shift the pegs a little,</said> he said to himself, <said>and Mr. Brooke might be
+<said who=#"Lad">Shift the pegs a little,</said> he said to himself, <said who=#"Lad">and Mr. Brooke might be
 in the Cabinet, while I was Under-Secretary. That is the common order
 of things: the little waves make the large ones and are of the same
 pattern.  I am better here than in the sort of life Mr. Casaubon would
@@ -1604,7 +1604,7 @@ wherever he went.  That sort of enjoyment had been disturbed when he
 had felt some new distance between himself and Dorothea in their
 accidental meeting at Lydgate's, and his irritation had gone out
 towards Mr. Casaubon, who had declared beforehand that Will would lose
-caste.  <said>I never had any caste,</said> he would have said, if that prophecy
+caste.  <said who=#"Lad">I never had any caste,</said> he would have said, if that prophecy
 had been uttered to him, and the quick blood would have come and gone
 like breath in his transparent skin.  But it is one thing to like
 defiance, and another thing to like its consequences.
@@ -1620,7 +1620,7 @@ Casaubon would have nothing to do with him.</said>
 </P>
 
 <P>
-<said>Brooke has taken him up,</said> said Mr. Hawley, <said>because that is what no
+<said who=#"Hawley">Brooke has taken him up,</said> said Mr. Hawley, <said who=#"Hawley">because that is what no
 man in his senses could have expected.  Casaubon has devilish good
 reasons, you may be sure, for turning the cold shoulder on a young
 fellow whose bringing-up he paid for.  Just like Brooke—one of those
@@ -1636,21 +1636,21 @@ speech when he got on to a platform—as he did whenever he had an
 opportunity, speaking with a facility which cast reflections on solid
 Englishmen generally.  It was disgusting to Keck to see a strip of a
 fellow, with light curls round his head, get up and speechify by the
-hour against institutions <said>which had existed when he was in his
+hour against institutions <said who=#"Keck">which had existed when he was in his
 cradle.</said>  And in a leading article of the <said>Trumpet,</said> Keck characterized
-Ladislaw's speech at a Reform meeting as <said>the violence of an
+Ladislaw's speech at a Reform meeting as <said who=#"Keck">the violence of an
 energumen—a miserable effort to shroud in the brilliancy of fireworks
 the daring of irresponsible statements and the poverty of a knowledge
 which was of the cheapest and most recent description.</said>
 </P>
 
 <P>
-<said>That was a rattling article yesterday, Keck,</said> said Dr. Sprague, with
-sarcastic intentions.  <said>But what is an energumen?</said>
+<said who=#"Sprague">That was a rattling article yesterday, Keck,</said> said Dr. Sprague, with
+sarcastic intentions.  <said who=#"Sprague">But what is an energumen?</said>
 </P>
 
 <P>
-<said>Oh, a term that came up in the French Revolution,</said> said Keck.
+<said who=#"Keck">Oh, a term that came up in the French Revolution,</said> said Keck.
 </P>
 
 <P>
@@ -1738,13 +1738,13 @@ said to Will, who had started up and gone to the table—
 </P>
 
 <P>
-<said>It's no use your puffing Brooke as a reforming landlord, Ladislaw:
+<said who=#"Lyd">It's no use your puffing Brooke as a reforming landlord, Ladislaw:
 they only pick the more holes in his coat in the 'Trumpet.'</said>
 </P>
 
 <P>
-<said>No matter; those who read the 'Pioneer' don't read the 'Trumpet,'</said>
-said Will, swallowing his tea and walking about.  <said>Do you suppose the
+<said who=#"Lad">No matter; those who read the 'Pioneer' don't read the 'Trumpet,'</said>
+said Will, swallowing his tea and walking about.  <said who=#"Lad">Do you suppose the
 public reads with a view to its own conversion?  We should have a
 witches' brewing with a vengeance then—'Mingle, mingle, mingle,
 mingle, You that mingle may'—and nobody would know which side he was
@@ -1752,56 +1752,56 @@ going to take.</said>
 </P>
 
 <P>
-<said>Farebrother says, he doesn't believe Brooke would get elected if the
+<said who=#"Lyd">Farebrother says, he doesn't believe Brooke would get elected if the
 opportunity came: the very men who profess to be for him would bring
 another member out of the bag at the right moment.</said>
 </P>
 
 <P>
-<said>There's no harm in trying.  It's good to have resident members.</said>
+<said who=#"Lad">There's no harm in trying.  It's good to have resident members.</said>
 </P>
 
 <P>
-<said>Why?</said> said Lydgate, who was much given to use that inconvenient word
+<said who=#"Lyd">Why?</said> said Lydgate, who was much given to use that inconvenient word
 in a curt tone.
 </P>
 
 <P>
-<said>They represent the local stupidity better,</said> said Will, laughing, and
-shaking his curls; <said>and they are kept on their best behavior in the
+<said who=#"Lad">They represent the local stupidity better,</said> said Will, laughing, and
+shaking his curls; <said who=#"Lad">and they are kept on their best behavior in the
 neighborhood.  Brooke is not a bad fellow, but he has done some good
 things on his estate that he never would have done but for this
 Parliamentary bite.</said>
 </P>
 
 <P>
-<said>He's not fitted to be a public man,</said> said Lydgate, with contemptuous
-decision.  <said>He would disappoint everybody who counted on him: I can see
+<said who=#"Lyd">He's not fitted to be a public man,</said> said Lydgate, with contemptuous
+decision.  <said who=#"Lyd">He would disappoint everybody who counted on him: I can see
 that at the Hospital.  Only, there Bulstrode holds the reins and drives
 him.</said>
 </P>
 
 <P>
-<said>That depends on how you fix your standard of public men,</said> said Will.
-<said>He's good enough for the occasion: when the people have made up their
+<said who=#"Lad">That depends on how you fix your standard of public men,</said> said Will.
+<said who=#"Lad">He's good enough for the occasion: when the people have made up their
 mind as they are making it up now, they don't want a man—they only
 want a vote.</said>
 </P>
 
 <P>
-<said>That is the way with you political writers, Ladislaw—crying up a
+<said who=#"Lyd">That is the way with you political writers, Ladislaw—crying up a
 measure as if it were a universal cure, and crying up men who are a
 part of the very disease that wants curing.</said>
 </P>
 
 <P>
-<said>Why not?  Men may help to cure themselves off the face of the land
+<said who=#"Lad">Why not?  Men may help to cure themselves off the face of the land
 without knowing it,</said> said Will, who could find reasons impromptu, when
 he had not thought of a question beforehand.
 </P>
 
 <P>
-<said>That is no excuse for encouraging the superstitious exaggeration of
+<said who=#"Lyd">That is no excuse for encouraging the superstitious exaggeration of
 hopes about this particular measure, helping the cry to swallow it
 whole and to send up voting popinjays who are good for nothing but to
 carry it.  You go against rottenness, and there is nothing more
@@ -1810,7 +1810,7 @@ by a political hocus-pocus.</said>
 </P>
 
 <P>
-<said>That's very fine, my dear fellow.  But your cure must begin somewhere,
+<said who=#"Lad">That's very fine, my dear fellow.  But your cure must begin somewhere,
 and put it that a thousand things which debase a population can never
 be reformed without this particular reform to begin with.  Look what
 Stanley said the other day—that the House had been tinkering long
@@ -1825,13 +1825,13 @@ upholder of the wrong.</said>
 </P>
 
 <P>
-<said>That general talk about a particular case is mere question begging,
+<said who=#"Lyd">That general talk about a particular case is mere question begging,
 Ladislaw.  When I say, I go in for the dose that cures, it doesn't
 follow that I go in for opium in a given case of gout.</said>
 </P>
 
 <P>
-<said>I am not begging the question we are upon—whether we are to try for
+<said who=#"Lad">I am not begging the question we are upon—whether we are to try for
 nothing till we find immaculate men to work with.  Should you go on
 that plan?  If there were one man who would carry you a medical reform
 and another who would oppose it, should you inquire which had the
@@ -1839,20 +1839,20 @@ better motives or even the better brains?</said>
 </P>
 
 <P>
-<said>Oh, of course,</said> said Lydgate, seeing himself checkmated by a move
-which he had often used himself, <said>if one did not work with such men as
+<said who=#"Lyd">Oh, of course,</said> said Lydgate, seeing himself checkmated by a move
+which he had often used himself, <said who=#"Lyd">if one did not work with such men as
 are at hand, things must come to a dead-lock. Suppose the worst opinion
 in the town about Bulstrode were a true one, that would not make it
 less true that he has the sense and the resolution to do what I think
 ought to be done in the matters I know and care most about; but that is
 the only ground on which I go with him,</said> Lydgate added rather proudly,
-bearing in mind Mr. Farebrother's remarks.  <said>He is nothing to me
+bearing in mind Mr. Farebrother's remarks.  <said who=#"Lyd">He is nothing to me
 otherwise; I would not cry him up on any personal ground—I would keep
 clear of that.</said>
 </P>
 
 <P>
-<said>Do you mean that I cry up Brooke on any personal ground?</said> said Will
+<said who=#"Lad">Do you mean that I cry up Brooke on any personal ground?</said> said Will
 Ladislaw, nettled, and turning sharp round.  For the first time he felt
 offended with Lydgate; not the less so, perhaps, because he would have
 declined any close inquiry into the growth of his relation to Mr.
@@ -1860,7 +1860,7 @@ Brooke.
 </P>
 
 <P>
-<said>Not at all,</said> said Lydgate, <said>I was simply explaining my own action.  I
+<said who=#"Lyd">Not at all,</said> said Lydgate, <said who=#"Lyd">I was simply explaining my own action.  I
 meant that a man may work for a special end with others whose motives
 and general course are equivocal, if he is quite sure of his personal
 independence, and that he is not working for his private
@@ -1868,27 +1868,27 @@ interest—either place or money.</said>
 </P>
 
 <P>
-<said>Then, why don't you extend your liberality to others?</said> said Will,
-still nettled.  <said>My personal independence is as important to me as
+<said who=#"Lad">Then, why don't you extend your liberality to others?</said> said Will,
+still nettled.  <said who=#"Lad">My personal independence is as important to me as
 yours is to you.  You have no more reason to imagine that I have
 personal expectations from Brooke, than I have to imagine that you have
 personal expectations from Bulstrode.  Motives are points of honor, I
 suppose—nobody can prove them.  But as to money and place in the
-world,</said> Will ended, tossing back his head, <said>I think it is pretty clear
+world,</said> Will ended, tossing back his head, <said who=#"Lad">I think it is pretty clear
 that I am not determined by considerations of that sort.</said>
 </P>
 
 <P>
-<said>You quite mistake me, Ladislaw,</said> said Lydgate, surprised.  He had been
+<said who=#"Lyd">You quite mistake me, Ladislaw,</said> said Lydgate, surprised.  He had been
 preoccupied with his own vindication, and had been blind to what
-Ladislaw might infer on his own account.  <said>I beg your pardon for
+Ladislaw might infer on his own account.  <said who=#"Lyd">I beg your pardon for
 unintentionally annoying you.  In fact, I should rather attribute to
 you a romantic disregard of your own worldly interests.  On the
 political question, I referred simply to intellectual bias.</said>
 </P>
 
 <P>
-<said>How very unpleasant you both are this evening!</said> said Rosamond.  <said>I
+<said who=#"R">How very unpleasant you both are this evening!</said> said Rosamond.  <said who=#"R">I
 cannot conceive why money should have been referred to.  Politics and
 Medicine are sufficiently disagreeable to quarrel upon.  You can both
 of you go on quarrelling with all the world and with each other on
@@ -1901,37 +1901,37 @@ bell, and then crossing to her work-table.
 </P>
 
 <P>
-<said>Poor Rosy!</said> said Lydgate, putting out his hand to her as she was
-passing him.  <said>Disputation is not amusing to cherubs.  Have some music.
+<said who=#"Lyd">Poor Rosy!</said> said Lydgate, putting out his hand to her as she was
+passing him.  <said who=#"Lyd">Disputation is not amusing to cherubs.  Have some music.
 Ask Ladislaw to sing with you.</said>
 </P>
 
 <P>
-When Will was gone Rosamond said to her husband, <said>What put you out of
+When Will was gone Rosamond said to her husband, <said who=#"R">What put you out of
 temper this evening, Tertius?</said>
 </P>
 
 <P>
-<said>Me?  It was Ladislaw who was out of temper.  He is like a bit of
+<said who=#"Lyd">Me?  It was Ladislaw who was out of temper.  He is like a bit of
 tinder.</said>
 </P>
 
 <P>
-<said>But I mean, before that.  Something had vexed you before you came in,
+<said who=#"R">But I mean, before that.  Something had vexed you before you came in,
 you looked cross.  And that made you begin to dispute with Mr.
 Ladislaw.  You hurt me very much when you look so, Tertius.</said>
 </P>
 
 <P>
-<said>Do I?  Then I am a brute,</said> said Lydgate, caressing her penitently.
+<said who=#"Lyd">Do I?  Then I am a brute,</said> said Lydgate, caressing her penitently.
 </P>
 
 <P>
-<said>What vexed you?</said>
+<said who=#"R">What vexed you?</said>
 </P>
 
 <P>
-<said>Oh, outdoor things—business.</said>  It was really a letter insisting on
+<said who=#"Lyd">Oh, outdoor things—business.</said>  It was really a letter insisting on
 the payment of a bill for furniture.  But Rosamond was expecting to
 have a baby, and Lydgate wished to save her from any perturbation.
 </P>
@@ -2038,7 +2038,7 @@ and this was always associated with the other ground of
 irritation—that notwithstanding his sacrifice of dignity for
 Dorothea's sake, he could hardly ever see her.  Whereupon, not being
 able to contradict these unpleasant facts, he contradicted his own
-strongest bias and said, "I am a fool.</said>
+strongest bias and said, <said who=#"Lad"> I am a fool.</said>
 </P>
 
 <P>
@@ -2181,7 +2181,7 @@ might have a cold.
 <P>
 Mr. Casaubon did not preach that morning, and there was no change in
 Will's situation until the blessing had been pronounced and every one
-rose.  It was the fashion at Lowick for "the betters</said> to go out first.
+rose.  It was the fashion at Lowick for <said>the betters</said> to go out first.
 With a sudden determination to break the spell that was upon him, Will
 looked straight at Mr. Casaubon.  But that gentleman's eyes were on the
 button of the pew-door, which he opened, allowing Dorothea to pass, and
@@ -2293,7 +2293,7 @@ well-known volume, which was a table of contents to all the others.
 </P>
 
 <P>
-<said>You will oblige me, my dear,</said> he said, seating himself, <said>if instead of
+<said who=#"C">You will oblige me, my dear,</said> he said, seating himself, <said who=#"C">if instead of
 other reading this evening, you will go through this aloud, pencil in
 hand, and at each point where I say 'mark,' will make a cross with your
 pencil.  This is the first step in a sifting process which I have long
@@ -2310,14 +2310,14 @@ namely, to demand much interest and labor from her.
 </P>
 
 <P>
-After she had read and marked for two hours, he said, <said>We will take the
+After she had read and marked for two hours, he said, <said who=#"C">We will take the
 volume up-stairs—and the pencil, if you please—and in case of
 reading in the night, we can pursue this task.  It is not wearisome to
 you, I trust, Dorothea?</said>
 </P>
 
 <P>
-<said>I prefer always reading what you like best to hear,</said> said Dorothea,
+<said who=#"D">I prefer always reading what you like best to hear,</said> said Dorothea,
 who told the simple truth; for what she dreaded was to exert herself in
 reading or anything else which left him as joyless as ever.
 </P>
@@ -2342,40 +2342,40 @@ Dorothea would awake, but not liking to rouse her by more direct means.
 </P>
 
 <P>
-<said>Are you ill, Edward?</said> she said, rising immediately.
+<said who=#"D">Are you ill, Edward?</said> she said, rising immediately.
 </P>
 
 <P>
-<said>I felt some uneasiness in a reclining posture.  I will sit here for a
-time.</said>  She threw wood on the fire, wrapped herself up, and said, <said>You
+<said who=#"C">I felt some uneasiness in a reclining posture.  I will sit here for a
+time.</said>  She threw wood on the fire, wrapped herself up, and said, <said who=#"D">You
 would like me to read to you?</said>
 </P>
 
 <P>
-<said>You would oblige me greatly by doing so, Dorothea,</said> said Mr. Casaubon,
-with a shade more meekness than usual in his polite manner.  <said>I am
+<said who=#"C">You would oblige me greatly by doing so, Dorothea,</said> said Mr. Casaubon,
+with a shade more meekness than usual in his polite manner.  <said who=#"C">I am
 wakeful: my mind is remarkably lucid.</said>
 </P>
 
 <P>
-<said>I fear that the excitement may be too great for you,</said> said Dorothea,
+<said who=#"D">I fear that the excitement may be too great for you,</said> said Dorothea,
 remembering Lydgate's cautions.
 </P>
 
 <P>
-<said>No, I am not conscious of undue excitement.  Thought is easy.</said>
+<said who=#"C">No, I am not conscious of undue excitement.  Thought is easy.</said>
 Dorothea dared not insist, and she read for an hour or more on the same
 plan as she had done in the evening, but getting over the pages with
 more quickness.  Mr. Casaubon's mind was more alert, and he seemed to
 anticipate what was coming after a very slight verbal indication,
-saying, <said>That will do—mark that"—or "Pass on to the next head—I omit
+saying, <said who=#"D">That will do—mark that</said>—or <said who=#"C"> Pass on to the next head—I omit
 the second excursus on Crete.</said> Dorothea was amazed to think of the
 bird-like speed with which his mind was surveying the ground where it
 had been creeping for years.  At last he said—
 </P>
 
 <P>
-<said>Close the book now, my dear.  We will resume our work to-morrow.  I
+<said who=#"C">Close the book now, my dear.  We will resume our work to-morrow.  I
 have deferred it too long, and would gladly see it completed.  But you
 observe that the principle on which my selection is made, is to give
 adequate, and not disproportionate illustration to each of the theses
@@ -2384,26 +2384,26 @@ perceived that distinctly, Dorothea?</said>
 </P>
 
 <P>
-<said>Yes,</said> said Dorothea, rather tremulously.  She felt sick at heart.
+<said who=#"D">Yes,</said> said Dorothea, rather tremulously.  She felt sick at heart.
 </P>
 
 <P>
-<said>And now I think that I can take some repose,</said> said Mr. Casaubon.  He
+<said who=#"C">And now I think that I can take some repose,</said> said Mr. Casaubon.  He
 laid down again and begged her to put out the lights.  When she had
 lain down too, and there was a darkness only broken by a dull glow on
 the hearth, he said—
 </P>
 
 <P>
-<said>Before I sleep, I have a request to make, Dorothea.</said>
+<said who=#"C">Before I sleep, I have a request to make, Dorothea.</said>
 </P>
 
 <P>
-<said>What is it?</said> said Dorothea, with dread in her mind.
+<said who=#"D">What is it?</said> said Dorothea, with dread in her mind.
 </P>
 
 <P>
-<said>It is that you will let me know, deliberately, whether, in case of my
+<said who=#"C">It is that you will let me know, deliberately, whether, in case of my
 death, you will carry out my wishes: whether you will avoid doing what
 I should deprecate, and apply yourself to do what I should desire.</said>
 </P>
@@ -2415,38 +2415,38 @@ make a new yoke for her.  She did not answer immediately.
 </P>
 
 <P>
-<said>You refuse?</said> said Mr. Casaubon, with more edge in his tone.
+<said who=#"C">You refuse?</said> said Mr. Casaubon, with more edge in his tone.
 </P>
 
 <P>
-<said>No, I do not yet refuse,</said> said Dorothea, in a clear voice, the need of
-freedom asserting itself within her; <said>but it is too solemn—I think it
+<said who=#"C">No, I do not yet refuse,</said> said Dorothea, in a clear voice, the need of
+freedom asserting itself within her; <said who=#"C">but it is too solemn—I think it
 is not right—to make a promise when I am ignorant what it will bind me
 to.  Whatever affection prompted I would do without promising.</said>
 </P>
 
 <P>
-<said>But you would use your own judgment: I ask you to obey mine; you
+<said who=#"C">But you would use your own judgment: I ask you to obey mine; you
 refuse.</said>
 </P>
 
 <P>
-<said>No, dear, no!</said> said Dorothea, beseechingly, crushed by opposing fears.
-<said>But may I wait and reflect a little while?  I desire with my whole
+<said who=#"D">No, dear, no!</said> said Dorothea, beseechingly, crushed by opposing fears.
+<said who=#"D">But may I wait and reflect a little while?  I desire with my whole
 soul to do what will comfort you; but I cannot give any pledge
 suddenly—still less a pledge to do I know not what.</said>
 </P>
 
 <P>
-<said>You cannot then confide in the nature of my wishes?</said>
+<said who=#"C">You cannot then confide in the nature of my wishes?</said>
 </P>
 
 <P>
-<said>Grant me till to-morrow,</said> said Dorothea, beseechingly.
+<said who=#"D">Grant me till to-morrow,</said> said Dorothea, beseechingly.
 </P>
 
 <P>
-<said>Till to-morrow then,</said> said Mr. Casaubon.
+<said who=#"C"> Till to-morrow then,</said> said Mr. Casaubon.
 </P>
 
 <P>
@@ -2506,7 +2506,7 @@ treadmill fruitlessly?
 </P>
 
 <P>
-And yet, could she deny him?  Could she say, <said>I refuse to content this
+And yet, could she deny him?  Could she say, <said who=#"D">I refuse to content this
 pining hunger?</said>  It would be refusing to do for him dead, what she was
 almost sure to do for him living.  If he lived as Lydgate had said he
 might, for fifteen years or more, her life would certainly be spent in
@@ -2526,8 +2526,8 @@ that was the end for which his failing life was to be eked out by hers.
 </P>
 
 <P>
-And now, if she were to say, <said>No! if you die, I will put no finger to
-your work"—it seemed as if she would be crushing that bruised heart.
+And now, if she were to say, <said who=#"D">No! if you die, I will put no finger to
+your work</said>—it seemed as if she would be crushing that bruised heart.
 </P>
 
 <P>
@@ -2539,23 +2539,23 @@ her that he had read prayers, breakfasted, and was in the library.
 </P>
 
 <P>
-"I never saw you look so pale, madam,</said> said Tantripp, a solid-figured
+<said who=#"Tantripp"> I never saw you look so pale, madam,</said> said Tantripp, a solid-figured
 woman who had been with the sisters at Lausanne.
 </P>
 
 <P>
-<said>Was I ever high-colored, Tantripp?</said> said Dorothea, smiling faintly.
+<said who=#"D">Was I ever high-colored, Tantripp?</said> said Dorothea, smiling faintly.
 </P>
 
 <P>
-<said>Well, not to say high-colored, but with a bloom like a Chiny rose.
+<said who=#"Tantripp">Well, not to say high-colored, but with a bloom like a Chiny rose.
 But always smelling those leather books, what can be expected?  Do rest
 a little this morning, madam.  Let me say you are ill and not able to
 go into that close library.</said>
 </P>
 
 <P>
-<said>Oh no, no! let me make haste,</said> said Dorothea.  <said>Mr. Casaubon wants me
+<said who=#"D">Oh no, no! let me make haste,</said> said Dorothea.  <said who=#"D">Mr. Casaubon wants me
 particularly.</said>
 </P>
 
@@ -2570,29 +2570,29 @@ table where he had been placing some books, and said—
 </P>
 
 <P>
-<said>I was waiting for your appearance, my dear.  I had hoped to set to
+<said who=#"C">I was waiting for your appearance, my dear.  I had hoped to set to
 work at once this morning, but I find myself under some indisposition,
 probably from too much excitement yesterday.  I am going now to take a
 turn in the shrubbery, since the air is milder.</said>
 </P>
 
 <P>
-<said>I am glad to hear that,</said> said Dorothea.  <said>Your mind, I feared, was too
+<said who=#"D">I am glad to hear that,</said> said Dorothea.  <said who=#"D">Your mind, I feared, was too
 active last night.</said>
 </P>
 
 <P>
-<said>I would fain have it set at rest on the point I last spoke of,
+<said who=#"C">I would fain have it set at rest on the point I last spoke of,
 Dorothea.  You can now, I hope, give me an answer.</said>
 </P>
 
 <P>
-<said>May I come out to you in the garden presently?</said> said Dorothea, winning
+<said who=#"D">May I come out to you in the garden presently?</said> said Dorothea, winning
 a little breathing space in that way.
 </P>
 
 <P>
-<said>I shall be in the Yew-tree Walk for the next half-hour,</said> said Mr.
+<said who=#"C">I shall be in the Yew-tree Walk for the next half-hour,</said> said Mr.
 Casaubon, and then he left her.
 </P>
 
@@ -2600,7 +2600,7 @@ Casaubon, and then he left her.
 Dorothea, feeling very weary, rang and asked Tantripp to bring her some
 wraps.  She had been sitting still for a few minutes, but not in any
 renewal of the former conflict: she simply felt that she was going to
-say <said>Yes</said> to her own doom: she was too weak, too full of dread at the
+say <said who=#"D">Yes</said> to her own doom: she was too weak, too full of dread at the
 thought of inflicting a keen-edged blow on her husband, to do anything
 but submit completely.  She sat still and let Tantripp put on her
 bonnet and shawl, a passivity which was unusual with her, for she liked
@@ -2608,7 +2608,7 @@ to wait on herself.
 </P>
 
 <P>
-<said>God bless you, madam!</said> said Tantripp, with an irrepressible movement
+<said who=#"Tantripp">God bless you, madam!</said> said Tantripp, with an irrepressible movement
 of love towards the beautiful, gentle creature for whom she felt unable
 to do anything more, now that she had finished tying the bonnet.
 </P>
@@ -2621,11 +2621,11 @@ shrubbery.
 </P>
 
 <P>
-<said>I wish every book in that library was built into a caticom for your
+<said who=#"Tantripp">I wish every book in that library was built into a caticom for your
 master,</said> said Tantripp to Pratt, the butler, finding him in the
 breakfast-room. She had been at Rome, and visited the antiquities, as
 we know; and she always declined to call Mr. Casaubon anything but
-<said>your master,</said> when speaking to the other servants.
+<said who=#"Tantripp">your master,</said> when speaking to the other servants.
 </P>
 
 <P>
@@ -2657,25 +2657,25 @@ his face on each side.
 </P>
 
 <P>
-<said>He exhausted himself last night,</said> Dorothea said to herself, thinking
+<said who=#"D">He exhausted himself last night,</said> Dorothea said to herself, thinking
 at first that he was asleep, and that the summer-house was too damp a
 place to rest in.  But then she remembered that of late she had seen
 him take that attitude when she was reading to him, as if he found it
 easier than any other; and that he would sometimes speak, as well as
 listen, with his face down in that way.  She went into the summerhouse
-and said, <said>I am come, Edward; I am ready.</said>
+and said, <said who=#"D">I am come, Edward; I am ready.</said>
 </P>
 
 <P>
 He took no notice, and she thought that he must be fast asleep.  She
-laid her hand on his shoulder, and repeated, <said>I am ready!</said> Still he was
+laid her hand on his shoulder, and repeated, <said who=#"D">I am ready!</said> Still he was
 motionless; and with a sudden confused fear, she leaned down to him,
 took off his velvet cap, and leaned her cheek close to his head, crying
 in a distressed tone—
 </P>
 
 <P>
-<said>Wake, dear, wake!  Listen to me.  I am come to answer.</said> But Dorothea
+<said who=#"D">Wake, dear, wake!  Listen to me.  I am come to answer.</said> But Dorothea
 never gave her answer.
 </P>
 
@@ -2689,7 +2689,7 @@ husband.
 </P>
 
 <P>
-<said>Tell him I shall go to him soon: I am ready to promise.  Only,
+<said who=#"D">Tell him I shall go to him soon: I am ready to promise.  Only,
 thinking about it was so dreadful—it has made me ill.  Not very ill.
 I shall soon be better.  Go and tell him.</said>
 </P>
@@ -2712,7 +2712,7 @@ But the silence in her husband's ear was never more to be broken.
 <BR/>
 
 <P>
-<said>I wish to God we could hinder Dorothea from knowing this,</said> said Sir
+<said who=#"JC">I wish to God we could hinder Dorothea from knowing this,</said> said Sir
 James Chettam, with a little frown on his brow, and an expression of
 intense disgust about his mouth.
 </P>
@@ -2724,18 +2724,18 @@ buried, and Dorothea was not yet able to leave her room.
 </P>
 
 <P>
-<said>That would be difficult, you know, Chettam, as she is an executrix,
+<said who=#"MB">That would be difficult, you know, Chettam, as she is an executrix,
 and she likes to go into these things—property, land, that kind of
 thing.  She has her notions, you know,</said> said Mr. Brooke, sticking his
 eye-glasses on nervously, and exploring the edges of a folded paper
-which he held in his hand; <said>and she would like to act—depend upon it,
+which he held in his hand; <said who=#"MB">and she would like to act—depend upon it,
 as an executrix Dorothea would want to act.  And she was twenty-one
 last December, you know.  I can hinder nothing.</said>
 </P>
 
 <P>
 Sir James looked at the carpet for a minute in silence, and then
-lifting his eyes suddenly fixed them on Mr. Brooke, saying, <said>I will
+lifting his eyes suddenly fixed them on Mr. Brooke, saying, <said who=#"JC">I will
 tell you what we can do.  Until Dorothea is well, all business must be
 kept from her, and as soon as she is able to be moved she must come to
 us.  Being with Celia and the baby will be the best thing in the world
@@ -2750,17 +2750,17 @@ straightened his back with a little shake before he replied.
 </P>
 
 <P>
-<said>That is easily said, Chettam, easily said, you know.</said>
+<said who=#"MB">That is easily said, Chettam, easily said, you know.</said>
 </P>
 
 <P>
-<said>My dear sir,</said> persisted Sir James, restraining his indignation within
-respectful forms, <said>it was you who brought him here, and you who keep
+<said who=#"JC">My dear sir,</said> persisted Sir James, restraining his indignation within
+respectful forms, <said who=#"JC">it was you who brought him here, and you who keep
 him here—I mean by the occupation you give him.</said>
 </P>
 
 <P>
-<said>Yes, but I can't dismiss him in an instant without assigning reasons,
+<said who=#"MB">Yes, but I can't dismiss him in an instant without assigning reasons,
 my dear Chettam.  Ladislaw has been invaluable, most satisfactory.  I
 consider that I have done this part of the country a service by
 bringing him—by bringing him, you know.</said>  Mr. Brooke ended with a nod,
@@ -2768,7 +2768,7 @@ turning round to give it.
 </P>
 
 <P>
-<said>It's a pity this part of the country didn't do without him, that's all
+<said who=#"JC">It's a pity this part of the country didn't do without him, that's all
 I have to say about it.  At any rate, as Dorothea's brother-in-law, I
 feel warranted in objecting strongly to his being kept here by any
 action on the part of her friends.  You admit, I hope, that I have a
@@ -2780,13 +2780,13 @@ Sir James was getting warm.
 </P>
 
 <P>
-<said>Of course, my dear Chettam, of course.  But you and I have different
+<said who=#"MB">Of course, my dear Chettam, of course.  But you and I have different
 ideas—different—</said>
 </P>
 
 <P>
-<said>Not about this action of Casaubon's, I should hope,</said> interrupted Sir
-James.  <said>I say that he has most unfairly compromised Dorothea.  I say
+<said who=#"JC">Not about this action of Casaubon's, I should hope,</said> interrupted Sir
+James.  <said who=#"JC">I say that he has most unfairly compromised Dorothea.  I say
 that there never was a meaner, more ungentlemanly action than this—a
 codicil of this sort to a will which he made at the time of his
 marriage with the knowledge and reliance of her family—a positive
@@ -2794,7 +2794,7 @@ insult to Dorothea!</said>
 </P>
 
 <P>
-<said>Well, you know, Casaubon was a little twisted about Ladislaw.
+<said who=#"MB">Well, you know, Casaubon was a little twisted about Ladislaw.
 Ladislaw has told me the reason—dislike of the bent he took, you
 know—Ladislaw didn't think much of Casaubon's notions, Thoth and
 Dagon—that sort of thing: and I fancy that Casaubon didn't like the
@@ -2804,16 +2804,16 @@ know the world.</said>
 </P>
 
 <P>
-<said>It's all very well for Ladislaw to put that color on it,</said> said Sir
-James.  <said>But I believe Casaubon was only jealous of him on Dorothea's
+<said who=#"JC">It's all very well for Ladislaw to put that color on it,</said> said Sir
+James.  <said who=#"JC"> But I believe Casaubon was only jealous of him on Dorothea's
 account, and the world will suppose that she gave him some reason; and
 that is what makes it so abominable—coupling her name with this young
 fellow's.</said>
 </P>
 
 <P>
-<said>My dear Chettam, it won't lead to anything, you know,</said> said Mr.
-Brooke, seating himself and sticking on his eye-glass again.  <said>It's all
+<said who=#"MB">My dear Chettam, it won't lead to anything, you know,</said> said Mr.
+Brooke, seating himself and sticking on his eye-glass again.  <said who=#"MB">It's all
 of a piece with Casaubon's oddity.  This paper, now, 'Synoptical
 Tabulation' and so on, 'for the use of Mrs. Casaubon,' it was locked up
 in the desk with the will.  I suppose he meant Dorothea to publish his
@@ -2822,17 +2822,17 @@ studies uncommonly.</said>
 </P>
 
 <P>
-<said>My dear sir,</said> said Sir James, impatiently, <said>that is neither here nor
+<said who=#"JC">My dear sir,</said> said Sir James, impatiently, <said who=#"JC">that is neither here nor
 there.  The question is, whether you don't see with me the propriety of
 sending young Ladislaw away?</said>
 </P>
 
 <P>
-<said>Well, no, not the urgency of the thing.  By-and-by, perhaps, it may
+<said who=#"MB">Well, no, not the urgency of the thing.  By-and-by, perhaps, it may
 come round.  As to gossip, you know, sending him away won't hinder
 gossip.  People say what they like to say, not what they have chapter
 and verse for,</said> said Mr Brooke, becoming acute about the truths that
-lay on the side of his own wishes.  <said>I might get rid of Ladislaw up to
+lay on the side of his own wishes.  <said who=#"MB">I might get rid of Ladislaw up to
 a certain point—take away the 'Pioneer' from him, and that sort of
 thing; but I couldn't send him out of the country if he didn't choose
 to go—didn't choose, you know.</said>
@@ -2845,14 +2845,14 @@ amenity, was an exasperating form of obstinacy.
 </P>
 
 <P>
-<said>Good God!</said> said Sir James, with as much passion as he ever showed,
-<said>let us get him a post; let us spend money on him.  If he could go in
+<said who=#"JC">Good God!</said> said Sir James, with as much passion as he ever showed,
+<said who=#"JC">let us get him a post; let us spend money on him.  If he could go in
 the suite of some Colonial Governor!  Grampus might take him—and I
 could write to Fulke about it.</said>
 </P>
 
 <P>
-<said>But Ladislaw won't be shipped off like a head of cattle, my dear
+<said who=#"MB">But Ladislaw won't be shipped off like a head of cattle, my dear
 fellow; Ladislaw has his ideas.  It's my opinion that if he were to
 part from me to-morrow, you'd only hear the more of him in the country.
 With his talent for speaking and drawing up documents, there are few
@@ -2860,13 +2860,13 @@ men who could come up to him as an agitator—an agitator, you know.</said>
 </P>
 
 <P>
-<said>Agitator!</said> said Sir James, with bitter emphasis, feeling that the
+<said who=#"JC">Agitator!</said> said Sir James, with bitter emphasis, feeling that the
 syllables of this word properly repeated were a sufficient exposure of
 its hatefulness.
 </P>
 
 <P>
-<said>But be reasonable, Chettam.  Dorothea, now.  As you say, she had
+<said who=#"MB">But be reasonable, Chettam.  Dorothea, now.  As you say, she had
 better go to Celia as soon as possible.  She can stay under your roof,
 and in the mean time things may come round quietly.  Don't let us be
 firing off our guns in a hurry, you know.  Standish will keep our
@@ -2875,38 +2875,38 @@ happen to carry off Ladislaw—without my doing anything, you know.</said>
 </P>
 
 <P>
-<said>Then I am to conclude that you decline to do anything?</said>
+<said who=#"JC">Then I am to conclude that you decline to do anything?</said>
 </P>
 
 <P>
-<said>Decline, Chettam?—no—I didn't say decline.  But I really don't see
+<said who=#"MB">Decline, Chettam?—no—I didn't say decline.  But I really don't see
 what I could do.  Ladislaw is a gentleman.</said>
 </P>
 
 <P>
-<said>I am glad to hear it!</said> said Sir James, his irritation making him
-forget himself a little.  <said>I am sure Casaubon was not.</said>
+<said who=#"JC">I am glad to hear it!</said> said Sir James, his irritation making him
+forget himself a little.  <said who=#"JC">I am sure Casaubon was not.</said>
 </P>
 
 <P>
-<said>Well, it would have been worse if he had made the codicil to hinder
+<said who=#"MB">Well, it would have been worse if he had made the codicil to hinder
 her from marrying again at all, you know.</said>
 </P>
 
 <P>
-<said>I don't know that,</said> said Sir James.  <said>It would have been less
+<said who=#"JC">I don't know that,</said> said Sir James.  <said who=#"JC">It would have been less
 indelicate.</said>
 </P>
 
 <P>
-<said>One of poor Casaubon's freaks!  That attack upset his brain a little.
+<said who=#"MB">One of poor Casaubon's freaks!  That attack upset his brain a little.
 It all goes for nothing.  She doesn't <I>want</I> to marry Ladislaw.</said>
 </P>
 
 <P>
-<said>But this codicil is framed so as to make everybody believe that she
+<said who=#"JC">But this codicil is framed so as to make everybody believe that she
 did.  I don't believe anything of the sort about Dorothea,</said> said Sir
-James—then frowningly, <said>but I suspect Ladislaw.  I tell you frankly,
+James—then frowningly, <said who=#"JC">but I suspect Ladislaw.  I tell you frankly,
 I suspect Ladislaw.</said>
 </P>
 
@@ -2925,13 +2925,13 @@ he did not mean to contend further, and said, still with some heat—
 </P>
 
 <P>
-<said>Well, I can only say that I think Dorothea was sacrificed once,
+<said who=#"JC">Well, I can only say that I think Dorothea was sacrificed once,
 because her friends were too careless.  I shall do what I can, as her
 brother, to protect her now.</said>
 </P>
 
 <P>
-<said>You can't do better than get her to Freshitt as soon as possible,
+<said who=#"MB">You can't do better than get her to Freshitt as soon as possible,
 Chettam.  I approve that plan altogether,</said> said Mr. Brooke, well
 pleased that he had won the argument.  It would have been highly
 inconvenient to him to part with Ladislaw at that time, when a
@@ -2989,7 +2989,7 @@ pretty certain Parliament would be dissolved forthwith, Dorothea said—
 </P>
 
 <P>
-"Uncle, it is right now that I should consider who is to have the
+<said who=#"D">Uncle, it is right now that I should consider who is to have the
 living at Lowick.  After Mr. Tucker had been provided for, I never
 heard my husband say that he had any clergyman in his mind as a
 successor to himself.  I think I ought to have the keys now and go to
@@ -2998,7 +2998,7 @@ would throw light on his wishes.</said>
 </P>
 
 <P>
-<said>No hurry, my dear,</said> said Mr. Brooke, quietly.  <said>By-and-by, you know,
+<said who=#"MB">No hurry, my dear,</said> said Mr. Brooke, quietly.  <said who=#"MB">By-and-by, you know,
 you can go, if you like.  But I cast my eyes over things in the desks
 and drawers—there was nothing—nothing but deep subjects, you
 know—besides the will.  Everything can be done by-and-by. As to the
@@ -3009,7 +3009,7 @@ man, I believe—the sort of thing that would suit you, my dear.</said>
 </P>
 
 <P>
-<said>I should like to have fuller knowledge about him, uncle, and judge for
+<said who=#"D">I should like to have fuller knowledge about him, uncle, and judge for
 myself, if Mr. Casaubon has not left any expression of his wishes.  He
 has perhaps made some addition to his will—there may be some
 instructions for me,</said> said Dorothea, who had all the while had this
@@ -3017,8 +3017,8 @@ conjecture in her mind with relation to her husband's work.
 </P>
 
 <P>
-<said>Nothing about the rectory, my dear—nothing,</said> said Mr. Brooke, rising
-to go away, and putting out his hand to his nieces: <said>nor about his
+<said who=#"MB">Nothing about the rectory, my dear—nothing,</said> said Mr. Brooke, rising
+to go away, and putting out his hand to his nieces: <said who=#"MB">nor about his
 researches, you know.  Nothing in the will.</said>
 </P>
 
@@ -3027,16 +3027,16 @@ Dorothea's lip quivered.
 </P>
 
 <P>
-<said>Come, you must not think of these things yet, my dear.  By-and-by, you
+<said who=#"MB">Come, you must not think of these things yet, my dear.  By-and-by, you
 know.</said>
 </P>
 
 <P>
-<said>I am quite well now, uncle; I wish to exert myself.</said>
+<said who=#"D">I am quite well now, uncle; I wish to exert myself.</said>
 </P>
 
 <P>
-<said>Well, well, we shall see.  But I must run away now—I have no end of
+<said who=#"MB">Well, well, we shall see.  But I must run away now—I have no end of
 work now—it's a crisis—a political crisis, you know.  And here is
 Celia and her little man—you are an aunt, you know, now, and I am a
 sort of grandfather,</said> said Mr. Brooke, with placid hurry, anxious to
@@ -3050,16 +3050,16 @@ cast her eyes down meditatively on her crossed hands.
 </P>
 
 <P>
-<said>Look, Dodo! look at him!  Did you ever see anything like that?</said> said
+<said who=#"Celia">Look, Dodo! look at him!  Did you ever see anything like that?</said> said
 Celia, in her comfortable staccato.
 </P>
 
 <P>
-<said>What, Kitty?</said> said Dorothea, lifting her eyes rather absently.
+<said who=#"D">What, Kitty?</said> said Dorothea, lifting her eyes rather absently.
 </P>
 
 <P>
-<said>What? why, his upper lip; see how he is drawing it down, as if he
+<said who=#"Celia">What? why, his upper lip; see how he is drawing it down, as if he
 meant to make a face.  Isn't it wonderful!  He may have his little
 thoughts.  I wish nurse were here.  Do look at him.</said>
 </P>
@@ -3070,25 +3070,25 @@ Dorothea's cheek as she looked up and tried to smile.
 </P>
 
 <P>
-<said>Don't be sad, Dodo; kiss baby.  What are you brooding over so?  I am
+<said who=#"Celia">Don't be sad, Dodo; kiss baby.  What are you brooding over so?  I am
 sure you did everything, and a great deal too much.  You should be
 happy now.</said>
 </P>
 
 <P>
-<said>I wonder if Sir James would drive me to Lowick.  I want to look over
+<said who=#"D">I wonder if Sir James would drive me to Lowick.  I want to look over
 everything—to see if there were any words written for me.</said>
 </P>
 
 <P>
-<said>You are not to go till Mr. Lydgate says you may go.  And he has not
+<said who=#"Celia">You are not to go till Mr. Lydgate says you may go.  And he has not
 said so yet (here you are, nurse; take baby and walk up and down the
 gallery). Besides, you have got a wrong notion in your head as usual,
 Dodo—I can see that: it vexes me.</said>
 </P>
 
 <P>
-<said>Where am I wrong, Kitty?</said> said Dorothea, quite meekly.  She was almost
+<said who=#"D">Where am I wrong, Kitty?</said> said Dorothea, quite meekly.  She was almost
 ready now to think Celia wiser than herself, and was really wondering
 with some fear what her wrong notion was.  Celia felt her advantage,
 and was determined to use it.  None of them knew Dodo as well as she
@@ -3099,8 +3099,8 @@ error, in general, was a mere lack of that central poising force.
 </P>
 
 <P>
-<said>I can see what you are thinking of as well as can be, Dodo,</said> said
-Celia.  <said>You are wanting to find out if there is anything uncomfortable
+<said who=#"Celia">I can see what you are thinking of as well as can be, Dodo,</said> said
+Celia.  <said who=#"Celia">You are wanting to find out if there is anything uncomfortable
 for you to do now, only because Mr. Casaubon wished it.  As if you had
 not been uncomfortable enough before.  And he doesn't deserve it, and
 you will find that out.  He has behaved very badly.  James is as angry
@@ -3108,24 +3108,24 @@ with him as can be.  And I had better tell you, to prepare you.</said>
 </P>
 
 <P>
-<said>Celia,</said> said Dorothea, entreatingly, <said>you distress me.  Tell me at
+<said who=#"D">Celia,</said> said Dorothea, entreatingly, <said who=#"D">you distress me.  Tell me at
 once what you mean.</said>  It glanced through her mind that Mr. Casaubon
 had left the property away from her—which would not be so very
 distressing.
 </P>
 
 <P>
-<said>Why, he has made a codicil to his will, to say the property was all to
+<said who=#"Celia">Why, he has made a codicil to his will, to say the property was all to
 go away from you if you married—I mean—</said>
 </P>
 
 <P>
-<said>That is of no consequence,</said> said Dorothea, breaking in impetuously.
+<said who=#"D">That is of no consequence,</said> said Dorothea, breaking in impetuously.
 </P>
 
 <P>
-<said>But if you married Mr. Ladislaw, not anybody else,</said> Celia went on with
-persevering quietude.  <said>Of course that is of no consequence in one
+<said who=#"Celia">But if you married Mr. Ladislaw, not anybody else,</said> Celia went on with
+persevering quietude.  <said who=#"Celia">Of course that is of no consequence in one
 way—you never <I>would</I> marry Mr. Ladislaw; but that only makes it worse
 of Mr. Casaubon.</said>
 </P>
@@ -3138,7 +3138,7 @@ her neutral tone, as if she had been remarking on baby's robes.
 </P>
 
 <P>
-<said>James says so.  He says it is abominable, and not like a gentleman.
+<said who=#"Celia">James says so.  He says it is abominable, and not like a gentleman.
 And there never was a better judge than James.  It is as if Mr.
 Casaubon wanted to make people believe that you would wish to marry Mr.
 Ladislaw—which is ridiculous.  Only James says it was to hinder Mr.
@@ -3174,10 +3174,10 @@ conditions, and questions not soon to be solved.
 
 <P>
 It seemed a long while—she did not know how long—before she heard
-Celia saying, <said>That will do, nurse; he will be quiet on my lap now.
+Celia saying, <said who=#"Celia">That will do, nurse; he will be quiet on my lap now.
 You can go to lunch, and let Garratt stay in the next room. What I
 think, Dodo,</said> Celia went on, observing nothing more than that Dorothea
-was leaning back in her chair, and likely to be passive, <said>is that Mr.
+was leaning back in her chair, and likely to be passive, <said who=#"Celia">is that Mr.
 Casaubon was spiteful.  I never did like him, and James never did.  I
 think the corners of his mouth were dreadfully spiteful.  And now he
 has behaved in this way, I am sure religion does not require you to
@@ -3192,28 +3192,28 @@ form.
 
 <P>
 At this crisis Lydgate was announced, and one of the first things he
-said was, <said>I fear you are not so well as you were, Mrs. Casaubon; have
+said was, <said who=#"Lyd">I fear you are not so well as you were, Mrs. Casaubon; have
 you been agitated? allow me to feel your pulse.</said>  Dorothea's hand was
 of a marble coldness.
 </P>
 
 <P>
-<said>She wants to go to Lowick, to look over papers,</said> said Celia.  <said>She
+<said who=#"Celia">She wants to go to Lowick, to look over papers,</said> said Celia.  <said who=#"Celia">She
 ought not, ought she?</said>
 </P>
 
 <P>
 Lydgate did not speak for a few moments.  Then he said, looking at
-Dorothea.  <said>I hardly know.  In my opinion Mrs. Casaubon should do what
+Dorothea.  <said who=#"Lyd">I hardly know.  In my opinion Mrs. Casaubon should do what
 would give her the most repose of mind.  That repose will not always
 come from being forbidden to act.</said>
 </P>
 
 <P>
-<said>Thank you,</said> said Dorothea, exerting herself, <said>I am sure that is wise.
+<said who=#"D">Thank you,</said> said Dorothea, exerting herself, <said who=#"D">I am sure that is wise.
 There are so many things which I ought to attend to.  Why should I sit
 here idle?</said>  Then, with an effort to recall subjects not connected with
-her agitation, she added, abruptly, <said>You know every one in Middlemarch,
+her agitation, she added, abruptly, <said who=#"D">You know every one in Middlemarch,
 I think, Mr. Lydgate.  I shall ask you to tell me a great deal.  I have
 serious things to do now.  I have a living to give away.  You know Mr.
 Tyke and all the—</said> But Dorothea's effort was too much for her; she
@@ -3224,8 +3224,8 @@ volatile.
 </P>
 
 <P>
-<said>Let Mrs. Casaubon do as she likes,</said> he said to Sir James, whom he
-asked to see before quitting the house.  <said>She wants perfect freedom, I
+<said who=#"Lyd"> Let Mrs. Casaubon do as she likes,</said> he said to Sir James, whom he
+asked to see before quitting the house.  <said who=#"Lyd">She wants perfect freedom, I
 think, more than any other prescription.</said>
 </P>
 
@@ -3247,7 +3247,7 @@ Lowick.
 </P>
 
 <P>
-<said>I have no wish to stay there at present,</said> said Dorothea; <said>I could
+<said who=#"D">I have no wish to stay there at present,</said> said Dorothea; <said who=#"D">I could
 hardly bear it.  I am much happier at Freshitt with Celia.  I shall be
 able to think better about what should be done at Lowick by looking at
 it from a distance.  And I should like to be at the Grange a little
@@ -3256,7 +3256,7 @@ people in the village.</said>
 </P>
 
 <P>
-<said>Not yet, I think.  Your uncle is having political company, and you are
+<said who=#"JC">Not yet, I think.  Your uncle is having political company, and you are
 better out of the way of such doings,</said> said Sir James, who at that
 moment thought of the Grange chiefly as a haunt of young Ladislaw's.
 But no word passed between him and Dorothea about the objectionable
@@ -3338,8 +3338,8 @@ one of these was of a kind which others were determined to remind her
 of.  Lydgate's ear had caught eagerly her mention of the living, and as
 soon as he could, he reopened the subject, seeing here a possibility of
 making amends for the casting-vote he had once given with an
-ill-satisfied conscience.  <said>Instead of telling you anything about Mr.
-Tyke,</said> he said, <said>I should like to speak of another man—Mr.
+ill-satisfied conscience.  <said who=#"Lyd">Instead of telling you anything about Mr.
+Tyke,</said> he said, <said who=#"Lyd">I should like to speak of another man—Mr.
 Farebrother, the Vicar of St. Botolph's.  His living is a poor one, and
 gives him a stinted provision for himself and his family.  His mother,
 aunt, and sister all live with him, and depend upon him.  I believe he
@@ -3351,12 +3351,12 @@ ought to have done more than he has done.</said>
 </P>
 
 <P>
-<said>Why has he not done more?</said> said Dorothea, interested now in all who
+<said who=#"D">Why has he not done more?</said> said Dorothea, interested now in all who
 had slipped below their own intention.
 </P>
 
 <P>
-<said>That's a hard question,</said> said Lydgate.  <said>I find myself that it's
+<said who=#"Lyd">That's a hard question,</said> said Lydgate.  <said who=#"Lyd">I find myself that it's
 uncommonly difficult to make the right thing work: there are so many
 strings pulling at once.  Farebrother often hints that he has got into
 the wrong profession; he wants a wider range than that of a poor
@@ -3373,25 +3373,25 @@ and those often go with a more correct outside.</said>
 </P>
 
 <P>
-<said>I wonder whether he suffers in his conscience because of that habit,</said>
-said Dorothea; <said>I wonder whether he wishes he could leave it off.</said>
+<said who=#"D">I wonder whether he suffers in his conscience because of that habit,</said>
+said Dorothea; <said who=#"D">I wonder whether he wishes he could leave it off.</said>
 </P>
 
 <P>
-<said>I have no doubt he would leave it off, if he were transplanted into
+<said who=#"Lyd">I have no doubt he would leave it off, if he were transplanted into
 plenty: he would be glad of the time for other things.</said>
 </P>
 
 <P>
-<said>My uncle says that Mr. Tyke is spoken of as an apostolic man,</said> said
+<said who=#"D">My uncle says that Mr. Tyke is spoken of as an apostolic man,</said> said
 Dorothea, meditatively.  She was wishing it were possible to restore
 the times of primitive zeal, and yet thinking of Mr. Farebrother with a
 strong desire to rescue him from his chance-gotten money.
 </P>
 
 <P>
-<said>I don't pretend to say that Farebrother is apostolic,</said> said Lydgate.
-<said>His position is not quite like that of the Apostles: he is only a
+<said who=#"Lyd">I don't pretend to say that Farebrother is apostolic,</said> said Lydgate.
+<said who=#"Lyd">His position is not quite like that of the Apostles: he is only a
 parson among parishioners whose lives he has to try and make better.
 Practically I find that what is called being apostolic now, is an
 impatience of everything in which the parson doesn't cut the principal
@@ -3403,7 +3403,7 @@ birds.</said>
 </P>
 
 <P>
-<said>True,</said> said Dorothea.  <said>It is hard to imagine what sort of notions our
+<said who=#"D">True,</said> said Dorothea.  <said who=#"D">It is hard to imagine what sort of notions our
 farmers and laborers get from their teaching.  I have been looking into
 a volume of sermons by Mr. Tyke: such sermons would be of no use at
 Lowick—I mean, about imputed righteousness and the prophecies in the
@@ -3417,7 +3417,7 @@ him preach.</said>
 </P>
 
 <P>
-<said>Do,</said> said Lydgate; <said>I trust to the effect of that.  He is very much
+<said who=#"Lyd">Do,</said> said Lydgate; <said who=#"Lyd">I trust to the effect of that.  He is very much
 beloved, but he has his enemies too: there are always people who can't
 forgive an able man for differing from them.  And that money-winning
 business is really a blot.  You don't, of course, see many Middlemarch
@@ -3488,7 +3488,7 @@ waspishly—
 </P>
 
 <P>
-<said>Why should you bring me into the matter?  I never see Mrs. Casaubon,
+<said who=#"Lad">Why should you bring me into the matter?  I never see Mrs. Casaubon,
 and am not likely to see her, since she is at Freshitt.  I never go
 there.  It is Tory ground, where I and the 'Pioneer' are no more
 welcome than a poacher and his gun.</said>
@@ -3519,7 +3519,7 @@ try to poison.
 </P>
 
 <P>
-<said>We are forever divided,</said> said Will.  <said>I might as well be at Rome; she
+<said who=#"Lad">We are forever divided,</said> said Will.  <said who=#"Lad">I might as well be at Rome; she
 would be no farther from me.</said>  But what we call our despair is often
 only the painful eagerness of unfed hope.  There were plenty of reasons
 why he should not go—public reasons why he should not quit his post at
@@ -3556,7 +3556,7 @@ Ladislaw much trouble.
 </P>
 
 <P>
-<said>You know there are tactics in these things,</said> said Mr. Brooke; <said>meeting
+<said who=#"MB">You know there are tactics in these things,</said> said Mr. Brooke; <said who=#"MB">meeting
 people half-way—tempering your ideas—saying, 'Well now, there's
 something in that,' and so on.  I agree with you that this is a
 peculiar occasion—the country with a will of its own—political
@@ -3567,7 +3567,7 @@ question, now, if you go into it.</said>
 </P>
 
 <P>
-<said>Of course it is,</said> said Will, impatiently.  <said>But if you are to wait
+<said who=#"Lad">Of course it is,</said> said Will, impatiently.  <said who=#"Lad">But if you are to wait
 till we get a logical Bill, you must put yourself forward as a
 revolutionist, and then Middlemarch would not elect you, I fancy.  As
 for trimming, this is not a time for trimming.</said>
@@ -3597,14 +3597,14 @@ respectable people whose names were on his books.  He was accustomed to
 receive large orders from Mr. Brooke of Tipton; but then, there were
 many of Pinkerton's committee whose opinions had a great weight of
 grocery on their side.  Mr. Mawmsey thinking that Mr. Brooke, as not
-too <said>clever in his intellects,</said> was the more likely to forgive a grocer
+too <said who=#"Mawmsey">clever in his intellects,</said> was the more likely to forgive a grocer
 who gave a hostile vote under pressure, had become confidential in his
 back parlor.
 </P>
 
 <P>
-<said>As to Reform, sir, put it in a family light,</said> he said, rattling the
-small silver in his pocket, and smiling affably.  <said>Will it support Mrs.
+<said who=#"Mawmsey">As to Reform, sir, put it in a family light,</said> he said, rattling the
+small silver in his pocket, and smiling affably.  <said who=#"Mawmsey">Will it support Mrs.
 Mawmsey, and enable her to bring up six children when I am no more?  I
 put the question <I>fictiously</I>, knowing what must be the answer.  Very
 well, sir.  I ask you what, as a husband and a father, I am to do when
@@ -3617,20 +3617,20 @@ your honorable self, Mr. Brooke.</said>
 </P>
 
 <P>
-<said>No, no, no—that's narrow, you know.  Until my butler complains to me
-of your goods, Mr. Mawmsey,</said> said Mr. Brooke, soothingly, <said>until I hear
+<said who=#"MB">No, no, no—that's narrow, you know.  Until my butler complains to me
+of your goods, Mr. Mawmsey,</said> said Mr. Brooke, soothingly, <said who=#"MB">until I hear
 that you send bad sugars, spices—that sort of thing—I shall never
 order him to go elsewhere.</said>
 </P>
 
 <P>
-<said>Sir, I am your humble servant, and greatly obliged,</said> said Mr. Mawmsey,
-feeling that politics were clearing up a little.  <said>There would be some
+<said who=#"Mawmsey">Sir, I am your humble servant, and greatly obliged,</said> said Mr. Mawmsey,
+feeling that politics were clearing up a little.  <said who=#"Mawmsey">There would be some
 pleasure in voting for a gentleman who speaks in that honorable manner.</said>
 </P>
 
 <P>
-<said>Well, you know, Mr. Mawmsey, you would find it the right thing to put
+<said who=#"MB">Well, you know, Mr. Mawmsey, you would find it the right thing to put
 yourself on our side.  This Reform will touch everybody by-and-by—a
 thoroughly popular measure—a sort of A, B, C, you know, that must come
 first before the rest can follow.  I quite agree with you that you've
@@ -3643,7 +3643,7 @@ still enjoyable.  But Mr. Mawmsey answered in a tone of decisive check.
 </P>
 
 <P>
-<said>I beg your pardon, sir, but I can't afford that.  When I give a vote I
+<said who=#"Mawmsey">I beg your pardon, sir, but I can't afford that.  When I give a vote I
 must know what I am doing; I must look to what will be the effects on
 my till and ledger, speaking respectfully.  Prices, I'll admit, are
 what nobody can know the merits of; and the sudden falls after you've
@@ -3718,7 +3718,7 @@ often happens that all moments seem comfortably remote until the last.
 </P>
 
 <P>
-<said>This looks well, eh?</said> said Mr. Brooke as the crowd gathered.  <said>I shall
+<said who=#"MB">This looks well, eh?</said> said Mr. Brooke as the crowd gathered.  <said who=#"MB">I shall
 have a good audience, at any rate.  I like this, now—this kind of
 public made up of one's own neighbors, you know.</said>
 </P>
@@ -3739,7 +3739,7 @@ summons was indifferent.
 </P>
 
 <P>
-<said>I'll take another glass of sherry, Ladislaw,</said> he said, with an easy
+<said who=#"MB">I'll take another glass of sherry, Ladislaw,</said> he said, with an easy
 air, to Will, who was close behind him, and presently handed him the
 supposed fortifier.  It was ill-chosen; for Mr. Brooke was an
 abstemious man, and to drink a second glass of sherry quickly at no
@@ -3757,16 +3757,16 @@ It was not about the beginning of his speech that Mr. Brooke was at all
 anxious; this, he felt sure, would be all right; he should have it
 quite pat, cut out as neatly as a set of couplets from Pope.  Embarking
 would be easy, but the vision of open sea that might come after was
-alarming.  <said>And questions, now,</said> hinted the demon just waking up in his
-stomach, <said>somebody may put questions about the schedules.—Ladislaw,</said>
-he continued, aloud, <said>just hand me the memorandum of the schedules.</said>
+alarming.  <said who=#"MB">And questions, now,</said> hinted the demon just waking up in his
+stomach, <said who=#"MB">somebody may put questions about the schedules.—Ladislaw,</said>
+he continued, aloud, <said who=#"MB">just hand me the memorandum of the schedules.</said>
 </P>
 
 <P>
 When Mr. Brooke presented himself on the balcony, the cheers were quite
 loud enough to counterbalance the yells, groans, brayings, and other
 expressions of adverse theory, which were so moderate that Mr. Standish
-(decidedly an old bird) observed in the ear next to him, <said>This looks
+(decidedly an old bird) observed in the ear next to him, <said who=#"Standish">This looks
 dangerous, by God!  Hawley has got some deeper plan than this.</said>  Still,
 the cheers were exhilarating, and no candidate could look more amiable
 than Mr. Brooke, with the memorandum in his breast-pocket, his left
@@ -3777,7 +3777,7 @@ with some confidence.
 </P>
 
 <P>
-<said>Gentlemen—Electors of Middlemarch!</said>
+<said who=#"MB">Gentlemen—Electors of Middlemarch!</said>
 </P>
 
 <P>
@@ -3786,7 +3786,7 @@ natural.
 </P>
 
 <P>
-<said>I'm uncommonly glad to be here—I was never so proud and happy in my
+<said who=#"MB">I'm uncommonly glad to be here—I was never so proud and happy in my
 life—never so happy, you know.</said>
 </P>
 
@@ -3795,7 +3795,7 @@ This was a bold figure of speech, but not exactly the right thing; for,
 unhappily, the pat opening had slipped away—even couplets from Pope
 may be but <said>fallings from us, vanishings,</said> when fear clutches us, and a
 glass of sherry is hurrying like smoke among our ideas.  Ladislaw, who
-stood at the window behind the speaker, thought, <said>it's all up now.  The
+stood at the window behind the speaker, thought, <said who=#"Lad">it's all up now.  The
 only chance is that, since the best thing won't always do, floundering
 may answer for once.</said>  Mr. Brooke, meanwhile, having lost other clews,
 fell back on himself and his qualifications—always an appropriate
@@ -3803,7 +3803,7 @@ graceful subject for a candidate.
 </P>
 
 <P>
-<said>I am a close neighbor of yours, my good friends—you've known me on
+<said who=#"MB">I am a close neighbor of yours, my good friends—you've known me on
 the bench a good while—I've always gone a good deal into public
 questions—machinery, now, and machine-breaking—you're many of you
 concerned with machinery, and I've been going into that lately.  It
@@ -3856,8 +3856,8 @@ his lost exordium was coming back to fetch him from the Baltic.
 </P>
 
 <P>
-<said>That reminds me,</said> he went on, thrusting a hand into his side-pocket,
-with an easy air, <said>if I wanted a precedent, you know—but we never want
+<said who=#"MB">That reminds me,</said> he went on, thrusting a hand into his side-pocket,
+with an easy air, <said who=#"MB">if I wanted a precedent, you know—but we never want
 a precedent for the right thing—but there is Chatham, now; I can't say
 I should have supported Chatham, or Pitt, the younger Pitt—he was not
 a man of ideas, and we want ideas, you know.</said>
@@ -3878,7 +3878,7 @@ amenity—
 </P>
 
 <P>
-<said>There is something in what you say, my good friend, and what do we
+<said who=#"MB">There is something in what you say, my good friend, and what do we
 meet for but to speak our minds—freedom of opinion, freedom of the
 press, liberty—that kind of thing?  The Bill, now—you shall have the
 Bill"—here Mr. Brooke paused a moment to fix on his eye-glass and take
@@ -3887,7 +3887,7 @@ coming to particulars.  The invisible Punch followed:—
 </P>
 
 <P>
-"You shall have the Bill, Mr. Brooke, per electioneering contest, and a
+<said> You shall have the Bill, Mr. Brooke, per electioneering contest, and a
 seat outside Parliament as delivered, five thousand pounds, seven
 shillings, and fourpence.</said>
 </P>
@@ -3900,9 +3900,9 @@ eggs.  His spirit rose a little, and his voice too.
 </P>
 
 <P>
-<said>Buffoonery, tricks, ridicule the test of truth—all that is very
-well"—here an unpleasant egg broke on Mr. Brooke's shoulder, as the
-echo said, "All that is very well;</said> then came a hail of eggs, chiefly
+<said who=#"MB">Buffoonery, tricks, ridicule the test of truth—all that is very
+well</said>—here an unpleasant egg broke on Mr. Brooke's shoulder, as the
+echo said, <said>All that is very well;</said> then came a hail of eggs, chiefly
 aimed at the image, but occasionally hitting the original, as if by
 chance.  There was a stream of new men pushing among the crowd;
 whistles, yells, bellowings, and fifes made all the greater hubbub
@@ -3919,10 +3919,10 @@ it.
 
 <P>
 Mr. Brooke re-entered the committee-room, saying, as carelessly as he
-could, <said>This is a little too bad, you know.  I should have got the ear
+could, <said who=#"MB">This is a little too bad, you know.  I should have got the ear
 of the people by-and-by—but they didn't give me time.  I should have
 gone into the Bill by-and-by, you know,</said> he added, glancing at
-Ladislaw.  <said>However, things will come all right at the nomination.</said>
+Ladislaw.  <said who=#"MB">However, things will come all right at the nomination.</said>
 </P>
 
 <P>
@@ -3933,21 +3933,21 @@ devices.
 </P>
 
 <P>
-<said>It was Bowyer who did it,</said> said Mr. Standish, evasively.  <said>I know it
+<said who=#"Standish">It was Bowyer who did it,</said> said Mr. Standish, evasively.  <said who=#"Standish">I know it
 as well as if he had been advertised.  He's uncommonly good at
 ventriloquism, and he did it uncommonly well, by God!  Hawley has been
 having him to dinner lately: there's a fund of talent in Bowyer.</said>
 </P>
 
 <P>
-<said>Well, you know, you never mentioned him to me, Standish, else I would
+<said who=#"MB"> Well, you know, you never mentioned him to me, Standish, else I would
 have invited him to dine,</said> said poor Mr. Brooke, who had gone through a
 great deal of inviting for the good of his country.
 </P>
 
 <P>
-<said>There's not a more paltry fellow in Middlemarch than Bowyer,</said> said
-Ladislaw, indignantly, <said>but it seems as if the paltry fellows were
+<said who=#"Lad">There's not a more paltry fellow in Middlemarch than Bowyer,</said> said
+Ladislaw, indignantly, <said who=#"Lad">but it seems as if the paltry fellows were
 always to turn the scale.</said>
 </P>
 
@@ -3996,8 +3996,8 @@ than he had imagined.
 </P>
 
 <P>
-<said>I have felt uneasy about the chest—it won't do to carry that too
-far,</said> he said to Ladislaw in explaining the affair.  <said>I must pull up.
+<said who=#"MB">I have felt uneasy about the chest—it won't do to carry that too
+far,</said> he said to Ladislaw in explaining the affair.  <said who=#"MB">I must pull up.
 Poor Casaubon was a warning, you know.  I've made some heavy advances,
 but I've dug a channel.  It's rather coarse work—this electioneering,
 eh, Ladislaw? dare say you are tired of it.  However, we have dug a
@@ -4006,14 +4006,14 @@ ordinary man than you might carry it on now—more ordinary, you know.</said>
 </P>
 
 <P>
-<said>Do you wish me to give it up?</said> said Will, the quick color coming in
+<said who=#"Lad">Do you wish me to give it up?</said> said Will, the quick color coming in
 his face, as he rose from the writing-table, and took a turn of three
-steps with his hands in his pockets.  <said>I am ready to do so whenever you
+steps with his hands in his pockets.  <said who=#"Lad">I am ready to do so whenever you
 wish it.</said>
 </P>
 
 <P>
-<said>As to wishing, my dear Ladislaw, I have the highest opinion of your
+<said who=#"MB">As to wishing, my dear Ladislaw, I have the highest opinion of your
 powers, you know.  But about the 'Pioneer,' I have been consulting a
 little with some of the men on our side, and they are inclined to take
 it into their hands—indemnify me to a certain extent—carry it on, in
@@ -4026,13 +4026,13 @@ Althorpe and people of that kind.  I've met Althorpe.</said>
 </P>
 
 <P>
-<said>I am exceedingly obliged to you,</said> said Ladislaw, proudly.  <said>Since you
+<said who=#"Lad">I am exceedingly obliged to you,</said> said Ladislaw, proudly.  <said who=#"Lad">Since you
 are going to part with the 'Pioneer,' I need not trouble you about the
 steps I shall take.  I may choose to continue here for the present.</said>
 </P>
 
 <P>
-After Mr. Brooke had left him Will said to himself, <said>The rest of the
+After Mr. Brooke had left him Will said to himself, <said who=#"MB">The rest of the
 family have been urging him to get rid of me, and he doesn't care now
 about my going.  I shall stay as long as I like.  I shall go of my own
 movements and not because they are afraid of me.</said>
@@ -4061,11 +4061,11 @@ identity with her far-off youthful self, and saying decisively—
 </P>
 
 <P>
-<said>The greatest comfort, Camden, is that you have deserved it.</said>
+<said who=#"MFB">The greatest comfort, Camden, is that you have deserved it.</said>
 </P>
 
 <P>
-<said>When a man gets a good berth, mother, half the deserving must come
+<said who=#"FB">When a man gets a good berth, mother, half the deserving must come
 after,</said> said the son, brimful of pleasure, and not trying to conceal
 it.  The gladness in his face was of that active kind which seems to
 have energy enough not only to flash outwardly, but to light up busy
@@ -4074,8 +4074,8 @@ glances.
 </P>
 
 <P>
-<said>Now, aunt,</said> he went on, rubbing his hands and looking at Miss Noble,
-who was making tender little beaver-like noises, <said>There shall be
+<said who=#"FB">Now, aunt,</said> he went on, rubbing his hands and looking at Miss Noble,
+who was making tender little beaver-like noises, <said who=#"FB">There shall be
 sugar-candy always on the table for you to steal and give to the
 children, and you shall have a great many new stockings to make
 presents of, and you shall darn your own more than ever!</said>
@@ -4088,7 +4088,7 @@ her basket on the strength of the new preferment.
 </P>
 
 <P>
-<said>As for you, Winny"—the Vicar went on—"I shall make no difficulty
+<said who=#"FB">As for you, Winny</said>—the Vicar went on—<said who=#"FB">I shall make no difficulty
 about your marrying any Lowick bachelor—Mr. Solomon Featherstone, for
 example, as soon as I find you are in love with him.</said>
 </P>
@@ -4096,77 +4096,77 @@ example, as soon as I find you are in love with him.</said>
 <P>
 Miss Winifred, who had been looking at her brother all the while and
 crying heartily, which was her way of rejoicing, smiled through her
-tears and said, <said>You must set me the example, Cam: <I>you</I> must marry
+tears and said, <said who=#"Winifred">You must set me the example, Cam: <I>you</I> must marry
 now.</said>
 </P>
 
 <P>
-<said>With all my heart.  But who is in love with me?  I am a seedy old
+<said who=#"FB">With all my heart.  But who is in love with me?  I am a seedy old
 fellow,</said> said the Vicar, rising, pushing his chair away and looking
-down at himself.  <said>What do you say, mother?</said>
+down at himself.  <said who=#"FB">What do you say, mother?</said>
 </P>
 
 <P>
-<said>You are a handsome man, Camden: though not so fine a figure of a man
+<said who=#"MFB">You are a handsome man, Camden: though not so fine a figure of a man
 as your father,</said> said the old lady.
 </P>
 
 <P>
-<said>I wish you would marry Miss Garth, brother,</said> said Miss Winifred.  <said>She
+<said who=#"Winifred">I wish you would marry Miss Garth, brother,</said> said Miss Winifred.  <said who=#"Winifred">She
 would make us so lively at Lowick.</said>
 </P>
 
 <P>
-<said>Very fine! You talk as if young women were tied up to be chosen, like
+<said who=#"FB">Very fine! You talk as if young women were tied up to be chosen, like
 poultry at market; as if I had only to ask and everybody would have
 me,</said> said the Vicar, not caring to specify.
 </P>
 
 <P>
-<said>We don't want everybody,</said> said Miss Winifred.  <said>But <I>you</I> would like
+<said who=#"Winifred">We don't want everybody,</said> said Miss Winifred.  <said who=#"Winifred">But <I>you</I> would like
 Miss Garth, mother, shouldn't you?</said>
 </P>
 
 <P>
-<said>My son's choice shall be mine,</said> said Mrs. Farebrother, with majestic
-discretion, <said>and a wife would be most welcome, Camden.  You will want
+<said who=#"MFB">My son's choice shall be mine,</said> said Mrs. Farebrother, with majestic
+discretion, <said who=#"MFB">and a wife would be most welcome, Camden.  You will want
 your whist at home when we go to Lowick, and Henrietta Noble never was
 a whist-player.</said> (Mrs. Farebrother always called her tiny old sister by
 that magnificent name.)
 </P>
 
 <P>
-<said>I shall do without whist now, mother.</said>
+<said who=#"FB">I shall do without whist now, mother.</said>
 </P>
 
 <P>
-<said>Why so, Camden?  In my time whist was thought an undeniable amusement
+<said who=#"MFB">Why so, Camden?  In my time whist was thought an undeniable amusement
 for a good churchman,</said> said Mrs. Farebrother, innocent of the meaning
 that whist had for her son, and speaking rather sharply, as at some
 dangerous countenancing of new doctrine.
 </P>
 
 <P>
-<said>I shall be too busy for whist; I shall have two parishes,</said> said the
+<said who=#"FB">I shall be too busy for whist; I shall have two parishes,</said> said the
 Vicar, preferring not to discuss the virtues of that game.
 </P>
 
 <P>
-He had already said to Dorothea, <said>I don't feel bound to give up St.
+He had already said to Dorothea, <said who=#"FB">I don't feel bound to give up St.
 Botolph's. It is protest enough against the pluralism they want to
 reform if I give somebody else most of the money.  The stronger thing
 is not to give up power, but to use it well.</said>
 </P>
 
 <P>
-<said>I have thought of that,</said> said Dorothea.  <said>So far as self is concerned,
+<said who=#"D">I have thought of that,</said> said Dorothea.  <said who=#"D">So far as self is concerned,
 I think it would be easier to give up power and money than to keep
 them.  It seems very unfitting that I should have this patronage, yet I
 felt that I ought not to let it be used by some one else instead of me.</said>
 </P>
 
 <P>
-<said>It is I who am bound to act so that you will not regret your power,</said>
+<said who=#"FB">It is I who am bound to act so that you will not regret your power,</said>
 said Mr. Farebrother.
 </P>
 
@@ -4179,8 +4179,8 @@ were free from.
 </P>
 
 <P>
-<said>I used often to wish I had been something else than a clergyman,</said> he
-said to Lydgate, <said>but perhaps it will be better to try and make as good
+<said who=#"FB">I used often to wish I had been something else than a clergyman,</said> he
+said to Lydgate, <said who=#"FB">but perhaps it will be better to try and make as good
 a clergyman out of myself as I can.  That is the well-beneficed point
 of view, you perceive, from which difficulties are much simplified,</said> he
 ended, smiling.
@@ -4200,35 +4200,35 @@ bachelor's degree.
 </P>
 
 <P>
-<said>I am ashamed to trouble you, Mr. Farebrother,</said> said Fred, whose fair
-open face was propitiating, <said>but you are the only friend I can consult.
+<said who=#"F">I am ashamed to trouble you, Mr. Farebrother,</said> said Fred, whose fair
+open face was propitiating, <said who=#"F">but you are the only friend I can consult.
 I told you everything once before, and you were so good that I can't
 help coming to you again.</said>
 </P>
 
 <P>
-<said>Sit down, Fred, I'm ready to hear and do anything I can,</said> said the
+<said who=#"FB">Sit down, Fred, I'm ready to hear and do anything I can,</said> said the
 Vicar, who was busy packing some small objects for removal, and went on
 with his work.
 </P>
 
 <P>
-<said>I wanted to tell you—</said> Fred hesitated an instant and then went on
-plungingly, <said>I might go into the Church now; and really, look where I
+<said who=#"F">I wanted to tell you—</said> Fred hesitated an instant and then went on
+plungingly, <said who=#"F">I might go into the Church now; and really, look where I
 may, I can't see anything else to do.  I don't like it, but I know it's
 uncommonly hard on my father to say so, after he has spent a good deal
 of money in educating me for it.</said> Fred paused again an instant, and
-then repeated, <said>and I can't see anything else to do.</said>
+then repeated, <said who=#"F">and I can't see anything else to do.</said>
 </P>
 
 <P>
-<said>I did talk to your father about it, Fred, but I made little way with
+<said who=#"FB">I did talk to your father about it, Fred, but I made little way with
 him.  He said it was too late.  But you have got over one bridge now:
 what are your other difficulties?</said>
 </P>
 
 <P>
-<said>Merely that I don't like it.  I don't like divinity, and preaching,
+<said who=#"F">Merely that I don't like it.  I don't like divinity, and preaching,
 and feeling obliged to look serious.  I like riding across country, and
 doing as other men do.  I don't mean that I want to be a bad fellow in
 any way; but I've no taste for the sort of thing people expect of a
@@ -4247,12 +4247,12 @@ too busy in imagining more than Fred told him.
 </P>
 
 <P>
-<said>Have you any difficulties about doctrines—about the Articles?</said> he
+<said who=#"FB">Have you any difficulties about doctrines—about the Articles?</said> he
 said, trying hard to think of the question simply for Fred's sake.
 </P>
 
 <P>
-<said>No; I suppose the Articles are right.  I am not prepared with any
+<said who=#"F">No; I suppose the Articles are right.  I am not prepared with any
 arguments to disprove them, and much better, cleverer fellows than I am
 go in for them entirely.  I think it would be rather ridiculous in me
 to urge scruples of that sort, as if I were a judge,</said> said Fred, quite
@@ -4260,46 +4260,46 @@ simply.
 </P>
 
 <P>
-<said>I suppose, then, it has occurred to you that you might be a fair
+<said who=#"FB">I suppose, then, it has occurred to you that you might be a fair
 parish priest without being much of a divine?</said>
 </P>
 
 <P>
-<said>Of course, if I am obliged to be a clergyman, I shall try and do my
+<said who=#"F">Of course, if I am obliged to be a clergyman, I shall try and do my
 duty, though I mayn't like it.  Do you think any body ought to blame
 me?</said>
 </P>
 
 <P>
-<said>For going into the Church under the circumstances?  That depends on
+<said who=#"FB">For going into the Church under the circumstances?  That depends on
 your conscience, Fred—how far you have counted the cost, and seen what
 your position will require of you.  I can only tell you about myself,
 that I have always been too lax, and have been uneasy in consequence.</said>
 </P>
 
 <P>
-<said>But there is another hindrance,</said> said Fred, coloring.  <said>I did not tell
+<said who=#"F">But there is another hindrance,</said> said Fred, coloring.  <said who=#"F">I did not tell
 you before, though perhaps I may have said things that made you guess
 it.  There is somebody I am very fond of: I have loved her ever since
 we were children.</said>
 </P>
 
 <P>
-<said>Miss Garth, I suppose?</said> said the Vicar, examining some labels very
+<said who=#"FB">Miss Garth, I suppose?</said> said the Vicar, examining some labels very
 closely.
 </P>
 
 <P>
-<said>Yes.  I shouldn't mind anything if she would have me.  And I know I
+<said who=#"F">Yes.  I shouldn't mind anything if she would have me.  And I know I
 could be a good fellow then.</said>
 </P>
 
 <P>
-<said>And you think she returns the feeling?</said>
+<said who=#"FB">And you think she returns the feeling?</said>
 </P>
 
 <P>
-<said>She never will say so; and a good while ago she made me promise not to
+<said who=#"F">She never will say so; and a good while ago she made me promise not to
 speak to her about it again.  And she has set her mind especially
 against my being a clergyman; I know that.  But I can't give her up.  I
 do think she cares about me.  I saw Mrs. Garth last night, and she said
@@ -4307,56 +4307,56 @@ that Mary was staying at Lowick Rectory with Miss Farebrother.</said>
 </P>
 
 <P>
-<said>Yes, she is very kindly helping my sister.  Do you wish to go there?</said>
+<said who=#"FB">Yes, she is very kindly helping my sister.  Do you wish to go there?</said>
 </P>
 
 <P>
-<said>No, I want to ask a great favor of you.  I am ashamed to bother you in
+<said who=#"F">No, I want to ask a great favor of you.  I am ashamed to bother you in
 this way; but Mary might listen to what you said, if you mentioned the
 subject to her—I mean about my going into the Church.</said>
 </P>
 
 <P>
-<said>That is rather a delicate task, my dear Fred.  I shall have to
+<said who=#"FB"> That is rather a delicate task, my dear Fred.  I shall have to
 presuppose your attachment to her; and to enter on the subject as you
 wish me to do, will be asking her to tell me whether she returns it.</said>
 </P>
 
 <P>
-<said>That is what I want her to tell you,</said> said Fred, bluntly.  <said>I don't
+<said who=#"F">That is what I want her to tell you,</said> said Fred, bluntly.  <said who=#"F">I don't
 know what to do, unless I can get at her feeling.</said>
 </P>
 
 <P>
-<said>You mean that you would be guided by that as to your going into the
+<said who=#"FB">You mean that you would be guided by that as to your going into the
 Church?</said>
 </P>
 
 <P>
-<said>If Mary said she would never have me I might as well go wrong in one
+<said who=#"F">If Mary said she would never have me I might as well go wrong in one
 way as another.</said>
 </P>
 
 <P>
-<said>That is nonsense, Fred.  Men outlive their love, but they don't
+<said who=#"FB">That is nonsense, Fred.  Men outlive their love, but they don't
 outlive the consequences of their recklessness.</said>
 </P>
 
 <P>
-<said>Not my sort of love: I have never been without loving Mary.  If I had
+<said who=#"F">Not my sort of love: I have never been without loving Mary.  If I had
 to give her up, it would be like beginning to live on wooden legs.</said>
 </P>
 
 <P>
-<said>Will she not be hurt at my intrusion?</said>
+<said who=#"FB">Will she not be hurt at my intrusion?</said>
 </P>
 
 <P>
-<said>No, I feel sure she will not.  She respects you more than any one, and
+<said who=#"F">No, I feel sure she will not.  She respects you more than any one, and
 she would not put you off with fun as she does me.  Of course I could
 not have told any one else, or asked any one else to speak to her, but
 you.  There is no one else who could be such a friend to both of us.</said>
-Fred paused a moment, and then said, rather complainingly, <said>And she
+Fred paused a moment, and then said, rather complainingly, <said who=#"F">And she
 ought to acknowledge that I have worked in order to pass.  She ought to
 believe that I would exert myself for her sake.</said>
 </P>
@@ -4367,12 +4367,12 @@ and putting out his hand to Fred said—
 </P>
 
 <P>
-<said>Very well, my boy.  I will do what you wish.</said>
+<said who=#"FB">Very well, my boy.  I will do what you wish.</said>
 </P>
 
 <P>
 That very day Mr. Farebrother went to Lowick parsonage on the nag which
-he had just set up.  <said>Decidedly I am an old stalk,</said> he thought, <said>the
+he had just set up.  <said who=#"FB">Decidedly I am an old stalk,</said> he thought, <said who=#"FB">the
 young growths are pushing me aside.</said>
 </P>
 
@@ -4385,65 +4385,65 @@ just stooped down to lecture a small black-and-tan terrier, which would
 persist in walking on the sheet and smelling at the rose-leaves as Mary
 sprinkled them.  She took his fore-paws in one hand, and lifted up the
 forefinger of the other, while the dog wrinkled his brows and looked
-embarrassed.  <said>Fly, Fly, I am ashamed of you,</said> Mary was saying in a
-grave contralto.  <said>This is not becoming in a sensible dog; anybody
+embarrassed.  <said who=#"M">Fly, Fly, I am ashamed of you,</said> Mary was saying in a
+grave contralto.  <said who=#"M">This is not becoming in a sensible dog; anybody
 would think you were a silly young gentleman.</said>
 </P>
 
 <P>
-<said>You are unmerciful to young gentlemen, Miss Garth,</said> said the Vicar,
+<said who=#"FB">You are unmerciful to young gentlemen, Miss Garth,</said> said the Vicar,
 within two yards of her.
 </P>
 
 <P>
-Mary started up and blushed.  <said>It always answers to reason with Fly,</said>
+Mary started up and blushed.  <said who=#"M">It always answers to reason with Fly,</said>
 she said, laughingly.
 </P>
 
 <P>
-<said>But not with young gentlemen?</said>
+<said who=#"FB">But not with young gentlemen?</said>
 </P>
 
 <P>
-<said>Oh, with some, I suppose; since some of them turn into excellent men.</said>
+<said who=#"M">Oh, with some, I suppose; since some of them turn into excellent men.</said>
 </P>
 
 <P>
-<said>I am glad of that admission, because I want at this very moment to
+<said who=#"FB">I am glad of that admission, because I want at this very moment to
 interest you in a young gentleman.</said>
 </P>
 
 <P>
-<said>Not a silly one, I hope,</said> said Mary, beginning to pluck the roses
+<said who=#"M">Not a silly one, I hope,</said> said Mary, beginning to pluck the roses
 again, and feeling her heart beat uncomfortably.
 </P>
 
 <P>
-<said>No; though perhaps wisdom is not his strong point, but rather
+<said who=#"FB">No; though perhaps wisdom is not his strong point, but rather
 affection and sincerity.  However, wisdom lies more in those two
 qualities than people are apt to imagine.  I hope you know by those
 marks what young gentleman I mean.</said>
 </P>
 
 <P>
-<said>Yes, I think I do,</said> said Mary, bravely, her face getting more serious,
+<said who=#"M">Yes, I think I do,</said> said Mary, bravely, her face getting more serious,
 and her hands cold; <said>it must be Fred Vincy.</said>
 </P>
 
 <P>
-<said>He has asked me to consult you about his going into the Church.  I
+<said who=#"FB">He has asked me to consult you about his going into the Church.  I
 hope you will not think that I consented to take a liberty in promising
 to do so.</said>
 </P>
 
 <P>
-<said>On the contrary, Mr. Farebrother,</said> said Mary, giving up the roses, and
-folding her arms, but unable to look up, <said>whenever you have anything to
+<said who=#"M">On the contrary, Mr. Farebrother,</said> said Mary, giving up the roses, and
+folding her arms, but unable to look up, <said who=#"M">whenever you have anything to
 say to me I feel honored.</said>
 </P>
 
 <P>
-<said>But before I enter on that question, let me just touch a point on
+<said who=#"FB">But before I enter on that question, let me just touch a point on
 which your father took me into confidence; by the way, it was that very
 evening on which I once before fulfilled a mission from Fred, just
 after he had gone to college.  Mr. Garth told me what happened on the
@@ -4464,7 +4464,7 @@ had begun to burn a little, and she was mute.
 </P>
 
 <P>
-<said>I mean, that your action made no real difference to Fred's lot.  I
+<said who=#"FB">I mean, that your action made no real difference to Fred's lot.  I
 find that the first will would not have been legally good after the
 burning of the last; it would not have stood if it had been disputed,
 and you may be sure it would have been disputed.  So, on that score,
@@ -4472,12 +4472,12 @@ you may feel your mind free.</said>
 </P>
 
 <P>
-<said>Thank you, Mr. Farebrother,</said> said Mary, earnestly.  <said>I am grateful to
+<said who=#"M">Thank you, Mr. Farebrother,</said> said Mary, earnestly.  <said who=#"M">I am grateful to
 you for remembering my feelings.</said>
 </P>
 
 <P>
-<said>Well, now I may go on.  Fred, you know, has taken his degree.  He has
+<said who=#"FB">Well, now I may go on.  Fred, you know, has taken his degree.  He has
 worked his way so far, and now the question is, what is he to do?  That
 question is so difficult that he is inclined to follow his father's
 wishes and enter the Church, though you know better than I do that he
@@ -4495,15 +4495,15 @@ your feeling.</said>
 </P>
 
 <P>
-Mary looked so much moved, that he said after a moment, <said>Let us walk a
-little;</said> and when they were walking he added, <said>To speak quite plainly,
+Mary looked so much moved, that he said after a moment, <said who=#"FB">Let us walk a
+little;</said> and when they were walking he added, <said who=#"FB">To speak quite plainly,
 Fred will not take any course which would lessen the chance that you
 would consent to be his wife; but with that prospect, he will try his
 best at anything you approve.</said>
 </P>
 
 <P>
-<said>I cannot possibly say that I will ever be his wife, Mr. Farebrother:
+<said who=#"M">I cannot possibly say that I will ever be his wife, Mr. Farebrother:
 but I certainly never will be his wife if he becomes a clergyman.  What
 you say is most generous and kind; I don't mean for a moment to correct
 your judgment.  It is only that I have my girlish, mocking way of
@@ -4512,12 +4512,12 @@ in her answer which only made its modesty more charming.
 </P>
 
 <P>
-<said>He wishes me to report exactly what you think,</said> said Mr. Farebrother.
+<said who=#"FB">He wishes me to report exactly what you think,</said> said Mr. Farebrother.
 </P>
 
 <P>
-<said>I could not love a man who is ridiculous,</said> said Mary, not choosing to
-go deeper.  <said>Fred has sense and knowledge enough to make him
+<said who=#"M">I could not love a man who is ridiculous,</said> said Mary, not choosing to
+go deeper.  <said who=#"M">Fred has sense and knowledge enough to make him
 respectable, if he likes, in some good worldly business, but I can
 never imagine him preaching and exhorting, and pronouncing blessings,
 and praying by the sick, without feeling as if I were looking at a
@@ -4531,18 +4531,18 @@ along as if she had been speaking to Fred instead of Mr. Farebrother.
 </P>
 
 <P>
-<said>Young women are severe: they don't feel the stress of action as men
+<said who=#"FB">Young women are severe: they don't feel the stress of action as men
 do, though perhaps I ought to make you an exception there.  But you
 don't put Fred Vincy on so low a level as that?</said>
 </P>
 
 <P>
-<said>No, indeed, he has plenty of sense, but I think he would not show it
+<said who=#"M">No, indeed, he has plenty of sense, but I think he would not show it
 as a clergyman.  He would be a piece of professional affectation.</said>
 </P>
 
 <P>
-<said>Then the answer is quite decided.  As a clergyman he could have no
+<said who=#"FB">Then the answer is quite decided.  As a clergyman he could have no
 hope?</said>
 </P>
 
@@ -4551,14 +4551,14 @@ Mary shook her head.
 </P>
 
 <P>
-<said>But if he braved all the difficulties of getting his bread in some
+<said who=#"FB">But if he braved all the difficulties of getting his bread in some
 other way—will you give him the support of hope?  May he count on
 winning you?</said>
 </P>
 
 <P>
-<said>I think Fred ought not to need telling again what I have already said
-to him,</said> Mary answered, with a slight resentment in her manner.  <said>I
+<said who=#"<">I think Fred ought not to need telling again what I have already said
+to him,</said> Mary answered, with a slight resentment in her manner.  <said who=#"M">I
 mean that he ought not to put such questions until he has done
 something worthy, instead of saying that he could do it.</said>
 </P>
@@ -4566,7 +4566,7 @@ something worthy, instead of saying that he could do it.</said>
 <P>
 Mr. Farebrother was silent for a minute or more, and then, as they
 turned and paused under the shadow of a maple at the end of a grassy
-walk, said, <said>I understand that you resist any attempt to fetter you,
+walk, said, <said who=#"FB">I understand that you resist any attempt to fetter you,
 but either your feeling for Fred Vincy excludes your entertaining
 another attachment, or it does not: either he may count on your
 remaining single until he shall have earned your hand, or he may in any
@@ -4590,7 +4590,7 @@ clear and determined—her answer.
 </P>
 
 <P>
-<said>Since you think it my duty, Mr. Farebrother, I will tell you that I
+<said who=#"M">Since you think it my duty, Mr. Farebrother, I will tell you that I
 have too strong a feeling for Fred to give him up for any one else.  I
 should never be quite happy if I thought he was unhappy for the loss of
 me.  It has taken such deep root in me—my gratitude to him for always
@@ -4603,15 +4603,15 @@ He is free to choose some one else.</said>
 </P>
 
 <P>
-<said>Then I have fulfilled my commission thoroughly,</said> said Mr. Farebrother,
-putting out his hand to Mary, <said>and I shall ride back to Middlemarch
+<said who=#"FB">Then I have fulfilled my commission thoroughly,</said> said Mr. Farebrother,
+putting out his hand to Mary, <said who=#"FB">and I shall ride back to Middlemarch
 forthwith.  With this prospect before him, we shall get Fred into the
 right niche somehow, and I hope I shall live to join your hands.  God
 bless you!</said>
 </P>
 
 <P>
-<said>Oh, please stay, and let me give you some tea,</said> said Mary.  Her eyes
+<said who=#"M">Oh, please stay, and let me give you some tea,</said> said Mary.  Her eyes
 filled with tears, for something indefinable, something like the
 resolute suppression of a pain in Mr. Farebrother's manner, made her
 feel suddenly miserable, as she had once felt when she saw her father's
@@ -4619,7 +4619,7 @@ hands trembling in a moment of trouble.
 </P>
 
 <P>
-<said>No, my dear, no.  I must get back.</said>
+<said who=#"FB">No, my dear, no.  I must get back.</said>
 </P>
 
 <P>
@@ -4649,7 +4649,7 @@ whom he thoroughly approved; and he believed it to be a chastisement
 and admonition directed to his own shortcomings and those of the nation
 at large, that just about the time when he came in possession of the
 deeds which made him the proprietor of Stone Court, Mr. Farebrother
-<said>read himself</said> into the quaint little church and preached his first
+<said who=#"FB">read himself</said> into the quaint little church and preached his first
 sermon to the congregation of farmers, laborers, and village artisans.
 It was not that Mr. Bulstrode intended to frequent Lowick Church or to
 reside at Stone Court for a good while to come: he had bought the
@@ -4733,7 +4733,7 @@ his cunning by the superior cunning of things in general was a cud of
 delight to Solomon.  Mrs. Waule had a melancholy triumph in the proof
 that it did not answer to make false Featherstones and cut off the
 genuine; and Sister Martha receiving the news in the Chalky Flats said,
-<said>Dear, dear! then the Almighty could have been none so pleased with the
+<said who=#"Martha">Dear, dear! then the Almighty could have been none so pleased with the
 almshouses after all.</said>
 </P>
 
@@ -4772,7 +4772,7 @@ and was just shaking his bridle before starting, when he exclaimed—
 </P>
 
 <P>
-<said>Bless my heart! what's this fellow in black coming along the lane?
+<said who=#"MrG">Bless my heart! what's this fellow in black coming along the lane?
 He's like one of those men one sees about after the races.</said>
 </P>
 
@@ -4787,7 +4787,7 @@ at last exclaiming:—
 </P>
 
 <P>
-<said>By Jove, Nick, it's you!  I couldn't be mistaken, though the
+<said who=#"Raffles">By Jove, Nick, it's you!  I couldn't be mistaken, though the
 five-and-twenty years have played old Boguy with us both!  How are you,
 eh? you didn't expect to see <I>me</I> here.  Come, shake us by the hand.</said>
 To say that Mr. Raffles' manner was rather excited would be only one
@@ -4797,12 +4797,12 @@ in his putting out his hand coldly to Raffles and saying—
 </P>
 
 <P>
-<said>I did not indeed expect to see you in this remote country place.</said>
+<said who=#"B">I did not indeed expect to see you in this remote country place.</said>
 </P>
 
 <P>
-<said>Well, it belongs to a stepson of mine,</said> said Raffles, adjusting
-himself in a swaggering attitude.  <said>I came to see him here before.  I'm
+<said who=#"Raffles">Well, it belongs to a stepson of mine,</said> said Raffles, adjusting
+himself in a swaggering attitude.  <said who=#"Raffles">I came to see him here before.  I'm
 not so surprised at seeing you, old fellow, because I picked up a
 letter—what you may call a providential thing.  It's uncommonly
 fortunate I met you, though; for I don't care about seeing my stepson:
@@ -4823,13 +4823,13 @@ personal affairs.  Especially if there was anything discreditable to be
 found out concerning another man, Caleb preferred not to know it; and
 if he had to tell anybody under him that his evil doings were
 discovered, he was more embarrassed than the culprit.  He now spurred
-his horse, and saying, <said>I wish you good evening, Mr. Bulstrode; I must
+his horse, and saying, <said who=#"MrG">I wish you good evening, Mr. Bulstrode; I must
 be getting home,</said> set off at a trot.
 </P>
 
 <P>
-<said>You didn't put your full address to this letter,</said> Raffles continued.
-<said>That was not like the first-rate man of business you used to be.  'The
+<said who=#"Raffles">You didn't put your full address to this letter,</said> Raffles continued.
+<said who=#"Raffles">That was not like the first-rate man of business you used to be.  'The
 Shrubs,'—they may be anywhere: you live near at hand, eh?—have cut
 the London concern altogether—perhaps turned country squire—have a
 rural mansion to invite me to.  Lord, how many years it is ago!  The
@@ -4854,27 +4854,27 @@ rashly.
 </P>
 
 <P>
-<said>I was going home,</said> he said, <said>but I can defer my ride a little.  And
+<said who=#"B">I was going home,</said> he said, <said who=#"B">but I can defer my ride a little.  And
 you can, if you please, rest here.</said>
 </P>
 
 <P>
-<said>Thank you,</said> said Raffles, making a grimace.  <said>I don't care now about
+<said who=#"Raffles">Thank you,</said> said Raffles, making a grimace.  <said who=#"Raffles">I don't care now about
 seeing my stepson.  I'd rather go home with you.</said>
 </P>
 
 <P>
-<said>Your stepson, if Mr. Rigg Featherstone was he, is here no longer.  I
+<said who=#"B">Your stepson, if Mr. Rigg Featherstone was he, is here no longer.  I
 am master here now.</said>
 </P>
 
 <P>
 Raffles opened wide eyes, and gave a long whistle of surprise, before
-he said, <said>Well then, I've no objection.  I've had enough walking from
+he said, <said who=#"Raffles">Well then, I've no objection.  I've had enough walking from
 the coach-road. I never was much of a walker, or rider either.  What I
 like is a smart vehicle and a spirited cob.  I was always a little
 heavy in the saddle.  What a pleasant surprise it must be to you to see
-me, old fellow!</said> he continued, as they turned towards the house.  <said>You
+me, old fellow!</said> he continued, as they turned towards the house.  <said who=#"Raffles">You
 don't say so; but you never took your luck heartily—you were always
 thinking of improving the occasion—you'd such a gift for improving
 your luck.</said>
@@ -4887,7 +4887,7 @@ judicious patience.
 </P>
 
 <P>
-<said>If I remember rightly,</said> Mr. Bulstrode observed, with chill anger, <said>our
+<said who=#"B">If I remember rightly,</said> Mr. Bulstrode observed, with chill anger, <said who=#"B">our
 acquaintance many years ago had not the sort of intimacy which you are
 now assuming, Mr. Raffles.  Any services you desire of me will be the
 more readily rendered if you will avoid a tone of familiarity which did
@@ -4896,7 +4896,7 @@ than twenty years of separation.</said>
 </P>
 
 <P>
-<said>You don't like being called Nick?  Why, I always called you Nick in my
+<said who=#"Raffles">You don't like being called Nick?  Why, I always called you Nick in my
 heart, and though lost to sight, to memory dear.  By Jove! my feelings
 have ripened for you like fine old cognac.  I hope you've got some in
 the house now.  Josh filled my flask well the last time.</said>
@@ -4923,7 +4923,7 @@ wainscoted parlor, and no witness in the room, Mr. Bulstrode said—
 </P>
 
 <P>
-<said>Your habits and mine are so different, Mr. Raffles, that we can hardly
+<said who=#"B">Your habits and mine are so different, Mr. Raffles, that we can hardly
 enjoy each other's society.  The wisest plan for both of us will
 therefore be to part as soon as possible.  Since you say that you
 wished to meet me, you probably considered that you had some business
@@ -4934,7 +4934,7 @@ communication you have to make to me.</said>
 </P>
 
 <P>
-<said>With all my heart,</said> said Raffles; <said>this is a comfortable place—a
+<said who=#"B">With all my heart,</said> said Raffles; <said who=#"B">this is a comfortable place—a
 little dull for a continuance; but I can put up with it for a night,
 with this good liquor and the prospect of seeing you again in the
 morning.  You're a much better host than my stepson was; but Josh owed
@@ -5003,15 +5003,15 @@ manners seemed more disagreeable by the morning light.
 </P>
 
 <P>
-<said>As I have little time to spare, Mr. Raffles,</said> said the banker, who
+<said who=#"B">As I have little time to spare, Mr. Raffles,</said> said the banker, who
 could hardly do more than sip his tea and break his toast without
-eating it, <said>I shall be obliged if you will mention at once the ground
+eating it, <said who=#"B">I shall be obliged if you will mention at once the ground
 on which you wished to meet with me.  I presume that you have a home
 elsewhere and will be glad to return to it.</said>
 </P>
 
 <P>
-<said>Why, if a man has got any heart, doesn't he want to see an old friend,
+<said who=#"Raffles">Why, if a man has got any heart, doesn't he want to see an old friend,
 Nick?—I must call you Nick—we always did call you young Nick when we
 knew you meant to marry the old widow.  Some said you had a handsome
 family likeness to old Nick, but that was your mother's fault, calling
@@ -5022,24 +5022,24 @@ would as soon settle hereabout as anywhere.</said>
 </P>
 
 <P>
-<said>May I ask why you returned from America?  I considered that the strong
+<said who=#"B">May I ask why you returned from America?  I considered that the strong
 wish you expressed to go there, when an adequate sum was furnished, was
 tantamount to an engagement that you would remain there for life.</said>
 </P>
 
 <P>
-<said>Never knew that a wish to go to a place was the same thing as a wish
+<said who=#"Raffles">Never knew that a wish to go to a place was the same thing as a wish
 to stay.  But I did stay a matter of ten years; it didn't suit me to
 stay any longer.  And I'm not going again, Nick.</said> Here Mr. Raffles
 winked slowly as he looked at Mr. Bulstrode.
 </P>
 
 <P>
-<said>Do you wish to be settled in any business?  What is your calling now?</said>
+<said who=#"B">Do you wish to be settled in any business?  What is your calling now?</said>
 </P>
 
 <P>
-<said>Thank you, my calling is to enjoy myself as much as I can.  I don't
+<said who=#"Raffles">Thank you, my calling is to enjoy myself as much as I can.  I don't
 care about working any more.  If I did anything it would be a little
 travelling in the tobacco line—or something of that sort, which takes
 a man into agreeable company.  But not without an independence to fall
@@ -5048,13 +5048,13 @@ though I've got more color than you.  I want an independence.</said>
 </P>
 
 <P>
-<said>That could be supplied to you, if you would engage to keep at a
+<said who=#"B">That could be supplied to you, if you would engage to keep at a
 distance,</said> said Mr. Bulstrode, perhaps with a little too much eagerness
 in his undertone.
 </P>
 
 <P>
-<said>That must be as it suits my convenience,</said> said Raffles coolly.  <said>I see
+<said who=#"Raffles">That must be as it suits my convenience,</said> said Raffles coolly.  <said who=#"Raffles">I see
 no reason why I shouldn't make a few acquaintances hereabout.  I'm not
 ashamed of myself as company for anybody.  I dropped my portmanteau at
 the turnpike when I got down—change of linen—genuine—honor bright—more
@@ -5068,12 +5068,12 @@ a mourning style which implied solid connections.
 </P>
 
 <P>
-<said>If you intend to rely on me in any way, Mr. Raffles,</said> said Bulstrode,
-after a moment's pause, <said>you will expect to meet my wishes.</said>
+<said who=#"B">If you intend to rely on me in any way, Mr. Raffles,</said> said Bulstrode,
+after a moment's pause, <said who=#"B">you will expect to meet my wishes.</said>
 </P>
 
 <P>
-<said>Ah, to be sure,</said> said Raffles, with a mocking cordiality.  <said>Didn't I
+<said who=#"Raffles">Ah, to be sure,</said> said Raffles, with a mocking cordiality.  <said who=#"Raffles">Didn't I
 always do it?  Lord, you made a pretty thing out of me, and I got but
 little.  I've often thought since, I might have done better by telling
 the old woman that I'd found her daughter and her grandchild: it would
@@ -5092,7 +5092,7 @@ not a nightmare, but a waking misery.  Mr. Bulstrode felt a shuddering
 nausea, and did not speak, but was considering diligently whether he
 should not leave Raffles to do as he would, and simply defy him as a
 slanderer.  The man would soon show himself disreputable enough to make
-people disbelieve him.  <said>But not when he tells any ugly-looking truth
+people disbelieve him.  <said who=#"B">But not when he tells any ugly-looking truth
 about <I>you</I>,</said> said discerning consciousness.  And again: it seemed no
 wrong to keep Raffles at a distance, but Mr. Bulstrode shrank from the
 direct falsehood of denying true statements.  It was one thing to look
@@ -5107,7 +5107,7 @@ to the utmost.
 </P>
 
 <P>
-<said>I've not had such fine luck as you, by Jove!  Things went confoundedly
+<said who=#"Raffles">I've not had such fine luck as you, by Jove!  Things went confoundedly
 with me in New York; those Yankees are cool hands, and a man of
 gentlemanly feelings has no chance with them.  I married when I came
 back—a nice woman in the tobacco trade—very fond of me—but the
@@ -5133,7 +5133,7 @@ and he said, with gathered resolution—
 </P>
 
 <P>
-<said>You will do well to reflect, Mr. Raffles, that it is possible for a
+<said who=#"B">You will do well to reflect, Mr. Raffles, that it is possible for a
 man to overreach himself in the effort to secure undue advantage.
 Although I am not in any way bound to you, I am willing to supply you
 with a regular annuity—in quarterly payments—so long as you fulfil a
@@ -5143,17 +5143,17 @@ time, you will get nothing from me.  I shall decline to know you.</said>
 </P>
 
 <P>
-<said>Ha, ha!</said> said Raffles, with an affected explosion, <said>that reminds me of
+<said who=#"Raffles">Ha, ha!</said> said Raffles, with an affected explosion, <said who=#"Raffles">that reminds me of
 a droll dog of a thief who declined to know the constable.</said>
 </P>
 
 <P>
-<said>Your allusions are lost on me sir,</said> said Bulstrode, with white heat;
-<said>the law has no hold on me either through your agency or any other.</said>
+<said who=#"B">Your allusions are lost on me sir,</said> said Bulstrode, with white heat;
+<said who=#"B">the law has no hold on me either through your agency or any other.</said>
 </P>
 
 <P>
-<said>You can't understand a joke, my good fellow.  I only meant that I
+<said who=#"Raffles">You can't understand a joke, my good fellow.  I only meant that I
 should never decline to know you.  But let us be serious.  Your
 quarterly payment won't quite suit me.  I like my freedom.</said>
 </P>
@@ -5161,7 +5161,7 @@ quarterly payment won't quite suit me.  I like my freedom.</said>
 <P>
 Here Raffles rose and stalked once or twice up and down the room,
 swinging his leg, and assuming an air of masterly meditation.  At last
-he stopped opposite Bulstrode, and said, <said>I'll tell you what!  Give us
+he stopped opposite Bulstrode, and said, <said who=#"Raffles">I'll tell you what!  Give us
 a couple of hundreds—come, that's modest—and I'll go away—honor
 bright!—pick up my portmanteau and go away.  But I shall not give up
 my liberty for a dirty annuity.  I shall come and go where I like.
@@ -5170,14 +5170,14 @@ perhaps not.  Have you the money with you?</said>
 </P>
 
 <P>
-<said>No, I have one hundred,</said> said Bulstrode, feeling the immediate
+<said who=#"B">No, I have one hundred,</said> said Bulstrode, feeling the immediate
 riddance too great a relief to be rejected on the ground of future
-uncertainties.  <said>I will forward you the other if you will mention an
+uncertainties.  <said who=#"B">I will forward you the other if you will mention an
 address.</said>
 </P>
 
 <P>
-<said>No, I'll wait here till you bring it,</said> said Raffles.  <said>I'll take a
+<said who=#"Raffles">No, I'll wait here till you bring it,</said> said Raffles.  <said who=#"Raffles">I'll take a
 stroll and have a snack, and you'll be back by that time.</said>
 </P>
 
@@ -5191,7 +5191,7 @@ sudden recollection—
 </P>
 
 <P>
-<said>I did have another look after Sarah again, though I didn't tell you;
+<said who=#"Raffles">I did have another look after Sarah again, though I didn't tell you;
 I'd a tender conscience about that pretty young woman.  I didn't find
 her, but I found out her husband's name, and I made a note of it.  But
 hang it, I lost my pocketbook.  However, if I heard it, I should know
@@ -5203,8 +5203,8 @@ she's your step-daughter.</said>
 </P>
 
 <P>
-<said>Doubtless,</said> said Mr. Bulstrode, with the usual steady look of his
-light-gray eyes; <said>though that might reduce my power of assisting you.</said>
+<said who=#"B">Doubtless,</said> said Mr. Bulstrode, with the usual steady look of his
+light-gray eyes; <said who=#"B">though that might reduce my power of assisting you.</said>
 </P>
 
 <P>
@@ -5215,14 +5215,14 @@ with a short triumphant laugh.
 </P>
 
 <P>
-<said>But what the deuce was the name?</said> he presently said, half aloud,
+<said who=#"RafB">But what the deuce was the name?</said> he presently said, half aloud,
 scratching his head, and wrinkling his brows horizontally.  He had not
 really cared or thought about this point of forgetfulness until it
 occurred to him in his invention of annoyances for Bulstrode.
 </P>
 
 <P>
-<said>It began with L; it was almost all l's I fancy,</said> he went on, with a
+<said who=#"Raffles">It began with L; it was almost all l's I fancy,</said> he went on, with a
 sense that he was getting hold of the slippery name.  But the hold was
 too slight, and he soon got tired of this mental chase; for few men
 were more impatient of private occupation or more in need of making
@@ -5236,7 +5236,7 @@ Bulstrode's position in Middlemarch.
 After all, however, there was a dull space of time which needed
 relieving with bread and cheese and ale, and when he was seated alone
 with these resources in the wainscoted parlor, he suddenly slapped his
-knee, and exclaimed, <said>Ladislaw!</said>  That action of memory which he had
+knee, and exclaimed, <said who=#"Raffles">Ladislaw!</said>  That action of memory which he had
 tried to set going, and had abandoned in despair, had suddenly
 completed itself without conscious effort—a common experience,
 agreeable as a completed sneeze, even if the name remembered is of no
@@ -5257,5 +5257,3 @@ of his hearth.
 </P>
 
 <BR/><BR/><BR/>
-
-
