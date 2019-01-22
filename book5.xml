@@ -60,7 +60,7 @@ Mrs. Lydgate was at home.
 </P>
 
 <P>
-<said>I will go in and speak to her, if she will allow me.  Will you ask her
+<said who="#unnamed">I will go in and speak to her, if she will allow me.  Will you ask her
 if she can see me—see Mrs. Casaubon, for a few minutes?</said>
 </P>
 
@@ -80,21 +80,21 @@ exactly what stuff it was that Dorothea wore in those days of mild
 autumn—that thin white woollen stuff soft to the touch and soft to the
 eye.  It always seemed to have been lately washed, and to smell of the
 sweet hedges—was always in the shape of a pelisse with sleeves hanging
-all out of the fashion.  Yet if she had entered before a still audience
+all out of the fashion. <first> Yet if she had entered before a still audience
 as Imogene or Cato's daughter, the dress might have seemed right
 enough: the grace and dignity were in her limbs and neck; and about her
 simply parted hair and candid eyes the large round poke which was then
 in the fate of women, seemed no more odd as a head-dress than the gold
-trencher we call a halo.  By the present audience of two persons, no
+trencher we call a halo. </first> By the present audience of two persons, no
 dramatic heroine could have been expected with more interest than Mrs.
 Casaubon.  To Rosamond she was one of those county divinities not
 mixing with Middlemarch mortality, whose slightest marks of manner or
 appearance were worthy of her study; moreover, Rosamond was not without
 satisfaction that Mrs. Casaubon should have an opportunity of studying
-<I>her</I>. What is the use of being exquisite if you are not seen by the
+<I>her</I>. <second>What is the use of being exquisite if you are not seen by the
 best judges? and since Rosamond had received the highest compliments at
 Sir Godwin Lydgate's, she felt quite confident of the impression she
-must make on people of good birth.  Dorothea put out her hand with her
+must make on people of good birth.</second>  Dorothea put out her hand with her
 usual simple kindness, and looked admiringly at Lydgate's lovely
 bride—aware that there was a gentleman standing at a distance, but
 seeing him merely as a coated figure at a wide angle.  The gentleman
@@ -597,7 +597,7 @@ Tankard in Slaughter Lane.
 </P>
 
 <P>
-Mrs. Dollop became more and more convinced by her own asseveration,
+<second> Mrs. Dollop became more and more convinced by her own asseveration,
 that Dr. Lydgate meant to let the people die in the Hospital, if not to
 poison them, for the sake of cutting them up without saying by your
 leave or with your leave; for it was a known <said>fac</said> that he had wanted
@@ -605,7 +605,7 @@ to cut up Mrs. Goby, as respectable a woman as any in Parley Street,
 who had money in trust before her marriage—a poor tale for a doctor,
 who if he was good for anything should know what was the matter with
 you before you died, and not want to pry into your inside after you
-were gone.  If that was not reason, Mrs. Dollop wished to know what
+were gone. </second> If that was not reason, Mrs. Dollop wished to know what
 was; but there was a prevalent feeling in her audience that her opinion
 was a bulwark, and that if it were overthrown there would be no limits
 to the cutting-up of bodies, as had been well seen in Burke and Hare
@@ -641,12 +641,12 @@ him; also, many who did not like paying their doctor's bills, thought
 agreeably of opening an account with a new doctor and sending for him
 without stint if the children's temper wanted a dose, occasions when
 the old practitioners were often crusty; and all persons thus inclined
-to employ Lydgate held it likely that he was clever.  Some considered
-that he might do more than others <said>where there was liver;—at least
-there would be no harm in getting a few bottles of "stuff</said> from him,
+to employ Lydgate held it likely that he was clever. <second> Some considered
+that he might do more than others where there was liver;—at least
+there would be no harm in getting a few bottles of "stuff" from him,
 since if these proved useless it would still be possible to return to
 the Purifying Pills, which kept you alive if they did not remove the
-yellowness.  But these were people of minor importance.  Good
+yellowness.</second>  But these were people of minor importance.  Good
 Middlemarch families were of course not going to change their doctor
 without reason shown; and everybody who had employed Mr. Peacock did
 not feel obliged to accept a new man merely in the character of his
@@ -811,11 +811,11 @@ breathing apparatus <said>longs.</said>
 Other medical men felt themselves more capable.  Mr. Toller shared the
 highest practice in the town and belonged to an old Middlemarch family:
 there were Tollers in the law and everything else above the line of
-retail trade.  Unlike our irascible friend Wrench, he had the easiest
+retail trade. <first> Unlike our irascible friend Wrench, he had the easiest
 way in the world of taking things which might be supposed to annoy him,
 being a well-bred, quietly facetious man, who kept a good house, was
 very fond of a little sporting when he could get it, very friendly with
-Mr. Hawley, and hostile to Mr. Bulstrode.  It may seem odd that with
+Mr. Hawley, and hostile to Mr. Bulstrode. </first> It may seem odd that with
 such pleasant habits he should have been given to the heroic treatment,
 bleeding and blistering and starving his patients, with a dispassionate
 disregard to his personal example; but the incongruity favored the
@@ -929,11 +929,11 @@ might be attended with a blessing.
 </P>
 
 <P>
-But in this doubtful stage of Lydgate's introduction he was helped by
-what we mortals rashly call good fortune.  I suppose no doctor ever
+<first> But in this doubtful stage of Lydgate's introduction he was helped by
+what we mortals rashly call good fortune. </first> <first> I suppose no doctor ever
 came newly to a place without making cures that surprised somebody—cures
 which may be called fortune's testimonials, and deserve as much
-credit as the written or printed kind.  Various patients got well while
+credit as the written or printed kind. </first> Various patients got well while
 Lydgate was attending them, some even of dangerous illnesses; and it
 was remarked that the new doctor with his new ways had at least the
 merit of bringing people back from the brink of death.  The trash
@@ -1071,12 +1071,12 @@ to Mr. Wrench's enmity towards Lydgate more definite personal ground.
 The new-comer already threatened to be a nuisance in the shape of
 rivalry, and was certainly a nuisance in the shape of practical
 criticism or reflections on his hard-driven elders, who had had
-something else to do than to busy themselves with untried notions.  His
+something else to do than to busy themselves with untried notions. <second> His
 practice had spread in one or two quarters, and from the first the
 report of his high family had led to his being pretty generally
 invited, so that the other medical men had to meet him at dinner in the
 best houses; and having to meet a man whom you dislike is not observed
-always to end in a mutual attachment.  There was hardly ever so much
+always to end in a mutual attachment. </second> There was hardly ever so much
 unanimity among them as in the opinion that Lydgate was an arrogant
 young fellow, and yet ready for the sake of ultimately predominating to
 show a crawling subservience to Bulstrode.  That Mr. Farebrother, whose
@@ -1095,12 +1095,12 @@ the building, on the ground that they preferred giving to the Old
 Infirmary.  Mr. Bulstrode met all the expenses, and had ceased to be
 sorry that he was purchasing the right to carry out his notions of
 improvement without hindrance from prejudiced coadjutors; but he had
-had to spend large sums, and the building had lingered.  Caleb Garth
+had to spend large sums, and the building had lingered. <second> Caleb Garth
 had undertaken it, had failed during its progress, and before the
 interior fittings were begun had retired from the management of the
 business; and when referring to the Hospital he often said that however
 Bulstrode might ring if you tried him, he liked good solid carpentry
-and masonry, and had a notion both of drains and chimneys.  In fact,
+and masonry, and had a notion both of drains and chimneys. </second> In fact,
 the Hospital had become an object of intense interest to Bulstrode, and
 he would willingly have continued to spare a large yearly sum that he
 might rule it dictatorially without any Board; but he had another
@@ -1217,9 +1217,9 @@ memory.
 
 <P>
 Affairs were in this stage when Lydgate opened the subject of the
-Hospital to Dorothea.  We see that he was bearing enmity and silly
+Hospital to Dorothea. <first>  We see that he was bearing enmity and silly
 misconception with much spirit, aware that they were partly created by
-his good share of success.
+his good share of success. </first>
 </P>
 
 <P>
@@ -1561,10 +1561,10 @@ dramas, trying prose and finding it too jejune, trying verse and
 finding it too artificial, beginning to copy <said who=#"Lad"> bits</said> from old pictures,
 leaving off because they were <said who=#"Lad">no good,</said> and observing that, after all,
 self-culture was the principal point; while in politics he would have
-been sympathizing warmly with liberty and progress in general.  Our
+been sympathizing warmly with liberty and progress in general. <first> Our
 sense of duty must often wait for some work which shall take the place
 of dilettanteism and make us feel that the quality of our action is not
-a matter of indifference.
+a matter of indifference. </first>
 </P>
 
 <P>
@@ -1658,9 +1658,9 @@ This dangerous aspect of Ladislaw was strangely contrasted with other
 habits which became matter of remark.  He had a fondness, half
 artistic, half affectionate, for little children—the smaller they were
 on tolerably active legs, and the funnier their clothing, the better
-Will liked to surprise and please them.  We know that in Rome he was
+Will liked to surprise and please them. <first> We know that in Rome he was
 given to ramble about among the poor people, and the taste did not quit
-him in Middlemarch.
+him in Middlemarch. </first>
 </P>
 
 <P>
@@ -1971,39 +1971,39 @@ Well, for no definite end.  True, he had dreamy visions of
 possibilities: there is no human being who having both passions and
 thoughts does not think in consequence of his passions—does not find
 images rising in his mind which soothe the passion with hope or sting
-it with dread.  But this, which happens to us all, happens to some with
+it with dread. <first> But this, which happens to us all, happens to some with
 a wide difference; and Will was not one of those whose wit <said>keeps the
 roadway:</said> he had his bypaths where there were little joys of his own
 choosing, such as gentlemen cantering on the highroad might have
-thought rather idiotic.  The way in which he made a sort of happiness
-for himself out of his feeling for Dorothea was an example of this.  It
+thought rather idiotic. </first> The way in which he made a sort of happiness
+for himself out of his feeling for Dorothea was an example of this. <first> It
 may seem strange, but it is the fact, that the ordinary vulgar vision
 of which Mr. Casaubon suspected him—namely, that Dorothea might become
 a widow, and that the interest he had established in her mind might
 turn into acceptance of him as a husband—had no tempting, arresting
 power over him; he did not live in the scenery of such an event, and
 follow it out, as we all do with that imagined <said>otherwise</said> which is our
-practical heaven.  It was not only that he was unwilling to entertain
+practical heaven. </first> It was not only that he was unwilling to entertain
 thoughts which could be accused of baseness, and was already uneasy in
 the sense that he had to justify himself from the charge of
 ingratitude—the latent consciousness of many other barriers between
 himself and Dorothea besides the existence of her husband, had helped
 to turn away his imagination from speculating on what might befall Mr.
-Casaubon.  And there were yet other reasons.  Will, we know, could not
+Casaubon.  And there were yet other reasons. <first> Will, we know, could not
 bear the thought of any flaw appearing in his crystal: he was at once
 exasperated and delighted by the calm freedom with which Dorothea
 looked at him and spoke to him, and there was something so exquisite in
 thinking of her just as she was, that he could not long for a change
-which must somehow change her.  Do we not shun the street version of a
+which must somehow change her. </first> <first> Do we not shun the street version of a
 fine melody?—or shrink from the news that the rarity—some bit of
 chiselling or engraving perhaps—which we have dwelt on even with
 exultation in the trouble it has cost us to snatch glimpses of it, is
 really not an uncommon thing, and may be obtained as an every-day
-possession?  Our good depends on the quality and breadth of our
+possession? </first> <first> Our good depends on the quality and breadth of our
 emotion; and to Will, a creature who cared little for what are called
 the solid things of life and greatly for its subtler influences, to
 have within him such a feeling as he had towards Dorothea, was like the
-inheritance of a fortune.  What others might have called the futility
+inheritance of a fortune. </first> What others might have called the futility
 of his passion, made an additional delight for his imagination: he was
 conscious of a generous movement, and of verifying in his own
 experience that higher love-poetry which had charmed his fancy.
@@ -2084,10 +2084,10 @@ Sunday, and to approve of his going to Lowick Church.  Will easily felt
 happy when nothing crossed his humor, and by this time the thought of
 vexing Mr. Casaubon had become rather amusing to him, making his face
 break into its merry smile, pleasant to see as the breaking of sunshine
-on the water—though the occasion was not exemplary.  But most of us
+on the water—though the occasion was not exemplary. <first> But most of us
 are apt to settle within ourselves that the man who blocks our way is
 odious, and not to mind causing him a little of the disgust which his
-personality excites in ourselves.  Will went along with a small book
+personality excites in ourselves. </first> Will went along with a small book
 under his arm and a hand in each side-pocket, never reading, but
 chanting a little, as he made scenes of what would happen in church and
 coming out.  He was experimenting in tunes to suit some words of his
@@ -2127,13 +2127,13 @@ in uncertain promises.
 <P>
 The bells were still ringing when he got to Lowick, and he went into
 the curate's pew before any one else arrived there.  But he was still
-left alone in it when the congregation had assembled.  The curate's pew
+left alone in it when the congregation had assembled. <first> The curate's pew
 was opposite the rector's at the entrance of the small chancel, and
 Will had time to fear that Dorothea might not come while he looked
 round at the group of rural faces which made the congregation from year
 to year within the white-washed walls and dark old pews, hardly with
 more change than we see in the boughs of a tree which breaks here and
-there with age, but yet has young shoots.  Mr. Rigg's frog-face was
+there with age, but yet has young shoots. </first> Mr. Rigg's frog-face was
 something alien and unaccountable, but notwithstanding this shock to
 the order of things, there were still the Waules and the rural stock of
 the Powderells in their pews side by side; brother Samuel's cheek had
@@ -3182,12 +3182,12 @@ Casaubon was spiteful.  I never did like him, and James never did.  I
 think the corners of his mouth were dreadfully spiteful.  And now he
 has behaved in this way, I am sure religion does not require you to
 make yourself uncomfortable about him.  If he has been taken away, that
-is a mercy, and you ought to be grateful.  We should not grieve, should
-we, baby?</said> said Celia confidentially to that unconscious centre and
+is a mercy, and you ought to be grateful. We should not grieve, should
+we, baby?</said> said <FID who="#Celia"> Celia confidentially to that unconscious centre and
 poise of the world, who had the most remarkable fists all complete even
 to the nails, and hair enough, really, when you took his cap off, to
 make—you didn't know what:—in short, he was Bouddha in a Western
-form.
+form. </FID>
 </P>
 
 <P>
@@ -3520,8 +3520,8 @@ try to poison.
 
 <P>
 <said who=#"Lad">We are forever divided,</said> said Will.  <said who=#"Lad">I might as well be at Rome; she
-would be no farther from me.</said>  But what we call our despair is often
-only the painful eagerness of unfed hope.  There were plenty of reasons
+would be no farther from me.</said> <first> But what we call our despair is often
+only the painful eagerness of unfed hope. </first> There were plenty of reasons
 why he should not go—public reasons why he should not quit his post at
 this crisis, leaving Mr. Brooke in the lurch when he needed <said>coaching</said>
 for the election, and when there was so much canvassing, direct and
@@ -3674,16 +3674,16 @@ sort, and that he worked no meaner engine than knowledge.  Mr. Brooke,
 necessarily, had his agents, who understood the nature of the
 Middlemarch voter and the means of enlisting his ignorance on the side
 of the Bill—which were remarkably similar to the means of enlisting it
-on the side against the Bill.  Will stopped his ears.  Occasionally
+on the side against the Bill.  Will stopped his ears. <first> Occasionally
 Parliament, like the rest of our lives, even to our eating and apparel,
-could hardly go on if our imaginations were too active about processes.
+could hardly go on if our imaginations were too active about processes. </first>
 There were plenty of dirty-handed men in the world to do dirty
 business; and Will protested to himself that his share in bringing Mr.
 Brooke through would be quite innocent.
 </P>
 
 <P>
-But whether he should succeed in that mode of contributing to the
+But whether he should succeed in that mode of contributing to the©
 majority on the right side was very doubtful to him.  He had written
 out various speeches and memoranda for speeches, but he had begun to
 perceive that Mr. Brooke's mind, if it had the burthen of remembering
@@ -3848,8 +3848,8 @@ Mr. Brooke himself was not in a position to be quickly conscious of
 anything except a general slipping away of ideas within himself: he had
 even a little singing in the ears, and he was the only person who had
 not yet taken distinct account of the echo or discerned the image of
-himself.  Few things hold the perceptions more thoroughly captive than
-anxiety about what we have got to say.  Mr. Brooke heard the laughter;
+himself. <first> Few things hold the perceptions more thoroughly captive than
+anxiety about what we have got to say. </first> Mr. Brooke heard the laughter;
 but he had expected some Tory efforts at disturbance, and he was at
 this moment additionally excited by the tickling, stinging sense that
 his lost exordium was coming back to fetch him from the Baltic.
@@ -3864,7 +3864,7 @@ a man of ideas, and we want ideas, you know.</said>
 </P>
 
 <P>
-<said>Blast your ideas! we want the Bill,</said> said a loud rough voice from the
+<said who="#unnamed">Blast your ideas! we want the Bill,</said> said a loud rough voice from the
 crowd below.
 </P>
 
@@ -4187,10 +4187,10 @@ ended, smiling.
 </P>
 
 <P>
-The Vicar did feel then as if his share of duties would be easy.  But
+The Vicar did feel then as if his share of duties would be easy. <first> But
 Duty has a trick of behaving unexpectedly—something like a heavy
 friend whom we have amiably asked to visit us, and who breaks his leg
-within our gates.
+within our gates. </first>
 </P>
 
 <P>
@@ -4670,9 +4670,9 @@ place to the perpetual surprise and disappointment of other survivors.
 </P>
 
 <P>
-But how little we know what would make paradise for our neighbors!  We
+<first> But how little we know what would make paradise for our neighbors! </first><first> We
 judge from our own desires, and our neighbors themselves are not always
-open enough even to throw out a hint of theirs.  The cool and judicious
+open enough even to throw out a hint of theirs.</first>  The cool and judicious
 Joshua Rigg had not allowed his parent to perceive that Stone Court was
 anything less than the chief good in his estimation, and he had
 certainly wished to call it his own.  But as Warren Hastings looked at
@@ -4700,12 +4700,12 @@ safes and locks.
 </P>
 
 <P>
-Enough.  We are concerned with looking at Joshua Rigg's sale of his
+<first> Enough.  We are concerned with looking at Joshua Rigg's sale of his
 land from Mr. Bulstrode's point of view, and he interpreted it as a
 cheering dispensation conveying perhaps a sanction to a purpose which
 he had for some time entertained without external encouragement; he
 interpreted it thus, but not too confidently, offering up his
-thanksgiving in guarded phraseology.  His doubts did not arise from the
+thanksgiving in guarded phraseology. </first> His doubts did not arise from the
 possible relations of the event to Joshua Rigg's destiny, which
 belonged to the unmapped regions not taken under the providential
 government, except perhaps in an imperfect colonial way; but they arose
@@ -4714,12 +4714,12 @@ himself, as Mr. Farebrother's induction to the living clearly was.
 </P>
 
 <P>
-This was not what Mr. Bulstrode said to any man for the sake of
+<second> This was not what Mr. Bulstrode said to any man for the sake of
 deceiving him: it was what he said to himself—it was as genuinely his
 mode of explaining events as any theory of yours may be, if you happen
-to disagree with him.  For the egoism which enters into our theories
+to disagree with him. </second> <first> For the egoism which enters into our theories
 does not affect their sincerity; rather, the more our egoism is
-satisfied, the more robust is our belief.
+satisfied, the more robust is our belief. </first>
 </P>
 
 <P>
@@ -4757,10 +4757,10 @@ than usually serene, under the influence of his innocent recreation.
 He was doctrinally convinced that there was a total absence of merit in
 himself; but that doctrinal conviction may be held without pain when
 the sense of demerit does not take a distinct shape in memory and
-revive the tingling of shame or the pang of remorse.  Nay, it may be
+revive the tingling of shame or the pang of remorse. <first> Nay, it may be
 held with intense satisfaction when the depth of our sinning is but a
 measure for the depth of forgiveness, and a clenching proof that we are
-peculiar instruments of the divine intention.  The memory has as many
+peculiar instruments of the divine intention. </first> The memory has as many
 moods as the temper, and shifts its scenery like a diorama.  At this
 moment Mr. Bulstrode felt as if the sunshine were all one with that of
 far-off evenings when he was a very young man and used to go out
@@ -4778,9 +4778,9 @@ He's like one of those men one sees about after the races.</said>
 
 <P>
 Mr. Bulstrode turned his horse and looked along the lane, but made no
-reply.  The comer was our slight acquaintance Mr. Raffles, whose
+reply. <first> The comer was our slight acquaintance Mr. Raffles, whose
 appearance presented no other change than such as was due to a suit of
-black and a crape hat-band. He was within three yards of the horseman
+black and a crape hat-band.</first> He was within three yards of the horseman
 now, and they could see the flash of recognition in his face as he
 whirled his stick upward, looking all the while at Mr. Bulstrode, and
 at last exclaiming:—
@@ -4969,13 +4969,13 @@ espoused, in one heap of obloquy?
 <P>
 In his closest meditations the life-long habit of Mr. Bulstrode's mind
 clad his most egoistic terrors in doctrinal references to superhuman
-ends.  But even while we are talking and meditating about the earth's
+ends. <first> But even while we are talking and meditating about the earth's
 orbit and the solar system, what we feel and adjust our movements to is
-the stable earth and the changing day.  And now within all the
+the stable earth and the changing day. </first> <first> And now within all the
 automatic succession of theoretic phrases—distinct and inmost as the
 shiver and the ache of oncoming fever when we are discussing abstract
 pain, was the forecast of disgrace in the presence of his neighbors and
-of his own wife.  For the pain, as well as the public estimate of
+of his own wife. </first> For the pain, as well as the public estimate of
 disgrace, depends on the amount of previous profession.  To men who
 only aim at escaping felony, nothing short of the prisoner's dock is
 disgrace.  But Mr. Bulstrode had aimed at being an eminent Christian.
