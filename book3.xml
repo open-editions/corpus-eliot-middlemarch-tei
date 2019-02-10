@@ -1668,7 +1668,7 @@ don't want him to be taken from me.</said>
 <P>
 <said who="#MrV">It will worret you to death, Lucy; <I>that</I> I can see,</said> said Mr. Vincy,
 more mildly.  <said who="#MrV">However, Wrench shall know what I think of the matter.</said>
-<FID who="MrV"> (What Mr. Vincy thought confusedly was, that the fever might somehow
+<FID who="#MrV"> (What Mr. Vincy thought confusedly was, that the fever might somehow
 have been hindered if Wrench had shown the proper solicitude about
 his—the Mayor's—family.) </FID> <said who="#MrV">I'm the last man to give in to the cry
 about new doctors, or new parsons either—whether they're Bulstrode's
@@ -3300,12 +3300,12 @@ Rosamond.
 </P>
 
 <P>
-<said who="MrsPlymdale">Why do you say 'poor Rosamond'?</said> said Mrs. Plymdale, a round-eyed
+<said who="#MrsPlymdale">Why do you say 'poor Rosamond'?</said> said Mrs. Plymdale, a round-eyed
 sharp little woman, like a tamed falcon.
 </P>
 
 <P>
-<said who="MrsB">She is so pretty, and has been brought up in such thoughtlessness.
+<said who="#MrsB">She is so pretty, and has been brought up in such thoughtlessness.
 The mother, you know, had always that levity about her, which makes me
 anxious for the children.</said>
 </P>
