@@ -33,7 +33,7 @@ CHAPTER XLIII.
 Dorothea seldom left home without her husband, but she did occasionally
 drive into Middlemarch alone, on little errands of shopping or charity
 such as occur to every lady of any wealth when she lives within three
-miles of a town. <FID who="#D"> Two days after that scene in the Yew-tree Walk, she
+miles of a town. <said who="#D" direct="false" aloud="false"> Two days after that scene in the Yew-tree Walk, she
 determined to use such an opportunity in order if possible to see
 Lydgate, and learn from him whether her husband had really felt any
 depressing change of symptoms which he was concealing from her, and
@@ -41,7 +41,7 @@ whether he had insisted on knowing the utmost about himself.  She felt
 almost guilty in asking for knowledge about him from another, but the
 dread of being without it—the dread of that ignorance which would make
 her unjust or hard—overcame every scruple.  That there had been some
-crisis in her husband's mind she was certain:</FID> he had the very next day
+crisis in her husband's mind she was certain:</said> he had the very next day
 begun a new method of arranging his notes, and had associated her quite
 newly in carrying out his plan.  Poor Dorothea needed to lay up stores
 of patience.
@@ -49,14 +49,14 @@ of patience.
 
 <P>
 It was about four o'clock when she drove to Lydgate's house in Lowick
-Gate, <FID who="#D"> wishing, in her immediate doubt of finding him at home, that she
-had written beforehand.  And he was not at home. </FID>
+Gate, <said who="#D" direct="false" aloud="false"> wishing, in her immediate doubt of finding him at home, that she
+had written beforehand.  And he was not at home. </said>
 </P>
 
 <P>
-<said who="#D">Is Mrs. Lydgate at home?</said> said Dorothea, <FID who="#D"> who had never, that she knew
+<said who="#D">Is Mrs. Lydgate at home?</said> said Dorothea, <said who="#D" direct="false" aloud="false"> who had never, that she knew
 of, seen Rosamond, but now remembered the fact of the marriage.  Yes,
-Mrs. Lydgate was at home. </FID>
+Mrs. Lydgate was at home. </said>
 </P>
 
 <P>
@@ -87,14 +87,14 @@ simply parted hair and candid eyes the large round poke which was then
 in the fate of women, seemed no more odd as a head-dress than the gold
 trencher we call a halo. </first> By the present audience of two persons, no
 dramatic heroine could have been expected with more interest than Mrs.
-Casaubon.  <FID who="#R"> To Rosamond she was one of those county divinities not
+Casaubon.  <said who="#R" direct="false" aloud="false"> To Rosamond she was one of those county divinities not
 mixing with Middlemarch mortality, whose slightest marks of manner or
 appearance were worthy of her study; moreover, Rosamond was not without
 satisfaction that Mrs. Casaubon should have an opportunity of studying
-<I>her</I>. <second>What is the use of being exquisite if you are not seen by the
+<emph rend="italics">her</emph>. <second>What is the use of being exquisite if you are not seen by the
 best judges? and since Rosamond had received the highest compliments at
 Sir Godwin Lydgate's, she felt quite confident of the impression she
-must make on people of good birth.</second> </FID> Dorothea put out her hand with her
+must make on people of good birth.</second> </said> Dorothea put out her hand with her
 usual simple kindness, and looked admiringly at Lydgate's lovely
 bride—aware that there was a gentleman standing at a distance, but
 seeing him merely as a coated figure at a wide angle.  The gentleman
@@ -163,7 +163,7 @@ and Dorothea drove away.
 
 <P>
 In the five minutes' drive to the Hospital she had time for some
-reflections that were quite new to her. <FID who="#D"> Her decision to go, and her
+reflections that were quite new to her. <said who="#D" direct="false" aloud="false"> Her decision to go, and her
 preoccupation in leaving the room, had come from the sudden sense that
 there would be a sort of deception in her voluntarily allowing any
 further intercourse between herself and Will which she was unable to
@@ -179,7 +179,7 @@ passed some time with her under like circumstances, so why should there
 be any unfitness in the fact?  But Will was Mr. Casaubon's relative,
 and one towards whom she was bound to show kindness.  Still there had
 been signs which perhaps she ought to have understood as implying that
-Mr. Casaubon did not like his cousin's visits during his own absence. </FID>
+Mr. Casaubon did not like his cousin's visits during his own absence. </said>
 <said who="#D">Perhaps I have been mistaken in many things,</said> said poor Dorothea to
 herself, while the tears came rolling and she had to dry them quickly.
 She felt confusedly unhappy, and the image of Will which had been so
@@ -191,7 +191,7 @@ had made her seek for this interview.
 
 <P>
 Will Ladislaw, meanwhile, was mortified, and knew the reason of it
-clearly enough. <FID who="#LAD"> His chances of meeting Dorothea were rare; and here
+clearly enough. <said who="#LAD" direct="false" aloud="false"> His chances of meeting Dorothea were rare; and here
 for the first time there had come a chance which had set him at a
 disadvantage.  It was not only, as it had been hitherto, that she was
 not supremely occupied with him, but that she had seen him under
@@ -220,7 +220,7 @@ time some sense of unfitness in perfect freedom with him had sprung up
 in Dorothea's mind, and that their silence, as he conducted her to the
 carriage, had had a chill in it.  Perhaps Casaubon, in his hatred and
 jealousy, had been insisting to Dorothea that Will had slid below her
-socially.  Confound Casaubon! </FID>
+socially.  Confound Casaubon! </said>
 </P>
 
 <P>
@@ -317,7 +317,7 @@ bric-a-brac, but likable.</said>
 </P>
 
 <P>
-<FID who="#R"> Rosamond felt herself beginning to know a great deal of the world,
+<said who="#R" direct="false" aloud="false"> Rosamond felt herself beginning to know a great deal of the world,
 especially in discovering what when she was in her unmarried girlhood
 had been inconceivable to her except as a dim tragedy in by-gone
 costumes—that women, even after marriage, might make conquests and
@@ -332,7 +332,7 @@ with a husband as crown-prince by your side—himself in fact a
 subject—while the captives look up forever hopeless, losing their
 rest probably, and if their appetite too, so much the better!  But
 Rosamond's romance turned at present chiefly on her crown-prince, and
-it was enough to enjoy his assured subjection. </FID> When he said, <said who="#Lyd">Poor
+it was enough to enjoy his assured subjection. </said> When he said, <said who="#Lyd">Poor
 devil!</said> she asked, with playful curiosity—
 </P>
 
@@ -537,13 +537,13 @@ Casaubon.  I must hasten home now.</said>
 <P>
 She did mention it that evening, and said that she should like to
 subscribe two hundred a-year—she had seven hundred a-year as the
-equivalent of her own fortune, settled on her at her marriage.<FID who="#C">  Mr.
+equivalent of her own fortune, settled on her at her marriage.<said who="#C" direct="false" aloud="false">  Mr.
 Casaubon made no objection beyond a passing remark that the sum might
 be disproportionate in relation to other good objects, but when
 Dorothea in her ignorance resisted that suggestion, he acquiesced.  He
 did not care himself about spending money, and was not reluctant to
 give it.  If he ever felt keenly any question of money it was through
-the medium of another passion than the love of material property. </FID>
+the medium of another passion than the love of material property. </said>
 </P>
 
 <P>
@@ -579,7 +579,7 @@ Pseudodoxia Epidemica.
 That opposition to the New Fever Hospital which Lydgate had sketched to
 Dorothea was, like other oppositions, to be viewed in many different
 lights.  He regarded it as a mixture of jealousy and dunderheaded
-prejudice. <FID who="#B"> Mr. Bulstrode saw in it not only medical jealousy but a
+prejudice. <said who="#B" direct="false" aloud="false"> Mr. Bulstrode saw in it not only medical jealousy but a
 determination to thwart himself, prompted mainly by a hatred of that
 vital religion of which he had striven to be an effectual lay
 representative—a hatred which certainly found pretexts apart from
@@ -593,11 +593,11 @@ great deal of echo in it, for heaven has taken care that everybody
 shall not be an originator; but there were differences which
 represented every social shade between the polished moderation of Dr.
 Minchin and the trenchant assertion of Mrs. Dollop, the landlady of the
-Tankard in Slaughter Lane. </FID>
+Tankard in Slaughter Lane. </said>
 </P>
 
 <P>
-<second> <FID who="#MrsDollop"> Mrs. Dollop became more and more convinced by her own asseveration,
+<second> <said who="#MrsDollop" direct="false" aloud="false"> Mrs. Dollop became more and more convinced by her own asseveration,
 that Dr. Lydgate meant to let the people die in the Hospital, if not to
 poison them, for the sake of cutting them up without saying by your
 leave or with your leave; for it was a known "fac" that he had wanted
@@ -610,7 +610,7 @@ was; but there was a prevalent feeling in her audience that her opinion
 was a bulwark, and that if it were overthrown there would be no limits
 to the cutting-up of bodies, as had been well seen in Burke and Hare
 with their pitch-plaisters—such a hanging business as that was not
-wanted in Middlemarch! </FID>
+wanted in Middlemarch! </said>
 </P>
 
 <P>
@@ -712,7 +712,7 @@ Lydgate smiled as he ended his speech, putting his foot into the
 stirrup, and Mr. Mawmsey laughed more than he would have done if he had
 known who the king's lieges were, giving his <said who="#MrMawmsey">Good morning, sir,
 good-morning, sir,</said> with the air of one who saw everything clearly
-enough. <FID who="#MrMawmsey"> But in truth his views were perturbed.  For years he had been
+enough. <said who="#MrMawmsey" direct="false" aloud="false"> But in truth his views were perturbed.  For years he had been
 paying bills with strictly made items, so that for every half-crown and
 eighteen-pence he was certain something measurable had been delivered.
 He had done this with satisfaction, including it among his
@@ -724,7 +724,7 @@ as to give an intelligent statement for the guidance of Mr. Gambit—a
 practitioner just a little lower in status than Wrench or Toller, and
 especially esteemed as an accoucheur, of whose ability Mr. Mawmsey had
 the poorest opinion on all other points, but in doctoring, he was wont
-to say in an undertone, he placed Gambit above any of them.</FID>
+to say in an undertone, he placed Gambit above any of them.</said>
 </P>
 
 <P>
@@ -745,14 +745,14 @@ provide for calling customers, my dear!"—here Mrs. Mawmsey turned to
 an intimate female friend who sat by—"a large veal pie—a stuffed
 fillet—a round of beef—ham, tongue, et cetera, et cetera!  But what
 keeps me up best is the pink mixture, not the brown.  I wonder, Mr.
-Mawmsey, with <I>your</I> experience, you could have patience to listen.  I
+Mawmsey, with <emph rend="italics">your</emph> experience, you could have patience to listen.  I
 should have told him at once that I knew a little better than that.</said>
 </P>
 
 <P>
 <said who="#MrMawmsey">No, no, no,</said> said Mr. Mawmsey; <said who="#MrMawmsey">I was not going to tell him my
 opinion.  Hear everything and judge for yourself is my motto.  But he
-didn't know who he was talking to.  I was not to be turned on <I>his</I>
+didn't know who he was talking to.  I was not to be turned on <emph rend="italics">his</emph>
 finger.  People often pretend to tell me things, when they might as
 well say, 'Mawmsey, you're a fool.'  But I smile at it: I humor
 everybody's weak place.  If physic had done harm to self and family, I
@@ -772,7 +772,7 @@ will he cure his patients, then?</said>
 
 <P>
 <said who="#MrsMawmsey">That is what I say,</said> returned Mrs. Mawmsey, who habitually gave weight
-to her speech by loading her pronouns.  <said who="#MrsMawmsey">Does <I>he</I> suppose that people
+to her speech by loading her pronouns.  <said who="#MrsMawmsey">Does <emph rend="italics">he</emph> suppose that people
 will pay him only to come and sit with them and go away again?</said>
 </P>
 
@@ -789,7 +789,7 @@ humorously—
 </P>
 
 <P>
-<said who="#MrsMawmsey">Not one that I would employ,</said> said Mrs. Mawmsey.  <said who="#MrsMawmsey"><I>Others</I> may do as
+<said who="#MrsMawmsey">Not one that I would employ,</said> said Mrs. Mawmsey.  <said who="#MrsMawmsey"><emph rend="italics">Others</emph> may do as
 they please.</said>
 </P>
 
@@ -798,13 +798,13 @@ Hence Mr. Gambit could go away from the chief grocer's without fear of
 rivalry, but not without a sense that Lydgate was one of those
 hypocrites who try to discredit others by advertising their own
 honesty, and that it might be worth some people's while to show him up.
-<FID who="#MrGambit"> Mr. Gambit, however, had a satisfactory practice, much pervaded by the
+<said who="#MrGambit" direct="false" aloud="false"> Mr. Gambit, however, had a satisfactory practice, much pervaded by the
 smells of retail trading which suggested the reduction of cash payments
 to a balance.  And he did not think it worth his while to show Lydgate
 up until he knew how.  He had not indeed great resources of education,
 and had had to work his own way against a good deal of professional
 contempt; but he made none the worse accoucheur for calling the
-breathing apparatus <said>longs.</said> </FID>
+breathing apparatus <said>longs.</said> </said>
 </P>
 
 <P>
@@ -822,7 +822,7 @@ disregard to his personal example; but the incongruity favored the
 opinion of his ability among his patients, who commonly observed that
 Mr. Toller had lazy manners, but his treatment was as active as you
 could desire: no man, said they, carried more seriousness into his
-profession: he was a little slow in coming, but when he came, he <I>did</I>
+profession: he was a little slow in coming, but when he came, he <emph rend="italics">did</emph>
 something.  He was a great favorite in his own circle, and whatever he
 implied to any one's disadvantage told doubly from his careless
 ironical tone.
@@ -936,7 +936,7 @@ which may be called fortune's testimonials, and deserve as much
 credit as the written or printed kind. </first> Various patients got well while
 Lydgate was attending them, some even of dangerous illnesses; and it
 was remarked that the new doctor with his new ways had at least the
-merit of bringing people back from the brink of death. <FID who="#Lyd"> The trash
+merit of bringing people back from the brink of death. <said who="#Lyd" direct="false" aloud="false"> The trash
 talked on such occasions was the more vexatious to Lydgate, because it
 gave precisely the sort of prestige which an incompetent and
 unscrupulous man would desire, and was sure to be imputed to him by the
@@ -944,7 +944,7 @@ simmering dislike of the other medical men as an encouragement on his
 own part of ignorant puffing.  But even his proud outspokenness was
 checked by the discernment that it was as useless to fight against the
 interpretations of ignorance as to whip the fog; and "good fortune"
-insisted on using those interpretations. </FID>
+insisted on using those interpretations. </said>
 </P>
 
 <P>
@@ -986,14 +986,14 @@ in Churchyard Lane and other streets—nay, by Mrs. Larcher also; for
 when Lydgate's remarkable cure was mentioned to Dr. Minchin, he
 naturally did not like to say, <said who="#Minchin">The case was not one of tumor, and I
 was mistaken in describing it as such,</said> but answered, <said who="#Minchin">Indeed! ah!  I
-saw it was a surgical case, not of a fatal kind.</said> <FID who="#Minchin"> He had been inwardly
+saw it was a surgical case, not of a fatal kind.</said> <said who="#Minchin" direct="false" aloud="false"> He had been inwardly
 annoyed, however, when he had asked at the Infirmary about the woman he
 had recommended two days before, to hear from the house-surgeon, a
 youngster who was not sorry to vex Minchin with impunity, exactly what
 had occurred: he privately pronounced that it was indecent in a general
 practitioner to contradict a physician's diagnosis in that open manner,
 and afterwards agreed with Wrench that Lydgate was disagreeably
-inattentive to etiquette. </FID> Lydgate did not make the affair a ground for
+inattentive to etiquette. </said> Lydgate did not make the affair a ground for
 valuing himself or (very particularly) despising Minchin, such
 rectification of misjudgments often happening among men of equal
 qualifications.  But report took up this amazing case of tumor, not
@@ -1068,10 +1068,10 @@ in the secrets of his profession than the majority of his compeers.</said>
 <P>
 This had happened before the affair of Fred Vincy's illness had given
 to Mr. Wrench's enmity towards Lydgate more definite personal ground.
-<FID who="#Wrench"> The new-comer already threatened to be a nuisance in the shape of
+<said who="#Wrench" direct="false" aloud="false"> The new-comer already threatened to be a nuisance in the shape of
 rivalry, and was certainly a nuisance in the shape of practical
 criticism or reflections on his hard-driven elders, who had had
-something else to do than to busy themselves with untried notions. </FID> <second> His
+something else to do than to busy themselves with untried notions. </said> <second> His
 practice had spread in one or two quarters, and from the first the
 report of his high family had led to his being pretty generally
 invited, so that the other medical men had to meet him at dinner in the
@@ -1107,7 +1107,7 @@ might rule it dictatorially without any Board; but he had another
 favorite object which also required money for its accomplishment: he
 wished to buy some land in the neighborhood of Middlemarch, and
 therefore he wished to get considerable contributions towards
-maintaining the Hospital. <FID who="#B"> Meanwhile he framed his plan of management.
+maintaining the Hospital. <said who="#B" direct="false" aloud="false"> Meanwhile he framed his plan of management.
 The Hospital was to be reserved for fever in all its forms; Lydgate was
 to be chief medical superintendent, that he might have free authority
 to pursue all comparative investigations which his studies,
@@ -1118,7 +1118,7 @@ to be lodged exclusively in the hands of five directors associated with
 Mr. Bulstrode, who were to have votes in the ratio of their
 contributions, the Board itself filling up any vacancy in its numbers,
 and no mob of small contributors being admitted to a share of
-government. </FID>
+government. </said>
 </P>
 
 <P>
@@ -1201,7 +1201,7 @@ said Mrs. Taft.
 </P>
 
 <P>
-<FID who="#MM"> After this, it came to be held in various quarters that Lydgate played
+<said who="#MM" direct="false" aloud="false"> After this, it came to be held in various quarters that Lydgate played
 even with respectable constitutions for his own purposes, and how much
 more likely that in his flighty experimenting he should make sixes and
 sevens of hospital patients.  Especially it was to be expected, as the
@@ -1212,7 +1212,7 @@ symptoms, too daringly asked leave of her relatives to open the body,
 and thus gave an offence quickly spreading beyond Parley Street, where
 that lady had long resided on an income such as made this association
 of her body with the victims of Burke and Hare a flagrant insult to her
-memory.</FID>
+memory.</said>
 </P>
 
 <P>
@@ -1275,12 +1275,12 @@ sermonizing on it.</said>
 </P>
 
 <P>
-<FID who="#Lyd"> Lydgate took Mr. Farebrother's hints very cordially, though he would
+<said who="#Lyd" direct="false" aloud="false"> Lydgate took Mr. Farebrother's hints very cordially, though he would
 hardly have borne them from another man.  He could not help remembering
 that he had lately made some debts, but these had seemed inevitable,
 and he had no intention now to do more than keep house in a simple way.
 The furniture for which he owed would not want renewing; nor even the
-stock of wine for a long while. </FID>
+stock of wine for a long while. </said>
 </P>
 
 <P>
@@ -1292,8 +1292,8 @@ home, that same evening when he had been chatting with Mr. Farebrother,
 he had his long legs stretched on the sofa, his head thrown back, and
 his hands clasped behind it according to his favorite ruminating
 attitude, while Rosamond sat at the piano, and played one tune after
-another, of which her husband only knew (<FID who="#R"> like the emotional elephant he
-was! </FID>) that they fell in with his mood as if they had been melodious
+another, of which her husband only knew (<said who="#R" direct="false" aloud="false"> like the emotional elephant he
+was! </said>) that they fell in with his mood as if they had been melodious
 sea-breezes.
 </P>
 
@@ -1414,7 +1414,7 @@ to you.</said>
 </P>
 
 <P>
-<said who="#R">Still,</said> said Rosamond, <said who="#R">I do <I>not</I> think it is a nice profession,
+<said who="#R">Still,</said> said Rosamond, <said who="#R">I do <emph rend="italics">not</emph> think it is a nice profession,
 dear.</said>  We know that she had much quiet perseverance in her opinion.
 </P>
 
@@ -1547,7 +1547,7 @@ Mr. Brooke; for it is a little too trying to human flesh to be
 conscious of expressing one's self better than others and never to have
 it noticed, and in the general dearth of admiration for the right
 thing, even a chance bray of applause falling exactly in time is rather
-fortifying. <FID who="#Lad"> Will felt that his literary refinements were usually
+fortifying. <said who="#Lad" direct="false" aloud="false"> Will felt that his literary refinements were usually
 beyond the limits of Middlemarch perception; nevertheless, he was
 beginning thoroughly to like the work of which when he began he had
 said to himself rather languidly, <said who="#Lad">Why not?</said>—and he studied the
@@ -1561,7 +1561,7 @@ dramas, trying prose and finding it too jejune, trying verse and
 finding it too artificial, beginning to copy <said who="#Lad"> bits</said> from old pictures,
 leaving off because they were <said who="#Lad">no good,</said> and observing that, after all,
 self-culture was the principal point; while in politics he would have
-been sympathizing warmly with liberty and progress in general. </FID> <first> Our
+been sympathizing warmly with liberty and progress in general. </said> <first> Our
 sense of duty must often wait for some work which shall take the place
 of dilettanteism and make us feel that the quality of our action is not
 a matter of indifference. </first>
@@ -1572,12 +1572,12 @@ Ladislaw had now accepted his bit of work, though it was not that
 indeterminate loftiest thing which he had once dreamed of as alone
 worthy of continuous effort.  His nature warmed easily in the presence
 of subjects which were visibly mixed with life and action, and the
-easily stirred rebellion in him helped the glow of public spirit. <FID who="#Lad"> In
+easily stirred rebellion in him helped the glow of public spirit. <said who="#Lad" direct="false" aloud="false"> In
 spite of Mr. Casaubon and the banishment from Lowick, he was rather
 happy; getting a great deal of fresh knowledge in a vivid way and for
 practical purposes, and making the "Pioneer" celebrated as far as
 Brassing (never mind the smallness of the area; the writing was not
-worse than much that reaches the four corners of the earth). </FID>
+worse than much that reaches the four corners of the earth). </said>
 </P>
 
 <P>
@@ -1628,7 +1628,7 @@ fellows who would praise a cat to sell a horse.</said>
 </P>
 
 <P>
-<FID who="#Keck"> And some oddities of Will's, more or less poetical, appeared to support
+<said who="#Keck" direct="false" aloud="false"> And some oddities of Will's, more or less poetical, appeared to support
 Mr. Keck, the editor of the "Trumpet" in asserting that Ladislaw, if
 the truth were known, was not only a Polish emissary but crack-brained,
 which accounted for the preternatural quickness and glibness of his
@@ -1636,7 +1636,7 @@ speech when he got on to a platform—as he did whenever he had an
 opportunity, speaking with a facility which cast reflections on solid
 Englishmen generally.  It was disgusting to Keck to see a strip of a
 fellow, with light curls round his head, get up and speechify by the
-hour against institutions </FID> <said who="#Keck">which had existed when he was in his
+hour against institutions </said> <said who="#Keck">which had existed when he was in his
 cradle.</said>  And in a leading article of the "Trumpet", Keck characterized
 Ladislaw's speech at a Reform meeting as <said who="#Keck">the violence of an
 energumen—a miserable effort to shroud in the brilliancy of fireworks
@@ -1704,14 +1704,14 @@ But the house where he visited oftenest and lay most on the rug was
 Lydgate's. The two men were not at all alike, but they agreed none the
 worse.  Lydgate was abrupt but not irritable, taking little notice of
 megrims in healthy people; and Ladislaw did not usually throw away his
-susceptibilities on those who took no notice of them. <FID who="#R"> With Rosamond,
+susceptibilities on those who took no notice of them. <said who="#R" direct="false" aloud="false"> With Rosamond,
 on the other hand, he pouted and was wayward—nay, often
 uncomplimentary, much to her inward surprise; nevertheless he was
 gradually becoming necessary to her entertainment by his companionship
 in her music, his varied talk, and his freedom from the grave
 preoccupation which, with all her husband's tenderness and indulgence,
 often made his manners unsatisfactory to her, and confirmed her dislike
-of the medical profession. </FID>
+of the medical profession. </said>
 </P>
 
 <P>
@@ -1853,9 +1853,9 @@ clear of that.</said>
 
 <P>
 <said who="#Lad">Do you mean that I cry up Brooke on any personal ground?</said> said Will
-Ladislaw, nettled, and turning sharp round. <FID who="#Lad"> For the first time he felt
+Ladislaw, nettled, and turning sharp round. <said who="#Lad" direct="false" aloud="false"> For the first time he felt
 offended with Lydgate; not the less so, perhaps, because he would have
-declined any close inquiry into the growth of his relation to Mr. </FID>
+declined any close inquiry into the growth of his relation to Mr. </said>
 Brooke.
 </P>
 
@@ -1958,12 +1958,12 @@ It happened to be on a Saturday evening that Will Ladislaw had that
 little discussion with Lydgate.  Its effect when he went to his own
 rooms was to make him sit up half the night, thinking over again, under
 a new irritation, all that he had before thought of his having settled
-in Middlemarch and harnessed himself with Mr. Brooke. <FID who="#Lad"> Hesitations
+in Middlemarch and harnessed himself with Mr. Brooke. <said who="#Lad" direct="false" aloud="false"> Hesitations
 before he had taken the step had since turned into susceptibility to
 every hint that he would have been wiser not to take it; and hence came
 his heat towards Lydgate—a heat which still kept him restless.  Was he
 not making a fool of himself?—and at a time when he was more than
-ever conscious of being something better than a fool?  And for what end? </FID>
+ever conscious of being something better than a fool?  And for what end? </said>
 </P>
 
 <P>
@@ -1989,12 +1989,12 @@ the sense that he had to justify himself from the charge of
 ingratitude—the latent consciousness of many other barriers between
 himself and Dorothea besides the existence of her husband, had helped
 to turn away his imagination from speculating on what might befall Mr.
-Casaubon.  And there were yet other reasons. <first> <FID who="#Lad"> Will, we know, could not
+Casaubon.  And there were yet other reasons. <first> <said who="#Lad" direct="false" aloud="false"> Will, we know, could not
 bear the thought of any flaw appearing in his crystal: he was at once
 exasperated and delighted by the calm freedom with which Dorothea
 looked at him and spoke to him, and there was something so exquisite in
 thinking of her just as she was, that he could not long for a change
-which must somehow change her. </FID></first> <first> Do we not shun the street version of a
+which must somehow change her. </said></first> <first> Do we not shun the street version of a
 fine melody?—or shrink from the news that the rarity—some bit of
 chiselling or engraving perhaps—which we have dwelt on even with
 exultation in the trouble it has cost us to snatch glimpses of it, is
@@ -2007,10 +2007,10 @@ inheritance of a fortune. </first> What others might have called the futility
 of his passion, made an additional delight for his imagination: he was
 conscious of a generous movement, and of verifying in his own
 experience that higher love-poetry which had charmed his fancy.
-<FID who="#Lad"> Dorothea, he said to himself, was forever enthroned in his soul: no
+<said who="#Lad" direct="false" aloud="false"> Dorothea, he said to himself, was forever enthroned in his soul: no
 other woman could sit higher than her footstool; and if he could have
 written out in immortal syllables the effect she wrought within him, he
-might have boasted after the example of old Drayton, </FID>that,—
+might have boasted after the example of old Drayton, </said>that,—
 </P>
 
 <P CLASS="poem">
@@ -2019,24 +2019,24 @@ Upon the alms of her superfluous praise."<BR/>
 </P>
 
 <P>
-<FID who="#Lad"> But this result was questionable.  And what else could he do for
+<said who="#Lad" direct="false" aloud="false"> But this result was questionable.  And what else could he do for
 Dorothea?  What was his devotion worth to her?  It was impossible to
 tell.  He would not go out of her reach.  He saw no creature among her
 friends to whom he could believe that she spoke with the same simple
 confidence as to him.  She had once said that she would like him to
 stay; and stay he would, whatever fire-breathing dragons might hiss
-around her. </FID>
+around her. </said>
 </P>
 
 <P>
 This had always been the conclusion of Will's hesitations.  But he was
 not without contradictoriness and rebellion even towards his own
-resolve. <FID who="#Lad"> He had often got irritated, as he was on this particular
+resolve. <said who="#Lad" direct="false" aloud="false"> He had often got irritated, as he was on this particular
 night, by some outside demonstration that his public exertions with Mr.
 Brooke as a chief could not seem as heroic as he would like them to be,
 and this was always associated with the other ground of
 irritation—that notwithstanding his sacrifice of dignity for
-Dorothea's sake, he could hardly ever see her. </FID> Whereupon, not being
+Dorothea's sake, he could hardly ever see her. </said> Whereupon, not being
 able to contradict these unpleasant facts, he contradicted his own
 strongest bias and said, <said who="#Lad"> I am a fool.</said>
 </P>
@@ -2158,7 +2158,7 @@ as she passed him.  To his own surprise Will felt suddenly
 uncomfortable, and dared not look at her after they had bowed to each
 other.  Two minutes later, when Mr. Casaubon came out of the vestry,
 and, entering the pew, seated himself in face of Dorothea, Will felt
-his paralysis more complete. <FID who="#Lad"> He could look nowhere except at the choir
+his paralysis more complete. <said who="#Lad" direct="false" aloud="false"> He could look nowhere except at the choir
 in the little gallery over the vestry-door: Dorothea was perhaps
 pained, and he had made a wretched blunder.  It was no longer amusing
 to vex Mr. Casaubon, who had the advantage probably of watching him and
@@ -2173,7 +2173,7 @@ cage, however; and Will found his places and looked at his book as if
 he had been a school-mistress, feeling that the morning service had
 never been so immeasurably long before, that he was utterly ridiculous,
 out of temper, and miserable.  This was what a man got by worshipping
-the sight of a woman! </FID> The clerk observed with surprise that Mr.
+the sight of a woman! </said> The clerk observed with surprise that Mr.
 Ladislaw did not join in the tune of Hanover, and reflected that he
 might have a cold.
 </P>
@@ -2185,18 +2185,18 @@ rose.  It was the fashion at Lowick for "the betters" to go out first.
 With a sudden determination to break the spell that was upon him, Will
 looked straight at Mr. Casaubon.  But that gentleman's eyes were on the
 button of the pew-door, which he opened, allowing Dorothea to pass, and
-following her immediately without raising his eyelids. <FID who="#Lad"> Will's glance
+following her immediately without raising his eyelids. <said who="#Lad" direct="false" aloud="false"> Will's glance
 had caught Dorothea's as she turned out of the pew, and again she
 bowed, but this time with a look of agitation, as if she were
-repressing tears. </FID> Will walked out after them, but they went on towards
+repressing tears. </said> Will walked out after them, but they went on towards
 the little gate leading out of the churchyard into the shrubbery, never
 looking round.
 </P>
 
 <P>
-<FID who="#Lad"> It was impossible for him to follow them, and he could only walk back
+<said who="#Lad" direct="false" aloud="false"> It was impossible for him to follow them, and he could only walk back
 sadly at mid-day along the same road which he had trodden hopefully in
-the morning. </FID> The lights were all changed for him both without and
+the morning. </said> The lights were all changed for him both without and
 within.
 </P>
 
@@ -2224,10 +2224,10 @@ quite excusable, nay, she thought it an amiable movement in him towards
 a reconciliation which she herself had been constantly wishing for.  He
 had probably imagined, as she had, that if Mr. Casaubon and he could
 meet easily, they would shake hands and friendly intercourse might
-return.  But now Dorothea felt quite robbed of that hope. <FID who="#D"> Will was
+return.  But now Dorothea felt quite robbed of that hope. <said who="#D" direct="false" aloud="false"> Will was
 banished further than ever, for Mr. Casaubon must have been newly
 embittered by this thrusting upon him of a presence which he refused to
-recognize. </FID>
+recognize. </said>
 </P>
 
 <P>
@@ -2242,14 +2242,14 @@ was wont to occupy herself with some of her favorite books.  There was
 a little heap of them on the table in the bow-window—of various sorts,
 from Herodotus, which she was learning to read with Mr. Casaubon, to
 her old companion Pascal, and Keble's "Christian Year". But to-day she
-opened one after another, and could read none of them. <FID who="#D"> Everything
+opened one after another, and could read none of them. <said who="#D" direct="false" aloud="false"> Everything
 seemed dreary: the portents before the birth of Cyrus—Jewish
 antiquities—oh dear!—devout epigrams—the sacred chime of favorite
 hymns—all alike were as flat as tunes beaten on wood: even the spring
 flowers and the grass had a dull shiver in them under the afternoon
 clouds that hid the sun fitfully; even the sustaining thoughts which
 had become habits seemed to have in them the weariness of long future
-days in which she would still live with them for her sole companions. </FID>
+days in which she would still live with them for her sole companions. </said>
 It was another or rather a fuller sort of companionship that poor
 Dorothea was hungering for, and the hunger had grown from the perpetual
 effort demanded by her married life.  She was always trying to be what
@@ -2273,10 +2273,10 @@ fellowship—turning his face towards her as he went.
 </P>
 
 <P>
-<FID who="#D"> Books were of no use.  Thinking was of no use.  It was Sunday, and she
+<said who="#D" direct="false" aloud="false"> Books were of no use.  Thinking was of no use.  It was Sunday, and she
 could not have the carriage to go to Celia, who had lately had a baby.
 There was no refuge now from spiritual emptiness and discontent, and
-Dorothea had to bear her bad mood, as she would have borne a headache. </FID>
+Dorothea had to bear her bad mood, as she would have borne a headache. </said>
 </P>
 
 <P>
@@ -2480,7 +2480,7 @@ sound until it was shown that likeness in sound made them impossible:
 it was a method of interpretation which was not tested by the necessity
 of forming anything which had sharper collisions than an elaborate
 notion of Gog and Magog: it was as free from interruption as a plan for
-threading the stars together. <FID who="#D">  And Dorothea had so often had to check
+threading the stars together. <said who="#D" direct="false" aloud="false">  And Dorothea had so often had to check
 her weariness and impatience over this questionable riddle-guessing, as
 it revealed itself to her instead of the fellowship in high knowledge
 which was to make life worthier!  She could understand well enough now
@@ -2489,11 +2489,11 @@ left that his labors would ever take a shape in which they could be
 given to the world.  At first it had seemed that he wished to keep even
 her aloof from any close knowledge of what he was doing; but gradually
 the terrible stringency of human need—the prospect of a too speedy
-death— </FID>
+death— </said>
 </P>
 
 <P>
-<FID who="#D"> And here Dorothea's pity turned from her own future to her husband's
+<said who="#D" direct="false" aloud="false"> And here Dorothea's pity turned from her own future to her husband's
 past—nay, to his present hard struggle with a lot which had grown out
 of that past: the lonely labor, the ambition breathing hardly under the
 pressure of self-distrust; the goal receding, and the heavier limbs;
@@ -2502,19 +2502,19 @@ wished to marry him that she might help him in his life's labor?—But
 she had thought the work was to be something greater, which she could
 serve in devoutly for its own sake.  Was it right, even to soothe his
 grief—would it be possible, even if she promised—to work as in a
-treadmill fruitlessly? </FID>
+treadmill fruitlessly? </said>
 </P>
 
 <P>
-<FID who="#D"> And yet, could she deny him?  Could she say, <said who="#D">I refuse to content this
+<said who="#D"> And yet, could she deny him?  Could she say, <said who="#D" direct="false" aloud="false">I refuse to content this
 pining hunger?</said>  It would be refusing to do for him dead, what she was
 almost sure to do for him living.  If he lived as Lydgate had said he
 might, for fifteen years or more, her life would certainly be spent in
-helping him and obeying him.</FID>
+helping him and obeying him.</said>
 </P>
 
 <P>
-S<FID who="#D"> till, there was a deep difference between that devotion to the living
+S<said who="#D" direct="false" aloud="false"> till, there was a deep difference between that devotion to the living
 and that indefinite promise of devotion to the dead.  While he lived,
 he could claim nothing that she would not still be free to remonstrate
 against, and even to refuse.  But—the thought passed through her mind
@@ -2522,7 +2522,7 @@ more than once, though she could not believe in it—might he not mean
 to demand something more from her than she had been able to imagine,
 since he wanted her pledge to carry out his wishes without telling her
 exactly what they were?  No; his heart was bound up in his work only:
-that was the end for which his failing life was to be eked out by hers.</FID>
+that was the end for which his failing life was to be eked out by hers.</said>
 </P>
 
 <P>
@@ -2643,8 +2643,8 @@ shrank.  Neither law nor the world's opinion compelled her to
 this—only her husband's nature and her own compassion, only the ideal
 and not the real yoke of marriage.  She saw clearly enough the whole
 situation, yet she was fettered: she could not smite the stricken soul
-that entreated hers.  If that were weakness, Dorothea was weak. <FID who="#D">  But
-the half-hour was passing, and she must not delay longer. </FID>  When she
+that entreated hers.  If that were weakness, Dorothea was weak. <said who="#D" direct="false" aloud="false">  But
+the half-hour was passing, and she must not delay longer. </said>  When she
 entered the Yew-tree Walk she could not see her husband; but the walk
 had bends, and she went, expecting to catch sight of his figure wrapped
 in a blue cloak, which, with a warm velvet cap, was his outer garment
@@ -2839,9 +2839,9 @@ to go—didn't choose, you know.</said>
 </P>
 
 <P>
-<FID who="#JC"> Mr. Brooke, persisting as quietly as if he were only discussing the
+<said who="#JC" direct="false" aloud="false"> Mr. Brooke, persisting as quietly as if he were only discussing the
 nature of last year's weather, and nodding at the end with his usual
-amenity, was an exasperating form of obstinacy. </FID>
+amenity, was an exasperating form of obstinacy. </said>
 </P>
 
 <P>
@@ -2900,7 +2900,7 @@ indelicate.</said>
 
 <P>
 <said who="#MB">One of poor Casaubon's freaks!  That attack upset his brain a little.
-It all goes for nothing.  She doesn't <I>want</I> to marry Ladislaw.</said>
+It all goes for nothing.  She doesn't <emph rend="italics">want</emph> to marry Ladislaw.</said>
 </P>
 
 <P>
@@ -2933,10 +2933,10 @@ brother, to protect her now.</said>
 <P>
 <said who="#MB">You can't do better than get her to Freshitt as soon as possible,
 Chettam.  I approve that plan altogether,</said> said Mr. Brooke, well
-pleased that he had won the argument. <FID who="#MB"> It would have been highly
+pleased that he had won the argument. <said who="#MB" direct="false" aloud="false"> It would have been highly
 inconvenient to him to part with Ladislaw at that time, when a
 dissolution might happen any day, and electors were to be convinced of
-the course by which the interests of the country would be best served. </FID>
+the course by which the interests of the country would be best served. </said>
 Mr. Brooke sincerely believed that this end could be secured by his own
 return to Parliament: he offered the forces of his mind honestly to the
 nation.
@@ -2965,10 +2965,10 @@ conservatory—Celia all in white and lavender like a bunch of mixed
 violets, watching the remarkable acts of the baby, which were so
 dubious to her inexperienced mind that all conversation was interrupted
 by appeals for their interpretation made to the oracular nurse.
-<FID who="#Celia"> Dorothea sat by in her widow's dress, with an expression which rather
+<said who="#Celia" direct="false" aloud="false"> Dorothea sat by in her widow's dress, with an expression which rather
 provoked Celia, as being much too sad; for not only was baby quite
 well, but really when a husband had been so dull and troublesome while
-he lived, and besides that had—well, well! </FID> Sir James, of course, had
+he lived, and besides that had—well, well! </said> Sir James, of course, had
 told Celia everything, with a strong representation how important it
 was that Dorothea should not know it sooner than was inevitable.
 </P>
@@ -3039,9 +3039,9 @@ know.</said>
 <said who="#MB">Well, well, we shall see.  But I must run away now—I have no end of
 work now—it's a crisis—a political crisis, you know.  And here is
 Celia and her little man—you are an aunt, you know, now, and I am a
-sort of grandfather,</said> said Mr. Brooke, <FID who="#MB"> with placid hurry, anxious to
+sort of grandfather,</said> said Mr. Brooke, <said who="#MB" direct="false" aloud="false"> with placid hurry, anxious to
 get away and tell Chettam that it would not be his (Mr. Brooke's) fault
-if Dorothea insisted on looking into everything. </FID>
+if Dorothea insisted on looking into everything. </said>
 </P>
 
 <P>
@@ -3090,12 +3090,12 @@ Dodo—I can see that: it vexes me.</said>
 <P>
 <said who="#D">Where am I wrong, Kitty?</said> said Dorothea, quite meekly.  She was almost
 ready now to think Celia wiser than herself, and was really wondering
-with some fear what her wrong notion was. <FID who="#Celia"> Celia felt her advantage,
+with some fear what her wrong notion was. <said who="#Celia" direct="false" aloud="false"> Celia felt her advantage,
 and was determined to use it.  None of them knew Dodo as well as she
 did, or knew how to manage her.  Since Celia's baby was born, she had
 had a new sense of her mental solidity and calm wisdom.  It seemed
 clear that where there was a baby, things were right enough, and that
-error, in general, was a mere lack of that central poising force. </FID>
+error, in general, was a mere lack of that central poising force. </said>
 </P>
 
 <P>
@@ -3109,9 +3109,9 @@ with him as can be.  And I had better tell you, to prepare you.</said>
 
 <P>
 <said who="#D">Celia,</said> said Dorothea, entreatingly, <said who="#D">you distress me.  Tell me at
-once what you mean.</said> <FID who="#D"> It glanced through her mind that Mr. Casaubon
+once what you mean.</said> <said who="#D" direct="false" aloud="false"> It glanced through her mind that Mr. Casaubon
 had left the property away from her—which would not be so very
-distressing. </FID>
+distressing. </said>
 </P>
 
 <P>
@@ -3126,14 +3126,14 @@ go away from you if you married—I mean—</said>
 <P>
 <said who="#Celia">But if you married Mr. Ladislaw, not anybody else,</said> Celia went on with
 persevering quietude.  <said who="#Celia">Of course that is of no consequence in one
-way—you never <I>would</I> marry Mr. Ladislaw; but that only makes it worse
+way—you never <emph rend="italics">would</emph> marry Mr. Ladislaw; but that only makes it worse
 of Mr. Casaubon.</said>
 </P>
 
 <P>
-The blood rushed to Dorothea's face and neck painfully. <FID who="#Celia">  But Celia was
+The blood rushed to Dorothea's face and neck painfully. <said who="#Celia" direct="false" aloud="false">  But Celia was
 administering what she thought a sobering dose of fact.  It was taking
-up notions that had done Dodo's health so much harm. </FID>  So she went on in
+up notions that had done Dodo's health so much harm. </said>  So she went on in
 her neutral tone, as if she had been remarking on baby's robes.
 </P>
 
@@ -3183,11 +3183,11 @@ think the corners of his mouth were dreadfully spiteful.  And now he
 has behaved in this way, I am sure religion does not require you to
 make yourself uncomfortable about him.  If he has been taken away, that
 is a mercy, and you ought to be grateful. We should not grieve, should
-we, baby?</said> said <FID who="#Celia"> Celia confidentially to that unconscious centre and
+we, baby?</said> said <said who="#Celia" direct="false" aloud="false"> Celia confidentially to that unconscious centre and
 poise of the world, who had the most remarkable fists all complete even
 to the nails, and hair enough, really, when you took his cap off, to
 make—you didn't know what:—in short, he was Bouddha in a Western
-form. </FID>
+form. </said>
 </P>
 
 <P>
@@ -3239,8 +3239,8 @@ another sort of pinfold than that from which she had been released.
 <P>
 Lydgate's advice was all the easier for Sir James to follow when he
 found that Celia had already told Dorothea the unpleasant fact about
-the will. <FID who="#JC">  There was no help for it now—no reason for any further
-delay in the execution of necessary business. </FID>  And the next day Sir
+the will. <said who="#JC" direct="false" aloud="false">  There was no help for it now—no reason for any further
+delay in the execution of necessary business. </said>  And the next day Sir
 James complied at once with her request that he would drive her to
 Lowick.
 </P>
@@ -3272,9 +3272,9 @@ been chiefly urged by his bitter resistance to that idea of claim, and
 not merely by personal feelings more difficult to talk about.  Also, it
 must be admitted, Dorothea wished that this could be known for Will's
 sake, since her friends seemed to think of him as simply an object of
-Mr. Casaubon's charity. <FID who="#D">  Why should he be compared with an Italian
+Mr. Casaubon's charity. <said who="#D" direct="false" aloud="false">  Why should he be compared with an Italian
 carrying white mice?  That word quoted from Mrs. Cadwallader seemed
-like a mocking travesty wrought in the dark by an impish finger. </FID>
+like a mocking travesty wrought in the dark by an impish finger. </said>
 </P>
 
 <P>
@@ -3287,8 +3287,8 @@ else, Mr. Casaubon had been slow and hesitating, oppressed in the plan
 of transmitting his work, as he had been in executing it, by the sense
 of moving heavily in a dim and clogging medium: distrust of Dorothea's
 competence to arrange what he had prepared was subdued only by distrust
-of any other redactor. <FID who="#C">  But he had come at last to create a trust for
-himself out of Dorothea's nature: she could do what she resolved to do: </FID>
+of any other redactor. <said who="#C" direct="false" aloud="false">  But he had come at last to create a trust for
+himself out of Dorothea's nature: she could do what she resolved to do: </said>
 and he willingly imagined her toiling under the fetters of a promise to
 erect a tomb with his name upon it.  (Not that Mr. Casaubon called the
 future volumes a tomb; he called them the Key to all Mythologies.) But
@@ -3304,7 +3304,7 @@ judgment whispered was vain for all uses except that consecration of
 faithfulness which is a supreme use.  But now her judgment, instead of
 being controlled by duteous devotion, was made active by the
 imbittering discovery that in her past union there had lurked the
-hidden alienation of secrecy and suspicion. <FID who="#D">  The living, suffering man
+hidden alienation of secrecy and suspicion. <said who="#D" direct="false" aloud="false">  The living, suffering man
 was no longer before her to awaken her pity: there remained only the
 retrospect of painful subjection to a husband whose thoughts had been
 lower than she had believed, whose exorbitant claims for himself had
@@ -3319,14 +3319,14 @@ thinking that the half of it ought to go to Will Ladislaw?—but was it
 not impossible now for her to do that act of justice?  Mr. Casaubon had
 taken a cruelly effective means of hindering her: even with indignation
 against him in her heart, any act that seemed a triumphant eluding of
-his purpose revolted her. </FID>
+his purpose revolted her. </said>
 </P>
 
 <P>
 After collecting papers of business which she wished to examine, she
-locked up again the desks and drawers—<FID who="#D"> all empty of personal words for
+locked up again the desks and drawers—<said who="#D" direct="false" aloud="false"> all empty of personal words for
 her—empty of any sign that in her husband's lonely brooding his heart
-had gone out to her in excuse or explanation;</FID>  and she went back to
+had gone out to her in excuse or explanation;</said>  and she went back to
 Freshitt with the sense that around his last hard demand and his last
 injurious assertion of his power, the silence was unbroken.
 </P>
@@ -3444,13 +3444,13 @@ Casaubon's death he had hardly seen Ladislaw, and he had heard no rumor
 to warn him that Mr. Brooke's confidential secretary was a dangerous
 subject with Mrs. Casaubon.  When he was gone, his picture of Ladislaw
 lingered in her mind and disputed the ground with that question of the
-Lowick living. <FID who="#D">  What was Will Ladislaw thinking about her?  Would he
+Lowick living. <said who="#D" direct="false" aloud="false">  What was Will Ladislaw thinking about her?  Would he
 hear of that fact which made her cheeks burn as they never used to do?
 And how would he feel when he heard it?—But she could see as well as
 possible how he smiled down at the little old maid.  An Italian with
 white mice!—on the contrary, he was a creature who entered into every
 one's feelings, and could take the pressure of their thought instead of
-urging his own with iron resistance.</FID>
+urging his own with iron resistance.</said>
 </P>
 
 <BR/><BR/><BR/>
@@ -3501,26 +3501,26 @@ contrive that he should go there as little as possible.  This was a
 shuffling concession of Mr. Brooke's to Sir James Chettam's indignant
 remonstrance; and Will, awake to the slightest hint in this direction,
 concluded that he was to be kept away from the Grange on Dorothea's
-account. <FID who="#Lad">  Her friends, then, regarded him with some suspicion?  Their
+account. <said who="#Lad" direct="false" aloud="false">  Her friends, then, regarded him with some suspicion?  Their
 fears were quite superfluous: they were very much mistaken if they
 imagined that he would put himself forward as a needy adventurer trying
-to win the favor of a rich woman. </FID>
+to win the favor of a rich woman. </said>
 </P>
 
 <P>
 Until now Will had never fully seen the chasm between himself and
 Dorothea—until now that he was come to the brink of it, and saw her on
 the other side.  He began, not without some inward rage, to think of
-going away from the neighborhood:<FID who="#Lad">  it would be impossible for him to
+going away from the neighborhood:<said who="#Lad" direct="false" aloud="false">  it would be impossible for him to
 show any further interest in Dorothea without subjecting himself to
 disagreeable imputations—perhaps even in her mind, which others might
-try to poison. </FID>
+try to poison. </said>
 </P>
 
 <P>
 <said who="#Lad">We are forever divided,</said> said Will.  <said who="#Lad">I might as well be at Rome; she
 would be no farther from me.</said> <first> But what we call our despair is often
-only the painful eagerness of unfed hope. </first> <FID who="#Lad"> There were plenty of reasons
+only the painful eagerness of unfed hope. </first> <said who="#Lad" direct="false" aloud="false"> There were plenty of reasons
 why he should not go—public reasons why he should not quit his post at
 this crisis, leaving Mr. Brooke in the lurch when he needed "coaching"
 for the election, and when there was so much canvassing, direct and
@@ -3543,15 +3543,15 @@ Mr. Hawley and his party would bend all their forces to the return of
 Pinkerton, and Mr. Brooke's success must depend either on plumpers
 which would leave Bagster in the rear, or on the new minting of Tory
 votes into reforming votes.  The latter means, of course, would be
-preferable.</FID>
+preferable.</said>
 </P>
 
 <P>
-<FID who="#Lad"> This prospect of converting votes was a dangerous distraction to Mr.
+<said who="#Lad" direct="false" aloud="false"> This prospect of converting votes was a dangerous distraction to Mr.
 Brooke: his impression that waverers were likely to be allured by
 wavering statements, and also the liability of his mind to stick afresh
 at opposing arguments as they turned up in his memory, gave Will
-Ladislaw much trouble. </FID>
+Ladislaw much trouble. </said>
 </P>
 
 <P>
@@ -3573,8 +3573,8 @@ for trimming, this is not a time for trimming.</said>
 </P>
 
 <P>
-Mr. Brooke always ended by agreeing with Ladislaw, <FID who="#MB"> who still appeared
-to him a sort of Burke with a leaven of Shelley; </FID> but after an interval
+Mr. Brooke always ended by agreeing with Ladislaw, <said who="#MB" direct="false" aloud="false"> who still appeared
+to him a sort of Burke with a leaven of Shelley; </said> but after an interval
 the wisdom of his own methods reasserted itself, and he was again drawn
 into using them with much hopefulness.  At this stage of affairs he was
 in excellent spirits, which even supported him under large advances of
@@ -3589,7 +3589,7 @@ trader, and naturally one of the most doubtful voters in the
 borough—willing for his own part to supply an equal quality of teas
 and sugars to reformer and anti-reformer, as well as to agree
 impartially with both, and feeling like the burgesses of old that this
-necessity of electing members was a great burthen to a town; <FID who="#Mawmsey"> for even
+necessity of electing members was a great burthen to a town; <said who="#Mawmsey" direct="false" aloud="false"> for even
 if there were no danger in holding out hopes to all parties beforehand,
 there would be the painful necessity at last of disappointing
 respectable people whose names were on his books. He was accustomed to
@@ -3605,7 +3605,7 @@ back parlor.
 <said who="#Mawmsey">As to Reform, sir, put it in a family light,</said> he said, rattling the
 small silver in his pocket, and smiling affably.  <said who="#Mawmsey">Will it support Mrs.
 Mawmsey, and enable her to bring up six children when I am no more?  I
-put the question <I>fictiously</I>, knowing what must be the answer.  Very
+put the question <emph rend="italics">fictiously</emph>, knowing what must be the answer.  Very
 well, sir.  I ask you what, as a husband and a father, I am to do when
 gentlemen come to me and say, 'Do as you like, Mawmsey; but if you vote
 against us, I shall get my groceries elsewhere: when I sugar my liquor
@@ -3676,8 +3676,8 @@ of the Bill—which were remarkably similar to the means of enlisting it
 on the side against the Bill.  Will stopped his ears. <first> Occasionally
 Parliament, like the rest of our lives, even to our eating and apparel,
 could hardly go on if our imaginations were too active about processes. </first>
-<FID who="#Lad"> There were plenty of dirty-handed men in the world to do dirty
-business;</FID>  and Will protested to himself that his share in bringing Mr.
+<said who="#Lad" direct="false" aloud="false"> There were plenty of dirty-handed men in the world to do dirty
+business;</said>  and Will protested to himself that his share in bringing Mr.
 Brooke through would be quite innocent.
 </P>
 
@@ -3687,13 +3687,13 @@ majority on the right side was very doubtful to him.  He had written
 out various speeches and memoranda for speeches, but he had begun to
 perceive that Mr. Brooke's mind, if it had the burthen of remembering
 any train of thought, would let it drop, run away in search of it, and
-not easily come back again. <FID who="#Lad"> <second> To collect documents is one mode of
+not easily come back again. <said who="#Lad" direct="false" aloud="false"> <second> To collect documents is one mode of
 serving your country, and to remember the contents of a document is
 another. </second> No! the only way in which Mr. Brooke could be coerced into
 thinking of the right arguments at the right time was to be well plied
-with them till they took up all the room in his brain. </FID> <FID who="#MB">  But here there
+with them till they took up all the room in his brain. </said> <said who="#MB" direct="false" aloud="false">  But here there
 was the difficulty of finding room, so many things having been taken in
-beforehand.</FID>  Mr. Brooke himself observed that his ideas stood rather in
+beforehand.</said>  Mr. Brooke himself observed that his ideas stood rather in
 his way when he was speaking.
 </P>
 
@@ -3753,10 +3753,10 @@ speechifying.
 
 <P>
 It was not about the beginning of his speech that Mr. Brooke was at all
-anxious; this, he felt sure, would be all right;<FID who="#MB">  he should have it
+anxious; this, he felt sure, would be all right;<said who="#MB" direct="false" aloud="false">  he should have it
 quite pat, cut out as neatly as a set of couplets from Pope.  Embarking
 would be easy, but the vision of open sea that might come after was
-alarming. </FID>  <said who="#MB">And questions, now,</said> hinted the demon just waking up in his
+alarming. </said>  <said who="#MB">And questions, now,</said> hinted the demon just waking up in his
 stomach, <said who="#MB">somebody may put questions about the schedules.—Ladislaw,</said>
 he continued, aloud, <said who="#MB">just hand me the memorandum of the schedules.</said>
 </P>
@@ -3780,8 +3780,8 @@ with some confidence.
 </P>
 
 <P>
-<FID who="#MB"> This was so much the right thing that a little pause after it seemed
-natural. </FID>
+<said who="#MB" direct="false" aloud="false"> This was so much the right thing that a little pause after it seemed
+natural. </said>
 </P>
 
 <P>
@@ -3790,15 +3790,15 @@ life—never so happy, you know.</said>
 </P>
 
 <P>
-<FID who="#MB"> This was a bold figure of speech, but not exactly the right thing; for,
-unhappily, the pat opening had slipped away </FID>—<first> even couplets from Pope
+<said who="#MB" direct="false" aloud="false"> This was a bold figure of speech, but not exactly the right thing; for,
+unhappily, the pat opening had slipped away </said>—<first> even couplets from Pope
 may be but "fallings from us, vanishings", when fear clutches us, and a
 glass of sherry is hurrying like smoke among our ideas. </first> Ladislaw, who
 stood at the window behind the speaker, thought, <said who="#Lad">it's all up now.  The
 only chance is that, since the best thing won't always do, floundering
-may answer for once.</said> <FID who="#MB"> Mr. Brooke, meanwhile, having lost other clews,
+may answer for once.</said> <said who="#MB" direct="false" aloud="false"> Mr. Brooke, meanwhile, having lost other clews,
 fell back on himself and his qualifications—always an appropriate
-graceful subject for a candidate. </FID>
+graceful subject for a candidate. </said>
 </P>
 
 <P>
@@ -3871,8 +3871,8 @@ crowd below.
 Immediately the invisible Punch, who had hitherto followed Mr. Brooke,
 repeated, <said who="#unnamed">Blast your ideas! we want the Bill.</said> The laugh was louder
 than ever, and for the first time Mr. Brooke being himself silent,
-heard distinctly the mocking echo. <FID who="#MB"> But it seemed to ridicule his
-interrupter, and in that light was encouraging; </FID>so he replied with
+heard distinctly the mocking echo. <said who="#MB" direct="false" aloud="false"> But it seemed to ridicule his
+interrupter, and in that light was encouraging; </said>so he replied with
 amenity—
 </P>
 
@@ -3907,7 +3907,7 @@ chance.  There was a stream of new men pushing among the crowd;
 whistles, yells, bellowings, and fifes made all the greater hubbub
 because there was shouting and struggling to put them down.  No voice
 would have had wing enough to rise above the uproar, and Mr. Brooke,
-disagreeably anointed, stood his ground no longer. <FID who="#MB"> The frustration
+disagreeably anointed, stood his ground no longer. <said who="#MB" direct="false" aloud="false"> The frustration
 would have been less exasperating if it had been less gamesome and
 boyish: a serious assault of which the newspaper reporter "can aver
 that it endangered the learned gentleman's ribs", or can respectfully
@@ -3925,10 +3925,10 @@ Ladislaw.  <said who="#MB">However, things will come all right at the nomination
 </P>
 
 <P>
-<FID who="#MB"> But it was not resolved unanimously that things would come right; on
+<said who="#MB" direct="false" aloud="false"> But it was not resolved unanimously that things would come right; on
 the contrary, the committee looked rather grim, and the political
 personage from Brassing was writing busily, as if he were brewing new
-devices. </FID>
+devices. </said>
 </P>
 
 <P>
@@ -3954,7 +3954,7 @@ always to turn the scale.</said>
 Will was thoroughly out of temper with himself as well as with his
 "principal", and he went to shut himself in his rooms with a
 half-formed resolve to throw up the "Pioneer" and Mr. Brooke together.
-<FID who="#Lad"> Why should he stay?  If the impassable gulf between himself and
+<said who="#Lad" direct="false" aloud="false"> Why should he stay?  If the impassable gulf between himself and
 Dorothea were ever to be filled up, it must rather be by his going away
 and getting into a thoroughly different position than by staying here
 and slipping into deserved contempt as an understrapper of Brooke's.
@@ -3974,13 +3974,13 @@ which he would carry all his ardor.  Why should he not one day be
 lifted above the shoulders of the crowd, and feel that he had won that
 eminence well?  Without doubt he would leave Middlemarch, go to town,
 and make himself fit for celebrity by "eating his dinners".
-</P> </FID>
+</P> </said>
 
 <P>
-<FID who="#Lad">But not immediately: not until some kind of sign had passed between him
+<said who="#Lad" direct="false" aloud="false">But not immediately: not until some kind of sign had passed between him
 and Dorothea.  He could not be satisfied until she knew why, even if he
 were the man she would choose to marry, he would not marry her.  Hence
-he must keep his post and bear with Mr. Brooke a little longer. </FID>
+he must keep his post and bear with Mr. Brooke a little longer. </said>
 </P>
 
 <P>
@@ -4095,7 +4095,7 @@ example, as soon as I find you are in love with him.</said>
 <P>
 Miss Winifred, who had been looking at her brother all the while and
 crying heartily, which was her way of rejoicing, smiled through her
-tears and said, <said who="#Winifred">You must set me the example, Cam: <I>you</I> must marry
+tears and said, <said who="#Winifred">You must set me the example, Cam: <emph rend="italics">you</emph> must marry
 now.</said>
 </P>
 
@@ -4122,7 +4122,7 @@ me,</said> said the Vicar, not caring to specify.
 </P>
 
 <P>
-<said who="#Winifred">We don't want everybody,</said> said Miss Winifred.  <said who="#Winifred">But <I>you</I> would like
+<said who="#Winifred">We don't want everybody,</said> said Miss Winifred.  <said who="#Winifred">But <emph rend="italics">you</emph> would like
 Miss Garth, mother, shouldn't you?</said>
 </P>
 
@@ -4494,7 +4494,7 @@ your feeling.</said>
 </P>
 
 <P>
-<FID who="#FB"> Mary looked so much moved,</FID> that he said after a moment, <said who="#FB">Let us walk a
+<said who="#FB"> Mary looked so much moved,</said> that he said after a moment, <said who="#FB" direct="false" aloud="false">Let us walk a
 little;</said> and when they were walking he added, <said who="#FB">To speak quite plainly,
 Fred will not take any course which would lessen the chance that you
 would consent to be his wife; but with that prospect, he will try his
@@ -4525,8 +4525,8 @@ and I think there is nothing more contemptible than such imbecile
 gentility.  I used to think that of Mr. Crowse, with his empty face and
 neat umbrella, and mincing little speeches.  What right have such men
 to represent Christianity—as if it were an institution for getting up
-idiots genteelly—as if—</said> Mary checked herself. <FID who="#M"> She had been carried
-along as if she had been speaking to Fred instead of Mr. Farebrother. </FID>
+idiots genteelly—as if—</said> Mary checked herself. <said who="#M" direct="false" aloud="false"> She had been carried
+along as if she had been speaking to Fred instead of Mr. Farebrother. </said>
 </P>
 
 <P>
@@ -4582,10 +4582,10 @@ strange idea flashed across her that his words had reference to
 himself, she was incredulous, and ashamed of entertaining it.  She had
 never thought that any man could love her except Fred, who had espoused
 her with the umbrella ring, when she wore socks and little strapped
-shoes; <FID who="#M"> still less that she could be of any importance to Mr.
+shoes; <said who="#M" direct="false" aloud="false"> still less that she could be of any importance to Mr.
 Farebrother, the cleverest man in her narrow circle.  She had only time
 to feel that all this was hazy and perhaps illusory; but one thing was
-clear and determined—her answer. </FID>
+clear and determined—her answer. </said>
 </P>
 
 <P>
@@ -4622,9 +4622,9 @@ hands trembling in a moment of trouble.
 </P>
 
 <P>
-In three minutes the Vicar was on horseback again, <FID who="#FB"> having gone
+In three minutes the Vicar was on horseback again, <said who="#FB" direct="false" aloud="false"> having gone
 magnanimously through a duty much harder than the renunciation of
-whist, or even than the writing of penitential meditations. </FID>
+whist, or even than the writing of penitential meditations. </said>
 </P>
 
 <BR/><BR/><BR/>
@@ -4650,7 +4650,7 @@ at large, that just about the time when he came in possession of the
 deeds which made him the proprietor of Stone Court, Mr. Farebrother
 <said who="#FB">read himself</said> into the quaint little church and preached his first
 sermon to the congregation of farmers, laborers, and village artisans.
-<FID who="#B"> It was not that Mr. Bulstrode intended to frequent Lowick Church or to
+<said who="#B" direct="false" aloud="false"> It was not that Mr. Bulstrode intended to frequent Lowick Church or to
 reside at Stone Court for a good while to come: he had bought the
 excellent farm and fine homestead simply as a retreat which he might
 gradually enlarge as to the land and beautify as to the dwelling, until
@@ -4662,10 +4662,10 @@ Providence might increase by unforeseen occasions of purchase.  A
 strong leading in this direction seemed to have been given in the
 surprising facility of getting Stone Court, when every one had expected
 that Mr. Rigg Featherstone would have clung to it as the Garden of
-Eden. </FID> <FID who="#MrF">That was what poor old Peter himself had expected; having often,
+Eden. </said> <said who="#MrF" direct="false" aloud="false">That was what poor old Peter himself had expected; having often,
 in imagination, looked up through the sods above him, and, unobstructed
 by perspective, seen his frog-faced legatee enjoying the fine old
-place to the perpetual surprise and disappointment of other survivors. </FID>
+place to the perpetual surprise and disappointment of other survivors. </said>
 </P>
 
 <P>
@@ -4763,9 +4763,9 @@ peculiar instruments of the divine intention. </first> The memory has as many
 moods as the temper, and shifts its scenery like a diorama.  At this
 moment Mr. Bulstrode felt as if the sunshine were all one with that of
 far-off evenings when he was a very young man and used to go out
-preaching beyond Highbury. <FID who="#B"> And he would willingly have had that
+preaching beyond Highbury. <said who="#B" direct="false" aloud="false"> And he would willingly have had that
 service of exhortation in prospect now.  The texts were there still,
-and so was his own facility in expounding them. </FID> His brief reverie was
+and so was his own facility in expounding them. </said> His brief reverie was
 interrupted by the return of Caleb Garth, who also was on horseback,
 and was just shaking his bridle before starting, when he exclaimed—
 </P>
@@ -4788,7 +4788,7 @@ at last exclaiming:—
 <P>
 <said who="#Raffles">By Jove, Nick, it's you!  I couldn't be mistaken, though the
 five-and-twenty years have played old Boguy with us both!  How are you,
-eh? you didn't expect to see <I>me</I> here.  Come, shake us by the hand.</said>
+eh? you didn't expect to see <emph rend="italics">me</emph> here.  Come, shake us by the hand.</said>
 To say that Mr. Raffles' manner was rather excited would be only one
 mode of saying that it was evening.  Caleb Garth could see that there
 was a moment of struggle and hesitation in Mr. Bulstrode, but it ended
@@ -4840,14 +4840,14 @@ walk by your side.</said>
 
 <P>
 Mr. Bulstrode's usual paleness had in fact taken an almost deathly hue.
-Five minutes before, <FID who="#B"> the expanse of his life had been submerged in its
+Five minutes before, <said who="#B" direct="false" aloud="false"> the expanse of his life had been submerged in its
 evening sunshine which shone backward to its remembered morning: sin
 seemed to be a question of doctrine and inward penitence, humiliation
 an exercise of the closet, the bearing of his deeds a matter of private
 vision adjusted solely by spiritual relations and conceptions of the
 divine purposes.  And now, as if by some hideous magic, this loud red
 figure had risen before him in unmanageable solidity—an incorporate
-past which had not entered into his imagination of chastisements. </FID> But
+past which had not entered into his imagination of chastisements. </said> But
 Mr. Bulstrode's thought was busy, and he was not a man to act or speak
 rashly.
 </P>
@@ -4904,16 +4904,16 @@ the house now.  Josh filled my flask well the last time.</said>
 <P>
 Mr. Bulstrode had not yet fully learned that even the desire for cognac
 was not stronger in Raffles than the desire to torment, and that a hint
-of annoyance always served him as a fresh cue. <FID who="#B"> But it was at least
-clear that further objection was useless, </FID> and Mr. Bulstrode, in giving
+of annoyance always served him as a fresh cue. <said who="#B" direct="false" aloud="false"> But it was at least
+clear that further objection was useless, </said> and Mr. Bulstrode, in giving
 orders to the housekeeper for the accommodation of the guest, had a
 resolute air of quietude.
 </P>
 
 <P>
-<FID who="#B"> There was the comfort of thinking that this housekeeper had been in the
+<said who="#B" direct="false" aloud="false"> There was the comfort of thinking that this housekeeper had been in the
 service of Rigg also, and might accept the idea that Mr. Bulstrode
-entertained Raffles merely as a friend of her former master. </FID>
+entertained Raffles merely as a friend of her former master. </said>
 </P>
 
 <P>
@@ -4947,7 +4947,7 @@ sneering in Raffles' manner was a good deal the effect of drink, had
 determined to wait till he was quite sober before he spent more words
 upon him.  But he rode home with a terribly lucid vision of the
 difficulty there would be in arranging any result that could be
-permanently counted on with this man. <FID who="#B"> It was inevitable that he should
+permanently counted on with this man. <said who="#B" direct="false" aloud="false"> It was inevitable that he should
 wish to get rid of John Raffles, though his reappearance could not be
 regarded as lying outside the divine plan.  The spirit of evil might
 have sent him to threaten Mr. Bulstrode's subversion as an instrument
@@ -4962,7 +4962,7 @@ divine scheme?  And was he after all to become a mere stone of
 stumbling and a rock of offence?  For who would understand the work
 within him?  Who would not, when there was the pretext of casting
 disgrace upon him, confound his whole life and the truths he had
-espoused, in one heap of obloquy? </FID>
+espoused, in one heap of obloquy? </said>
 </P>
 
 <P>
@@ -4996,9 +4996,9 @@ It was not long before they were seated together in the wainscoted
 parlor over their tea and toast, which was as much as Raffles cared to
 take at that early hour.  The difference between his morning and
 evening self was not so great as his companion had imagined that it
-might be; <FID who="#B"> the delight in tormenting was perhaps even the stronger
+might be; <said who="#B" direct="false" aloud="false"> the delight in tormenting was perhaps even the stronger
 because his spirits were rather less highly pitched.  Certainly his
-manners seemed more disagreeable by the morning light. </FID>
+manners seemed more disagreeable by the morning light. </said>
 </P>
 
 <P>
@@ -5085,19 +5085,19 @@ godly?  Or taken to the Church as more genteel?</said>
 </P>
 
 <P>
-<FID who="#B"> This time Mr. Raffles' slow wink and slight protrusion of his tongue
+<said who="#B" direct="false" aloud="false"> This time Mr. Raffles' slow wink and slight protrusion of his tongue
 was worse than a nightmare, because it held the certitude that it was
-not a nightmare, but a waking misery. </FID> Mr. Bulstrode felt a shuddering
+not a nightmare, but a waking misery. </said> Mr. Bulstrode felt a shuddering
 nausea, and did not speak, but was considering diligently whether he
 should not leave Raffles to do as he would, and simply defy him as a
-slanderer. <FID who="#B"> The man would soon show himself disreputable enough to make
+slanderer. <said who="#B" direct="false" aloud="false"> The man would soon show himself disreputable enough to make
 people disbelieve him.  <said who="#B">But not when he tells any ugly-looking truth
-about <I>you</I>,</said> said discerning consciousness.  And again: it seemed no
+about <emph rend="italics">you</emph>,</said> said discerning consciousness.  And again: it seemed no
 wrong to keep Raffles at a distance, but Mr. Bulstrode shrank from the
 direct falsehood of denying true statements.  It was one thing to look
 back on forgiven sins, nay, to explain questionable conformity to lax
 customs, and another to enter deliberately on the necessity of
-falsehood. </FID>
+falsehood. </said>
 </P>
 
 <P>
@@ -5122,12 +5122,12 @@ Nick—perhaps for a blessing to both of us.</said>
 </P>
 
 <P>
-Mr. Raffles ended with a jocose snuffle: <FID who="#Raffles"> no man felt his intellect more
+Mr. Raffles ended with a jocose snuffle: <said who="#Raffles" direct="false" aloud="false"> no man felt his intellect more
 superior to religious cant.  And if the cunning which calculates on the
 meanest feelings in men could be called intellect, he had his share,
 for under the blurting rallying tone with which he spoke to Bulstrode,
 there was an evident selection of statements, as if they had been so
-many moves at chess. </FID> Meanwhile Bulstrode had determined on his move,
+many moves at chess. </said> Meanwhile Bulstrode had determined on his move,
 and he said, with gathered resolution—
 </P>
 
@@ -5241,9 +5241,9 @@ completed itself without conscious effort—a common experience,
 agreeable as a completed sneeze, even if the name remembered is of no
 value.  Raffles immediately took out his pocket-book, and wrote down
 the name, not because he expected to use it, but merely for the sake of
-not being at a loss if he ever did happen to want it. <FID who="#Raffles"> He was not going
+not being at a loss if he ever did happen to want it. <said who="#Raffles" direct="false" aloud="false"> He was not going
 to tell Bulstrode: there was no actual good in telling, and to a mind
-like that of Mr. Raffles there is always probable good in a secret. </FID>
+like that of Mr. Raffles there is always probable good in a secret. </said>
 </P>
 
 <P>
