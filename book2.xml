@@ -96,11 +96,19 @@ ordinary bearing there was a certain fling, a fearless expectation of
 success, a confidence in his own powers and integrity much fortified by
 contempt for petty obstacles or seductions of which he had had no
 experience.  But this proud openness was made lovable by an expression
+<<<<<<< HEAD
 of unaffected good-will. <said who="#B" direct="false" aloud="false"> Mr. Bulstrode perhaps liked him the better for
 the difference between them in pitch and manners; he certainly liked
 him the better, as Rosamond did, for being a stranger in Middlemarch.
 One can begin so many things with a new person!—even begin to be a
 better man. </said>
+=======
+of unaffected good-will. Mr. Bulstrode perhaps liked him the better for
+the difference between them in pitch and manners; he certainly liked
+him the better, as Rosamond did, for being a stranger in Middlemarch.
+<FID who="#B"> One can begin so many things with a new person!—even begin to be a
+better man. </FID>
+>>>>>>> a69b22142a1542eac6a0c1bfd824c4d1ef9a7a78
 </P>
 
 <P>
@@ -145,10 +153,17 @@ usually no more notion than the man in the moon.</said>
 </P>
 
 <P>
+<<<<<<< HEAD
 <said who="#B" direct="false" aloud="false"> Mr. Bulstrode, bending and looking intently, found the form which
 Lydgate had given to his agreement not quite suited to his
 comprehension.  Under such circumstances a judicious man changes the
 topic and enters on ground where his own gifts may be more useful. </said>
+=======
+Mr. Bulstrode, bending and looking intently, found the form which
+Lydgate had given to his agreement not quite suited to his
+comprehension. <FID who="#B">  Under such circumstances a judicious man changes the
+topic and enters on ground where his own gifts may be more useful. </FID>
+>>>>>>> a69b22142a1542eac6a0c1bfd824c4d1ef9a7a78
 </P>
 
 <P>
@@ -1708,7 +1723,11 @@ mastery.
 <P>
 The subject of the chaplaincy came up at Mr. Vincy's table when Lydgate
 was dining there, and the family connection with Mr. Bulstrode did not,
+<<<<<<< HEAD
 he observed, <said who="#MrB" direct="false" aloud="false"> prevent some freedom of remark even on the part of the
+=======
+he observed, <FID who="#MrV"> prevent some freedom of remark even on the part of the
+>>>>>>> a69b22142a1542eac6a0c1bfd824c4d1ef9a7a78
 host himself though his reasons against the proposed arrangement
 turned entirely on his objection to Mr. Tyke's sermons, which were all
 doctrine, and his preference for Mr. Farebrother, whose sermons were
@@ -2416,7 +2435,7 @@ their own point,</said> said Lydgate.
 </P>
 
 <P>
-<said who="#FB>"But my mother always gives way,</said> said the Vicar, slyly.
+<said who="#FB"But my mother always gives way,</said> said the Vicar, slyly.
 </P>
 
 <P>
@@ -2480,7 +2499,7 @@ agree with him.</said>
 </P>
 
 <P>
-<said who="Winifred">Why, Camden!</said> said Miss Winifred, <said who="#Winifred">Griffin and his wife told me only
+<said who="#Winifred">Why, Camden!</said> said Miss Winifred, <said who="#Winifred">Griffin and his wife told me only
 to-day, that Mr. Tyke said they should have no more coals if they came
 to hear you preach.</said>
 </P>
@@ -2559,7 +2578,7 @@ really care about these things?</said>
 </P>
 
 <P>
-<said who="Lyd">Not by the side of this lovely anencephalous monster.  I have never
+<said who="#Lyd">Not by the side of this lovely anencephalous monster.  I have never
 had time to give myself much to natural history.  I was early bitten
 with an interest in structure, and it is what lies most directly in my
 profession.  I have no hobby besides.  I have the sea to swim in there.</said>
@@ -2860,9 +2879,15 @@ chaplaincy, and to persuade himself that it was not only no proper
 business of his, but likely enough never to vex him with a demand for
 his vote. </said> Lydgate, at Mr. Bulstrode's request, was laying down plans
 for the internal arrangements of the new hospital, and the two were
+<<<<<<< HEAD
 often in consultation. <said who="#B" direct="false" aloud="false"> The banker was always presupposing that he
 could count in general on Lydgate as a coadjutor, but made no special
 recurrence to the coming decision between Tyke and Farebrother. </said> <said who="#Lyd" direct="false" aloud="false"> When
+=======
+often in consultation. The banker was always presupposing that he
+could count in general on Lydgate as a coadjutor, but made no special
+recurrence to the coming decision between Tyke and Farebrother. When
+>>>>>>> a69b22142a1542eac6a0c1bfd824c4d1ef9a7a78
 the General Board of the Infirmary had met, however, and Lydgate had
 notice that the question of the chaplaincy was thrown on a council of
 the directors and medical men, to meet on the following Friday, he had
@@ -2872,8 +2897,8 @@ declaration that Bulstrode was prime minister, and that the Tyke affair
 was a question of office or no office; and he could not help an equally
 pronounced dislike to giving up the prospect of office.  For his
 observation was constantly confirming Mr. Farebrother's assurance that
-the banker would not overlook opposition.  <said>Confound their petty
-politics!</said> was one of his thoughts for three mornings in the meditative
+the banker would not overlook opposition.  <FID who="#Lyd"> Confound their petty
+politics!</FID> was one of his thoughts for three mornings in the meditative
 process of shaving, when he had begun to feel that he must really hold
 a court of conscience on this matter.  Certainly there were valid
 things to be said against the election of Mr. Farebrother: he had too
@@ -3154,7 +3179,7 @@ cravat, uneasily.
 <P>
 <said who="#Larcher">You don't set up Farebrother as a pattern of what a clergyman ought to
 be, I hope,</said> said Mr. Larcher, the eminent carrier, who had just come
-in.  <said who="Larcher">I have no ill-will towards him, but I think we owe something to
+in.  <said who="#Larcher">I have no ill-will towards him, but I think we owe something to
 the public, not to speak of anything higher, in these appointments.  In
 my opinion Farebrother is too lax for a clergyman.  I don't wish to
 bring up particulars against him; but he will make a little attendance
@@ -3983,7 +4008,7 @@ had a quick angry flush upon it.
 </P>
 
 <P>
-<said who="#B">My love,</said> he said, with irritation reined in by propriety, <said who="#B">you may
+<said who="#C">My love,</said> he said, with irritation reined in by propriety, <said who="#C">you may
 rely upon me for knowing the times and the seasons, adapted to the
 different stages of a work which is not to be measured by the facile
 conjectures of ignorant onlookers.  It had been easy for me to gain a
@@ -4299,7 +4324,7 @@ murder.
 </P>
 
 <P>
-<said who="Lad">No, indeed,</said> he answered, promptly.  <said who="#Lad">And therefore it is a pity that
+<said who="#Lad">No, indeed,</said> he answered, promptly.  <said who="#Lad">And therefore it is a pity that
 it should be thrown away, as so much English scholarship is, for want
 of knowing what is being done by the rest of the world.  If Mr.
 Casaubon read German he would save himself a great deal of trouble.</said>

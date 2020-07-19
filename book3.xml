@@ -341,7 +341,7 @@ susceptible mind, and, when accompanied by adequate silence, likely to
 create the reputation of an invincible understanding, an infinite fund
 of humor—too dry to flow, and probably in a state of immovable
 crust,—and a critical judgment which, if you could ever be fortunate
-enough to know it, would be <I>the</emph> thing and no other. </second> It is a
+enough to know it, would be <emph>the</emph> thing and no other. </second> It is a
 physiognomy seen in all vocations, but perhaps it has never been more
 powerful over the youth of England than in a judge of horses.
 </P>
@@ -3300,12 +3300,12 @@ Rosamond.
 </P>
 
 <P>
-<said who="MrsPlymdale">Why do you say 'poor Rosamond'?</said> said Mrs. Plymdale, a round-eyed
+<said who="#MrsPlymdale">Why do you say 'poor Rosamond'?</said> said Mrs. Plymdale, a round-eyed
 sharp little woman, like a tamed falcon.
 </P>
 
 <P>
-<said who="MrsB">She is so pretty, and has been brought up in such thoughtlessness.
+<said who="#MrsB">She is so pretty, and has been brought up in such thoughtlessness.
 The mother, you know, had always that levity about her, which makes me
 anxious for the children.</said>
 </P>

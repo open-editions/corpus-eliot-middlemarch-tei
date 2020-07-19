@@ -891,8 +891,8 @@ too much preoccupied with unpleasant feelings to think of moving, till
 he observed that his wife had gone to Fred's side and was crying
 silently while she held her darling's hand.  He rose immediately, and
 turning his back on the company while he said to her in an
-undertone,—<said who="MrV"> Don't give way, Lucy; don't make a fool of yourself, my
-dear, before these people,</said> he added in his usual loud voice— <said who="MrV"> Go and
+undertone,—<said who="#MrV"> Don't give way, Lucy; don't make a fool of yourself, my
+dear, before these people,</said> he added in his usual loud voice— <said who="#MrV"> Go and
 order the phaeton, Fred; I have no time to waste.</said>
 </P>
 
@@ -1283,7 +1283,7 @@ feelings.
 </P>
 
 <P>
-<said who="#MrB">Truly, my dear,</said> said Mr. Bulstrode, assentingly.  <said who="#MrB">Those who are not
+<said who="#B">Truly, my dear,</said> said Mr. Bulstrode, assentingly.  <said who="#B">Those who are not
 of this world can do little else to arrest the errors of the
 obstinately worldly.  That is what we must accustom ourselves to
 recognize with regard to your brother's family.  I could have wished
@@ -1894,7 +1894,7 @@ fellow is some loose fish from London.</said>
 </P>
 
 <P>
-<said who="#Hackbutty">His name is Ladislaw.  He is said to be of foreign extraction.</said>
+<said who="#Hackbutt">His name is Ladislaw.  He is said to be of foreign extraction.</said>
 </P>
 
 <P>
@@ -4057,7 +4057,7 @@ turned the threatening needle towards Letty's nose.
 </P>
 
 <P>
-<said who="#Mary">Because this is one of a dozen, and without it there would only be
+<said who="#M">Because this is one of a dozen, and without it there would only be
 eleven,</said> said Mary, with a grave air of explanation, so that Letty sank
 back with a sense of knowledge.
 </P>
@@ -4339,7 +4339,7 @@ home.</said>
 </P>
 
 <P>
-<said who="#MrB">I'm going to be agent for two estates, Freshitt and Tipton; and
+<said who="#MrG">I'm going to be agent for two estates, Freshitt and Tipton; and
 perhaps for a pretty little bit of land in Lowick besides: it's all the
 same family connection, and employment spreads like water if it's once
 set going.  It makes me very happy, Mr. Farebrother"—here Caleb threw
